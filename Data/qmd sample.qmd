@@ -1,10 +1,15 @@
+---
+title: "Untitled"
+format: html
+---
+
 ####my time series####
 #### read me ####
 
 # the purpose of this script is to demonstrate time series exploration, simple ARIMA model fitting, forecasting, and wavelet decomposition. There is also some time series data wrangling. 
 
 #### libraries ####
-
+```{r}
 library(tidyverse)
 library(lubridate)
 library(forecast)
@@ -14,20 +19,19 @@ library(imputeTS)
 library(tseries)
 library(astsa)
 library(WaveletComp)
+```
 
-#### load and filter data ####
 
-# this is stream chemistry, discharge, and precipitation in 4 watersheds in Alaska from summer 2017. Data is collected every 15 min for all variables.
-# note that this means that there are 96 observations per day
+```{r}
 setwd("C:/Users/marag.DESKTOP-NEKBNJE/OneDrive/Desktop/Stakeholder data analysis/test1/Data")
 dat = read.csv("anionsf.csv")
-dat <- read.csv("anionsf.csv", na.strings = c(""," ","NA"))
+dat <- read.csv("anionsf.csv", na.strings = c("."))
 
 #dat<- na.omit(dat)
 
 str(dat)
 # reduce to 3 sites for the purposes of most of this tutorial
-dat = dat[dat$Samplingtype =="Center"| dat$Samplingtype =="River"| dat$Samplingtype =="Ditch",]
+#dat = dat[dat$Samplingtype =="Center"| dat$Samplingtype =="River"| dat$Samplingtype =="Ditch",]
 #dat = dat[dat$SiteName =="Alameda"| dat$SiteName =="Badger"| dat$SiteName =="Savannah",]
 
 #remove time sampling column
@@ -63,18 +67,27 @@ dat$DoPercent  = as.numeric(dat$DoPercent)
 dat$Airtemp   = as.numeric(dat$Airtemp)
 dat$Day   = as.numeric(dat$Day)
 dat$Nitrite  = as.numeric(dat$Nitrite)
+```
+
+
+
+#### load and filter data ####
+
+# this is stream chemistry, discharge, and precipitation in 4 watersheds in Alaska from summer 2017. Data is collected every 15 min for all variables.
+# note that this means that there are 96 observations per day
+
 
 #datS <- select(dat, c("SiteName","Airtemp", "DoPercent", "DOTemp", "Conductivity", "condTemp" ,"pH1" , "Chloride", "Sulfate"))
 #str(datS)
 
-#Means by year for variables
+str(dat)
 
-dat_means <- dat %>%
-  group_by(Year, SiteName) %>%
-  summarize(across
-            Meantemp = mean(Airtemp, na.rm=TRUE))
+# test date formating
+head(dat$Date)
+head(as.POSIXct(dat$Date, format="%m/%d/%y %H:%M", tz="US/Mountain"))
+tail(dat$Date)
+tail(as.POSIXct(dat$Date, format="%m/%d/%y %H:%M", tz="US/Mountain"))
 
-#str(dat_means)
 
 # check that date/time formatted correctly
 class(dat$Date); tz(dat$Date)
@@ -109,12 +122,12 @@ names(Center_Sul_filled_linearinterp) = c(colnames(Center_Sul)[2],colnames(Cente
 
 # fill with spline interpolation
 # Make univariate zoo time series #
-ts.temp<-read.zoo(Center_Sul, index.column=1, format="%Y-%m-%d %H:%M:%S", tz="US/Mountain")
+ts.temp<-read.zoo(Center_Sul, index.column=1, format="%Y-%m-%d %H:%M:%S", tz="America/Anchorage")
 # Apply NA interpolation method
 Center_Sul_filled_splineinterp = na.spline(ts.temp, na.rm = T, maxgap = 1)
 # revert back to df
 Center_Sul_filled_splineinterp = as.data.frame(Center_Sul_filled_splineinterp)
-Center_Sul_filled_splineinterp$DateF = as.POSIXct(row.names(Center_Sul_filled_splineinterp), tz="US/Mountain")
+Center_Sul_filled_splineinterp$Date = as.POSIXct(row.names(Center_Sul_filled_splineinterp), tz="America/Anchorage")
 names(Center_Sul_filled_splineinterp) = c(colnames(Center_Sul)[2],colnames(Center_Sul)[1])
 
 
@@ -122,7 +135,7 @@ names(Center_Sul_filled_splineinterp) = c(colnames(Center_Sul)[2],colnames(Cente
 
 ## fill with arima model + kalman smoother
 # Document gaps  
-largegap.num = 1 # its one day
+largegap.num = 1 # its one month
 is.na.rle <- rle(is.na(Center_Sul$Center))
 is.na.rle$Sulfate <- is.na.rle$Sulfate & is.na.rle$lengths >= (largegap.num)
 biggaps = Center_Sul[inverse.rle(is.na.rle), ]
@@ -141,22 +154,22 @@ for(i in id.na) {
   xts[i]<-fit$model$Z %*% kal$smooth[i,]}
 # revert to dataframe #
 Center_Sul_filled_ARIMA = as.data.frame((xts))
-Center_Sul_filled_ARIMA$DateF = as.POSIXct(row.names(Center_Sul_filled_ARIMA), tz="US/Mountain")
-names(Center_Sul_filled_ARIMA) = c("Sulfate", "DateF")
+Center_Sul_filled_ARIMA$Date = as.POSIXct(row.names(Center_Sul_filled_ARIMA), tz="US/Mountain")
+names(Center_Sul_filled_ARIMA) = c("Sulfate", "Date")
 # remove large gaps # 
 Center_Sul_filled_ARIMA$Sulfate[Center_Sul_filled_ARIMA$Date %in% as.POSIXct(biggaps$Date)] = NA
 
 
 par(mfrow=c(4,1))
-xmin = min(Center_Sul$DateF); xmax = max(Center_Sul$Date)
+xmin = min(Center_Sul$Date); xmax = max(Center_Sul$Date)
 plot(Center_Sul$Center ~ Center_Sul$Date, type="l", main="original", xlim=c(xmin, xmax))
-plot(Center_Sul_filled_linearinterp$Center ~ Center_Sul_filled_linearinterp$DateF, type="l", main="linear interpolation", xlim=c(xmin, xmax))
-plot(Center_Sul_filled_splineinterp$Center ~ Center_Sul_filled_splineinterp$DateF, type="l", main="spline interpolation", xlim=c(xmin, xmax))
-plot(Center_Sul_filled_ARIMA$Center ~ Center_Sul_filled_ARIMA$DateF, type="l", main="ARIMA interpolation", xlim=c(xmin, xmax))
+plot(Center_Sul_filled_linearinterp$Center ~ Center_Sul_filled_linearinterp$Date, type="l", main="linear interpolation", xlim=c(xmin, xmax))
+plot(Center_Sul_filled_splineinterp$Center ~ Center_Sul_filled_splineinterp$Date, type="l", main="spline interpolation", xlim=c(xmin, xmax))
+plot(Center_Sul_filled_ARIMA$Center ~ Center_Sul_filled_ARIMA$Date, type="l", main="ARIMA interpolation", xlim=c(xmin, xmax))
 
 
 par(mfrow=c(4,1))
-xmin = min(Center_Sul$DateF); xmax = as.POSIXct("2011-08-01")
+xmin = min(Center_Sul$Date); xmax = as.POSIXct("2011-08-01")
 ymin= 1; ymax=50
 plot(Center_Sul$Sulfate ~ Center_Sul$Date, type="l", main="original", xlim=c(xmin, xmax), ylim=c(ymin, ymax))
 plot(Center_Sul_filled_linearinterp$Sulfate ~ Center_Sul_filled_linearinterp$Date, type="l", main="linear interpolation", xlim=c(xmin, xmax), ylim=c(ymin, ymax))
@@ -188,10 +201,10 @@ Center_Sul_ts_contig = ts(Center_Sul_ts_contig$Sulfate,
 # aggregate to daily and create time series object
 Center_Sul_daily = Center_Sul_filled_splineinterp %>% 
   mutate(day = as.Date(DateF)) %>%
-  select(day, Sulfate) %>%
+  select(day, Sulfateum) %>%
   group_by(day) %>%
-  summarise(Sulfateum = mean(Sulfate, na.rm = T))
-Center_Sul_daily_xts = xts(Center_Sul_daily$Sulfate, order.by = Center_Sul_daily$day)
+  summarise(Sulfateum = mean(Sulfateum, na.rm = T))
+Center_Sul_daily_xts = xts(Center_Sul_daily$Sulfateum, order.by = Center_Sul_daily$day)
 plot(Center_Sul_daily_xts)
 summary(Center_Sul_daily_xts)
 
@@ -217,7 +230,7 @@ Center_Sul_daily_ts_contig = ts(Center_Sul_daily_ts_contig$nitrate_uM,
 par(mfrow=c(1,1))
 
 # examine acf and pacf for Monthly  data
-Acf(Center_Sul_xts, na.action = na.interp, lag.max = 7 )
+Acf(Center_Sul_xts, na.action = na.interp, lag.max = 7)
 Pacf(Center_Sul_xts, na.action = na.interp, lag.max = 7)
 Acf(Center_Sul_xts, na.action = na.contiguous, lag.max = 7)
 Pacf(Center_Sul_xts, na.action = na.contiguous, lag.max = 7)
@@ -228,7 +241,7 @@ Pacf(Center_Sul_xts, na.action = na.contiguous, lag.max = 7)
 
 # note that trend is not a consistent up to down trend, it's just the time series minus seaosnal pattern + noise
 
-## 1 month data ##
+## 15 min data ##
 # decompose into additive components
 plot(decompose(Center_Sul_ts_contig))
 plot(decompose(na.interp(Center_Sul_ts)))
@@ -469,9 +482,9 @@ plot(fore.Arima)
 # time series should be an ordered dataframe with timesteps in "date" column, data in 2nd column, and no NAs
 for.wavelet = Center_Sul_filled_splineinterp %>%
   na.contiguous() %>%
-  select(DateF, Sulfate)%>%
-  rename(date = DateF, x =Sulfate) %>%
-  arrange(DateF)
+  select(date_timeAK, nitrate_uM_c_bc)%>%
+  rename(date = date_timeAK, x =nitrate_uM_c_bc) %>%
+  arrange(date)
 # check for NAs
 any(is.na(for.wavelet))
 
@@ -487,10 +500,10 @@ Center_Sul_1month_wavelet =
                   dj=1/20, # changes the resolution of the analysis across the frequency domain. default usually works well.
                   lowerPeriod=1/4, #probably no need for less than 0.25 d
                   make.pval=T, n.sim=100,# this should be something like n.sim=100
-                  date.format = "%b-%d", date.tz = "US/Moutain") 
+                  date.format = "%b-%d", date.tz = "America/Anchorage") 
 
 ## Plot of wavelet power spectrum ##
-#?wt.image
+?wt.image
 
 par(mfrow=c(1,1))
 wt.image(Center_Sul_1month_wavelet, 
@@ -504,7 +517,7 @@ wt.image(Center_Sul_1month_wavelet,
          graphics.reset = T)
 
 ## Plot of global wavelet power: ##
-#?wt.avg 
+?wt.avg 
 
 wt.avg(Center_Sul_1month_wavelet,  show.siglvl = TRUE)
 
@@ -517,7 +530,7 @@ wt.image(Center_Sul_1month_wavelet,
          show.date = TRUE, 
          date.format = "%b-%d", 
          legend.params=list(lab="wavelet power levels"), 
-         main="Sulfate 1 mmonth Center samples", 
+         main="Nitrate (15 min) in C2", 
          graphics.reset = F)
 wt.avg(Center_Sul_1month_wavelet,  show.siglvl = TRUE)
 

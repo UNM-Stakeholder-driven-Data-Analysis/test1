@@ -476,3 +476,4 @@ wt.image(C2_no3_15min_wavelet,
          main="Nitrate (15 min) in C2", 
          graphics.reset = F)
 wt.avg(C2_no3_15min_wavelet,  show.siglvl = TRUE)
+

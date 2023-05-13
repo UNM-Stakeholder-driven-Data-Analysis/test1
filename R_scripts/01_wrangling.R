@@ -31,7 +31,9 @@ library(GGally)
 setwd("C:/Users/marag.DESKTOP-NEKBNJE/OneDrive/Desktop/Stakeholder data analysis/test1/Data")
 
 
-dat = read.csv("anions.csv")
+dat = read.csv("anionsf.csv")
+
+dat <- read.csv("anionsf.csv", na.strings = c("."))
 
 #dat<- na.omit(dat)
 
@@ -42,7 +44,11 @@ dat = dat[dat$Site.Name =="Savannah"| dat$Site.Name =="Calabacillas"| dat$Site.N
 str(dat)
 
 # format date/time
-#dat$datetime_NM = as.POSIXct(dat$Sample_DateTime, format="%m/%d/%y %H:%M", tz="MST")
+
+# format date/time: this code worked well to format date
+dat$DateF = as.POSIXct(dat$Date, format="%m/%d/%Y %H:%M", tz="US/Mountain")
+str(dat)
+#dat$datetime_NM = as.POSIXct(dat$Sample_DateTime, format="%m/%d/%y %H:%M", tz="US/Mountain")
 
 # convert characters that should be factors (categories) to factors
 dat$Site.Name = as.factor(dat$Site.Name)
@@ -50,28 +56,32 @@ dat$Sampling.type = as.factor(dat$Sampling.type)
 #dat$Is_Nondetect = as.factor(dat$Is_Nondetect)
 
 # convert water quality data to numeric
-dat$Bromide..mg.L. = as.numeric(dat$Bromide..mg.L.)
-dat$Fluoride..mg.L. = as.numeric(dat$Fluoride..mg.L.)
-dat$NH4.N..mg.L. = as.numeric(dat$NH4.N..mg.L.)
-dat$Sulfate..mg.L. = as.numeric(dat$Sulfate..mg.L.)
-dat$Chloride..mg.L. = as.numeric(dat$Chloride..mg.L.)
-dat$Phosphate.P..mg.L. = as.numeric(dat$Phosphate.P..mg.L.)
-dat$Turbidity..NTU. = as.numeric(dat$Turbidity..NTU.)
-dat$conductivity.Temp...C. = as.numeric(dat$conductivity.Temp...C.)
-dat$Do....  = as.numeric(dat$Do.... )
+dat$Bromide = as.numeric(dat$Bromide)
+dat$Fluoride = as.numeric(dat$Fluoride)
+dat$NH4.N  = as.numeric(dat$NH4.N )
+dat$Sulfate = as.numeric(dat$Sulfate)
+dat$Chloride = as.numeric(dat$Chloride)
+dat$PhosphateP = as.numeric(dat$PhosphateP)
+dat$Turbidity = as.numeric(dat$Turbidity)
+dat$cond.Temp = as.numeric(dat$cond.Temp)
+dat$DO  = as.numeric(dat$DO)
 
-ggpairs(dat)
+dat <- subset(dat, select = -c(Timesampling, Timeofsitearrival, Date, Datecombined ))
+
+str(dat)
+
+
 
 
 #### simple plotting ####
 
 library(ggplot2)
-ggplot(dat = dat, aes(x=Year, y=Sulfate..mg.L.))+
+ggplot(dat = dat, aes(x=DateF , y=Sulfate))+
   geom_point(position = position_jitter(w = 0.5, h = 0.2)) +
   geom_smooth()+
   xlab("year") +
   ylab ("Sulfate")+
-  labs(title = "Sulfate over Months")
+  labs(title = "Sulfate over years")
 print()
 
 #### describe dataset size and structure ####
@@ -79,13 +89,13 @@ print()
 head(dat)
 str(dat)
 
-with(dat, table(Turbidity..NTU., Site.Name ))
+with(dat, table(Sampling.type, Site.Name ))
 
 ### check timesteps by looking and time series of most frequently collected parameters
 # make dataset of one of the most frequently collected parameters
 dat_Trb = 
   dat %>% 
-  group_by(Turbidity..NTU.,) %>% 
+  group_by(Sampling.type) %>% 
   filter(n() > 1) %>% 
   arrange(Year)
 
@@ -125,8 +135,8 @@ str(dat)
 ### How many observations are in your dataset?
 nrow(dat)
 # 12541 total
-with(dat, table(Parameter, Site_Name))
-range(with(dat, table(Parameter, Site_Name)))
+with(dat, table(Sampling.type, Site.Name))
+range(with(dat, table(Sampling.type, Site.Name)))
 # there are a variable # of observations for each water quality parameter in each site, from 0 to 273 total
 
 ### Are the data nested in time or space?
@@ -136,38 +146,60 @@ range(with(dat, table(Parameter, Site_Name)))
 #### describe data types ####
 
 str(dat)
-summary(dat$Parameter)
+summary(dat$Sampling.type)
 # most water quality parameters are numerical continous ratios
 # temp, pH are numerical continous interval
 # I would need to research on how some of these other parameters were measured and what units they're in to decide whether they're ratio or interval - take time to do this for your dataset!
 
 #### check distributions ####
 
-# I'm only going to check the distributions of data with at least 100 obs in each site, as I am unlikely to analyze less frequently gathered data
+# I'm only going to check the distributions of data with at least 30 obs in each site, as I am unlikely to analyze less frequently gathered data
 dat_r = 
   dat %>% 
-  group_by(Parameter, Site_Name) %>% 
-  filter(n() > 100) %>% 
-  arrange(datetime_NM)
-summary(dat_r$Parameter)
+  group_by(Sampling.type, Site.Name) %>% 
+  filter(n() > 30) %>% 
+  arrange(DateF)
+summary(dat_r$Sampling.type)
 library(ggplot2)
-temp = dat_r[dat_r$Parameter == "Alkalinity",]
-qqPlot(temp$Value); shapiro.test(temp$Value) # normal
-qqPlot(temp$Value[temp$Site_Name=='VR-1']); shapiro.test(temp$Value[temp$Site_Name=='VR-1']) # no data
-qqPlot(temp$Value[temp$Site_Name=='VR-2']); shapiro.test(temp$Value[temp$Site_Name=='VR-2']) # normal
-qqPlot(temp$Value[temp$Site_Name=='VR-3']); shapiro.test(temp$Value[temp$Site_Name=='VR-3']) # normal
+temp = dat_r[dat_r$Sampling.type == "Center",]
+qqPlot(temp$sulphate); shapiro.test(temp$sulphate) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Calabacillas']); shapiro.test(temp$sulphate[temp$Site.Name=='Calabacillas']) # no data
+qqPlot(temp$sulphate[temp$Site.Name=='Minnow']); shapiro.test(temp$sulphate[temp$Site.Name=='Minnow']) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Savannah']); shapiro.test(temp$sulphate[temp$Site.Name=='Savannah']) # normal
 
-temp = dat_r[dat_r$Parameter == "Ammonia",]
-qqPlot(temp$Value); shapiro.test(temp$Value) # NOT normal
-qqPlot(temp$Value[temp$Site_Name=='VR-1']); shapiro.test(temp$Value[temp$Site_Name=='VR-1']) # no data
-qqPlot(temp$Value[temp$Site_Name=='VR-2']); shapiro.test(temp$Value[temp$Site_Name=='VR-2']) # NOT normal
-qqPlot(temp$Value[temp$Site_Name=='VR-3']); shapiro.test(temp$Value[temp$Site_Name=='VR-3']) # NOT normal
+temp = dat_r[dat_r$Sampling.type == "East",]
+qqPlot(temp$sulphate); shapiro.test(temp$sulphate) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Calabacillas']); shapiro.test(temp$sulphate[temp$Site.Name=='Calabacillas']) # no data
+qqPlot(temp$sulphate[temp$Site.Name=='Minnow']); shapiro.test(temp$sulphate[temp$Site.Name=='Minnow']) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Savannah']); shapiro.test(temp$sulphate[temp$Site.Name=='Savannah']) # normal
 
-temp = dat_r[dat_r$Parameter == "Bicarbonate",]
-qqPlot(temp$Value); shapiro.test(temp$Value) # normal
-qqPlot(temp$Value[temp$Site_Name=='VR-1']); shapiro.test(temp$Value[temp$Site_Name=='VR-1']) # no data
-qqPlot(temp$Value[temp$Site_Name=='VR-2']); shapiro.test(temp$Value[temp$Site_Name=='VR-2']) # normal
-qqPlot(temp$Value[temp$Site_Name=='VR-3']); shapiro.test(temp$Value[temp$Site_Name=='VR-2']) # normal
+temp = dat_r[dat_r$Sampling.type == "South",]
+qqPlot(temp$sulphate); shapiro.test(temp$sulphate) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Calabacillas']); shapiro.test(temp$sulphate[temp$Site.Name=='Calabacillas']) # no data
+qqPlot(temp$sulphate[temp$Site.Name=='Minnow']); shapiro.test(temp$sulphate[temp$Site.Name=='Minnow']) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Savannah']); shapiro.test(temp$sulphate[temp$Site.Name=='Savannah']) # normal
+
+temp = dat_r[dat_r$Sampling.type == "North",]
+qqPlot(temp$sulphate); shapiro.test(temp$sulphate) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Calabacillas']); shapiro.test(temp$sulphate[temp$Site.Name=='Calabacillas']) # no data
+qqPlot(temp$sulphate[temp$Site.Name=='Minnow']); shapiro.test(temp$sulphate[temp$Site.Name=='Minnow']) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Savannah']); shapiro.test(temp$sulphate[temp$Site.Name=='Savannah']) # normal
+
+
+temp = dat_r[dat_r$Sampling.type == "River",]
+qqPlot(temp$sulphate); shapiro.test(temp$sulphate) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Calabacillas']); shapiro.test(temp$sulphate[temp$Site.Name=='Calabacillas']) # no data
+qqPlot(temp$sulphate[temp$Site.Name=='Minnow']); shapiro.test(temp$sulphate[temp$Site.Name=='Minnow']) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Savannah']); shapiro.test(temp$sulphate[temp$Site.Name=='Savannah']) # normal
+
+
+temp = dat_r[dat_r$Sampling.type == "Ditch",]
+qqPlot(temp$sulphate); shapiro.test(temp$sulphate) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Calabacillas']); shapiro.test(temp$sulphate[temp$Site.Name=='Calabacillas']) # no data
+qqPlot(temp$sulphate[temp$Site.Name=='Minnow']); shapiro.test(temp$sulphate[temp$Site.Name=='Minnow']) # normal
+qqPlot(temp$sulphate[temp$Site.Name=='Savannah']); shapiro.test(temp$sulphate[temp$Site.Name=='Savannah']) # normal
+
+
 
 # etc........ for the rest of the parameters that I think I'll use in this analysis
 
@@ -177,34 +209,34 @@ qqPlot(temp$Value[temp$Site_Name=='VR-3']); shapiro.test(temp$Value[temp$Site_Na
 # can I justify removing outliers based on my knowledge of the data?
 # if data is still non-normal, what distribution is it?
 
-temp = dat_r[dat_r$Parameter == "Ammonia",]
-summary(temp$Value)
-hist(temp$Value)
-plot(density(temp$Value))
-# this data has 1 an extreme negative outlier. Ammonia values cannot be negative, so this is an error. I will remove it in the main datasets an re-check the data's normality
-dat$Value[dat$Parameter=="Ammonia" & dat$Value<0] = NA # rplace it in main dataset
-dat_r$Value[dat_r$Parameter=="Ammonia" & dat_r$Value<0] = NA # replace it in reduced dataset
-temp = dat_r[dat_r$Parameter == "Ammonia",]
-qqPlot(temp$Value); shapiro.test(temp$Value)
+temp = dat_r[dat_r$Sampling.type == "Center",]
+summary(temp$Sulfate)
+hist(temp$Sulfate)
+plot(density(temp$Sulfate))
+# this data has 1 an extreme negative outlier. Ammonia Sulfates cannot be negative, so this is an error. I will remove it in the main datasets an re-check the data's normality
+dat$Sulfate[dat$Sampling.type == "Center" & dat$Sulfate<0] = NA # rplace it in main dataset
+dat_r$Sulfate[dat_r$Sampling.type == "Center" & dat_r$Sulfate<0] = NA # replace it in reduced dataset
+temp = dat_r[dat_r$Sampling.type == "Center",]
+qqPlot(temp$Sulfate); shapiro.test(temp$Sulfate)
 # there is now a high outlier to examine
-temp = dat_r[dat_r$Parameter == "Ammonia",]
-summary(temp$Value)
-hist(temp$Value)
-plot(density(temp$Value, na.rm = T))
-# this data has 1 an extreme positive outlier. Ammonia values do not get this high in natural conditions. This is coal data so maybe it isn't natural, but even still, we'd expect to see more than one point if this were not an error. I will remove it in the main datasets an re-check the data's normality
-dat$Value[dat$Parameter=="Ammonia" & dat$Value>11] = NA # rplace it in main dataset
-dat_r$Value[dat_r$Parameter=="Ammonia" & dat_r$Value>11] = NA # replace it in reduced dataset
-temp = dat_r[dat_r$Parameter == "Ammonia",]
-qqPlot(temp$Value); shapiro.test(temp$Value)
-hist(temp$Value)
-plot(density(temp$Value, na.rm = T))
-range(temp$Value, na.rm = T)
+temp = dat_r[dat_r$Sampling.type == "Center",]
+summary(temp$Sulfate)
+hist(temp$Sulfate)
+plot(density(temp$Sulfate, na.rm = T))
+# this data has 1 an extreme positive outlier.  Sulfates do not get this high in natural conditions. This is coal data so maybe it isn't natural, but even still, we'd expect to see more than one point if this were not an error. I will remove it in the main datasets an re-check the data's normality
+dat$Sulfate[dat$Sampling.type == "Center" & dat$Sulfate<11] = NA # rplace it in main dataset
+dat_r$Sulfate[dat_r$Sampling.type == "Center" & dat_r$Sulfate>11] = NA # replace it in reduced dataset
+temp = dat_r[dat_r$Sampling.type == "Center",]
+qqPlot(temp$Sulfate); shapiro.test(temp$Sulfate)
+hist(temp$Sulfate)
+plot(density(temp$Sulfate, na.rm = T))
+range(temp$Sulfate, na.rm = T)
 # still not normal!
 # this looks like a lognormal, Gamma, or Weibull distribution
 # it is bounded above zero and is right-skewed
 # what happens if I log-transform it?
-temp = dat_r[dat_r$Parameter == "Ammonia",]
-qqPlot(log10(temp$Value)); shapiro.test(log10(temp$Value))
+temp = dat_r[dat_r$Sampling.type == "Center",]
+qqPlot(log10(temp$Sulfate)); shapiro.test(log10(temp$Sulfate))
 
 # a log10 transformation did the trick! That tells me that it is lognormal. I will note in my report that a log10 transformation is a possible option if my models don't meet assumptions.
 # Also note the stair-steps in the data at lower values. This could result from detection limits where the low value was replaced with a standard value. It shouldn't be a huge problem, but it is worth noting as a thing to investigate if the analyses don't turn out well. 
@@ -314,7 +346,7 @@ forecast::Pacf(temp_ts, na.action = na.interp)
 
 # reload and format data with all sites
 dat_all = read.csv("Week 5/coal_WQ.csv")
-dat_all$datetime_NM = as.POSIXct(dat_all$Sample_DateTime, format="%m/%d/%y %H:%M", tz="MST")
+dat_all$datetime_NM = as.POSIXct(dat_all$Sample_DateTime, format="%m/%d/%y %H:%M", tz="US/Mountain")
 dat_all$Parameter = as.factor(dat_all$Parameter)
 dat_all$Site_Name = as.factor(dat_all$Site_Name)
 dat_all$Is_Nondetect = as.factor(dat_all$Is_Nondetect)
