@@ -34,8 +34,10 @@ dat <- read.csv("anionsf.csv", na.strings = c("."))
 
 str(dat)
 # reduce to 3 sites for the purposes of most of this tutorial
-dat = dat[dat$Samplingtype =="Center"| dat$Samplingtype =="River"| dat$Samplingtype =="Ditch",]
-dat = dat[dat$SiteName =="Alameda"| dat$SiteName =="Badger"| dat$SiteName =="Harrison",]
+#dat = dat[dat$Samplingtype =="Center"| dat$Samplingtype =="River"| dat$Samplingtype =="Ditch",]
+dat = dat[dat$Samplingtype =="River"| dat$Samplingtype =="Ditch"| dat$Samplingtype =="Center",]
+#dat = dat[dat$SiteName =="Alameda"| dat$SiteName =="Badger"| dat$SiteName =="Harrison",]
+
 
 #remove time sampling column
 dat <- select(dat, - c("Timesampling", "Timeofsitearrival"))
@@ -79,15 +81,51 @@ dat$Nitrite  = as.numeric(dat$Nitrite)
 
 str(dat)
 
-#### simple plotting ####
+#try filtering for one site
+dat = dat[dat$SiteName =="Bobcat"| dat$SiteName =="Badger"| dat$SiteName =="Savannah" |dat$SiteName =="Harrison" | dat$SiteName =="Belen",]
 
+
+#### simple plotting basic time series ####
+#sulfate
 library(ggplot2)
-ggplot(dat = dat, aes(x=Year, y= Sulfate))+
+ggplot(dat = dat, aes(x=Year, y= Sulfate, color = SiteName))+
   geom_point(position = position_jitter(w = 0.5, h = 0.2)) +
   geom_smooth()+
   xlab("year") +
   ylab ("Sulphate")+
   labs(title = "Sulphate over years")
+print()
+
+
+#chloride
+library(ggplot2)
+ggplot(dat = dat, aes(x=Year, y= Chloride, color = SiteName))+
+  geom_point(position = position_jitter(w = 0.5, h = 0.2)) +
+  geom_smooth()+
+  xlab("year") +
+  ylab ("chloride")+
+  labs(title = "chloride over years")
+print()
+
+#phosphate
+library(ggplot2)
+ggplot(dat = dat, aes(x=Year, y= PhosphateP, color = SiteName))+
+  geom_point(position = position_jitter(w = 0.5, h = 0.2)) +
+  geom_smooth()+
+  xlab("year") +
+  ylab ("phosphate")+
+  labs(title = "phosphate over years")
+print()
+
+
+#Nh4n
+library(ggplot2)
+ggplot(dat = dat, aes(x=Year, y= NH4N, color = SiteName))+
+  geom_point(position = position_jitter(w = 0.5, h = 0.2)) +
+  geom_smooth()+
+  xlab("year") +
+  ylab ("NH4N")+
+  labs(title = "NH4N over years")
 print()
 
 #### describe dataset size and structure ####
@@ -138,8 +176,8 @@ str(dat)
 
 ### How many observations are in your dataset?
 nrow(dat)
-# 131 total
-with(dat, table(Samplingtype , SiteName))
+# 261 total
+with(dat, table(Samplingtype , SiteName))# Select sites with enough sampling types
 range(with(dat, table(Samplingtype , SiteName)))
 # there are a variable # of observations for each water quality parameter in each site, from 0 to 21 total
 
@@ -152,8 +190,6 @@ range(with(dat, table(Samplingtype , SiteName)))
 str(dat)
 summary(dat$Samplingtype)
 # most water quality parameters are numerical continous ratios
-# temp, pH are numerical continous interval
-# I would need to research on how some of these other parameters were measured and what units they're in to decide whether they're ratio or interval - take time to do this for your dataset!
 
 #### check distributions ####
 
@@ -167,20 +203,20 @@ summary(dat_r$Samplingtype)
 library(ggplot2)
 temp = dat_r[dat_r$Samplingtype == "Center",]
 qqPlot(temp$Sulfate); shapiro.test(temp$Sulfate) # normal
-qqPlot(temp$Sulfate[temp$SiteName=='Alameda']); shapiro.test(temp$Sulfate[temp$SiteName=='Alameda']) # not showing, few outliers 10 and 7
+qqPlot(temp$Sulfate[temp$SiteName=='Bobcat']); shapiro.test(temp$Sulfate[temp$SiteName=='Bobcat']) # normal,few outliers 10 and 7
 qqPlot(temp$Sulfate[temp$SiteName=='Badger']); shapiro.test(temp$Sulfate[temp$SiteName=='Badger']) # normal
 qqPlot(temp$Sulfate[temp$SiteName=='Harrison']); shapiro.test(temp$Sulfate[temp$SiteName=='Harrison']) # normal
 
 temp = dat_r[dat_r$Samplingtype == "Ditch",]
 qqPlot(temp$Sulfate); shapiro.test(temp$Sulfate) # normal
-qqPlot(temp$Sulfate[temp$SiteName=='Alameda']); shapiro.test(temp$Sulfate[temp$SiteName=='Alameda']) # not showing, few outliers 10 and 7
+qqPlot(temp$Sulfate[temp$SiteName=='Bobcat']); shapiro.test(temp$Sulfate[temp$SiteName=='Bobcat']) # normal 
 qqPlot(temp$Sulfate[temp$SiteName=='Badger']); shapiro.test(temp$Sulfate[temp$SiteName=='Badger']) # normal
 qqPlot(temp$Sulfate[temp$SiteName=='Harrison']); shapiro.test(temp$Sulfate[temp$SiteName=='Harrison']) # normal
 
 
 temp = dat_r[dat_r$Samplingtype == "River",]
 qqPlot(temp$Sulfate); shapiro.test(temp$Sulfate) # normal
-qqPlot(temp$Sulfate[temp$SiteName=='Alameda']); shapiro.test(temp$Sulfate[temp$SiteName=='Alameda']) # not showing, few outliers 10 and 7
+qqPlot(temp$Sulfate[temp$SiteName=='Bobcat']); shapiro.test(temp$Sulfate[temp$SiteName=='Bobcat']) # not showing, few outliers 10 and 7
 qqPlot(temp$Sulfate[temp$SiteName=='Badger']); shapiro.test(temp$Sulfate[temp$SiteName=='Badger']) # normal
 qqPlot(temp$Sulfate[temp$SiteName=='Harrison']); shapiro.test(temp$Sulfate[temp$SiteName=='Harrison']) # normal
 
@@ -215,7 +251,7 @@ plot(density(temp$Bromide, na.rm = T))
 # this data has 1 an extreme positive outlier. Center Bromides do not get this high in natural conditions. This is coal data so maybe it isn't natural, but even still, we'd expect to see more than one point if this were not an error. I will remove it in the main datasets an re-check the data's normality
 dat$Bromide[dat$Sampling.type=="Center" & dat$Bromide>11] = NA # rplace it in main dataset
 dat_r$Bromide[dat_r$Sampling.type=="Center" & dat_r$Bromide>11] = NA # replace it in reduced dataset
-temp = dat_r[dat_r$Sampling.type == "Center",]
+temp = dat_r[dat_r$Samplingtype == "Center",]
 qqPlot(temp$Bromide); shapiro.test(temp$Bromide)
 hist(temp$Bromide)
 plot(density(temp$Bromide, na.rm = T))
@@ -227,9 +263,6 @@ range(temp$Bromide, na.rm = T)
 # what happens if I log-transform it?
 temp = dat_r[dat_r$Samplingtype == "Center",]
 qqPlot(log10(temp$Bromide)); shapiro.test(log10(temp$Bromide))
-
-# a log10 transformation did the trick! That tells me that it is lognormal. I will note in my report that a log10 transformation is a possible option if my models don't meet assumptions.
-# Also note the stair-steps in the data at lower values. This could result from detection limits where the low value was replaced with a standard value. It shouldn't be a huge problem, but it is worth noting as a thing to investigate if the analyses don't turn out well. 
 
 
 #### check for temporal autocorrelation ####
@@ -261,9 +294,9 @@ dat_monthly =
   mutate(date = as.Date(date))
 
 
-#### Sulfate in Alameda center
+#### Sulfate in Bobcat center
 ### subset data to be one site and one sampling ty[e]
-temp = dat_monthly[dat_monthly$Samplingtype == "Center" & dat_monthly$SiteName=="Alameda" ,]
+temp = dat_monthly[dat_monthly$Samplingtype == "Center" & dat_monthly$SiteName=="Bobcat" ,]
 ### make this a time series object
 ## first, make doubly sure that the data is arranged by time before converting to ts object!
 temp = temp %>% arrange(DateF) 
@@ -300,7 +333,7 @@ forecast::Pacf(temp_ts, na.action = na.interp)
 
 #### Sulphate in VR-3
 ### subset data to be one site and one parameter
-temp = dat_monthly[dat_monthly$Samplingtype == "River" & dat_monthly$SiteName=="Alameda" ,]
+temp = dat_monthly[dat_monthly$Samplingtype == "River" & dat_monthly$SiteName=="Bobcat" ,]
 ### make this a time series object
 ## first, make doubly sure that the data is arranged by time before converting to ts object!
 temp = temp %>% arrange(date) 
@@ -343,7 +376,7 @@ forecast::Pacf(temp_ts, na.action = na.interp)
 # reload and format data with all sites
 dat_all <- dat
 
-dat_all = read.csv("anionsf")
+#dat_all = read.csv("anionsf")
 dat_all$Datecombined = as.POSIXct(dat_all$Datecombined, format="%m/%d/%Y", tz="US/Mountain")
 dat_all$Sampling.type = as.factor(dat_all$Samplingtype)
 dat_all$Site.Name = as.factor(dat_all$SiteName)
@@ -436,11 +469,31 @@ tab[abs(tab)<0.4] = "no_corr"
 
 datfiltered <-
   dat %>%
-  filter(SiteName %in% c("Alameda", "Badger", "Belen")) %>%
+  filter(SiteName %in% c("Badger","Belen","Bobcat","Harrison","Savannah")) %>%
   mutate(SiteName = factor(SiteName)) %>%
   filter(Chloride > 0) %>%
-  filter(Sulfate >0) %>%
-  filter(PhosphateP >0)
+  filter(Sulfate>0 ) %>%
+  filter(PhosphateP >0) %>% 
+  filter(NH4N >0)
+
+
+
+library(ggplot2)
+p <- ggplot(datfiltered %>% filter(Sulfate < 150), aes(x = Date, y = Sulfate))
+p <- p + theme_bw()
+#p <- p + geom_point(alpha = 1/10)
+p <- p + geom_jitter(width = 0.25, height = 5, alpha = 1/10)
+p <- p + geom_smooth()
+p <- p + stat_smooth(method = lm, colour = "red")
+p <- p + labs(
+  title = "Sulfate over time"
+  #, x = "Date"
+  , y = "Sulfate_mg/l "
+  , caption = "Sulfate over years"
+)
+
+print(p)
+
 
 str(datfiltered)
 
@@ -457,4 +510,5 @@ datfiltered %>%
 Siteanions <- lm(Sulfate ~ SiteName + Samplingtype, data = datfiltered, na.action=na.omit)
 # check assumptions
 plot(Siteanions)
+
 

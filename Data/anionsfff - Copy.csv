@@ -1,0 +1,1947 @@
+Sampling_type,SiteName,siteID,site_group,SiteID,site_num,Fluoride,Chloride,Nitrite,Bromide,NitrateN,PhosphateP,Sulfate,NH4N
+Center,Alameda,Al_1,Al,Alameda_1,1,.,11.12,.,0.06,0.13,0.02,45.36,0.01
+Ditch,Alameda,Al_2,Al,Alameda_2,2,.,10.63,.,0.05,0.04,0.01,54.14,0.01
+East,Alameda,Al_3,Al,Alameda_3,3,.,11.93,.,0.05,0.06,0.08,47.94,0.01
+North,Alameda,Al_4,Al,Alameda_4,4,.,.,.,.,.,.,.,.
+River,Alameda,Al_5,Al,Alameda_5,5,.,10.62,.,0.04,0.12,0.03,41.7,0.01
+South,Alameda,Al_6,Al,Alameda_6,6,.,11.85,.,0.05,0.02,0.05,46.2,0.07
+West,Alameda,Al_7,Al,Alameda_7,7,.,9.86,.,0.05,0.07,0.02,44.12,0.01
+Center,Alameda,Al_8,Al,Alameda_8,8,.,13.54,.,0.05,0.11,0.03,45.31,0.02
+Ditch,Alameda,Al_9,Al,Alameda_9,9,.,14.41,.,0.06,0.08,0.02,49.27,0.05
+East,Alameda,Al_10,Al,Alameda_10,10,.,.,.,.,.,.,.,.
+North,Alameda,Al_11,Al,Alameda_11,11,.,13.15,.,0.06,0.13,0.05,44.38,0.01
+River,Alameda,Al_12,Al,Alameda_12,12,.,15,.,0.05,0.04,0.04,43.75,0.03
+South,Alameda,Al_13,Al,Alameda_13,13,.,.,.,.,.,.,.,.
+West,Alameda,Al_14,Al,Alameda_14,14,.,13.11,.,0.06,0.08,0.04,44.32,0.01
+Center,Alameda,Al_15,Al,Alameda_15,15,.,6.36,.,0.04,0.11,0.06,37.93,0
+East,Alameda,Al_16,Al,Alameda_16,16,.,7.22,.,0.04,0.07,0.05,37.03,0.01
+South,Alameda,Al_17,Al,Alameda_17,17,.,8.66,.,0.06,0.08,0.03,46.48,0.01
+North,Alameda,Al_18,Al,Alameda_18,18,.,3.9,.,0.04,0.1,0.07,18.09,0.03
+River,Alameda,Al_19,Al,Alameda_19,19,.,5.96,.,0.04,0.1,0.04,40.74,0.02
+West,Alameda,Al_20,Al,Alameda_20,20,.,4.46,.,0.02,0.08,0.01,29.06,0.02
+Center,Alameda,Al_21,Al,Alameda_21,21,.,14.25,.,0.05,0.03,0.02,104.76,0
+East,Alameda,Al_22,Al,Alameda_22,22,.,14.48,.,0.07,0.02,0.02,95.72,0
+North,Alameda,Al_23,Al,Alameda_23,23,.,15.89,.,0.06,0.04,0.01,130.61,0
+River,Alameda,Al_24,Al,Alameda_24,24,.,12.04,.,0.03,0.25,0.03,43.93,0.06
+South,Alameda,Al_25,Al,Alameda_25,25,.,17.03,.,0.07,0.02,0.02,111.86,0
+West,Alameda,Al_26,Al,Alameda_26,26,.,11.05,.,0.05,0.04,0.03,85.75,0
+Center,Alameda,Al_27,Al,Alameda_27,27,.,10.43,.,0.04,0.13,0.02,33.93,0
+East,Alameda,Al_28,Al,Alameda_28,28,.,11.6,.,0.05,0.02,0.01,54.3,0
+North,Alameda,Al_29,Al,Alameda_29,29,.,11.15,.,0.04,0.11,0.03,36.24,0
+River,Alameda,Al_30,Al,Alameda_30,30,.,8.15,.,0.03,0.09,0.02,32.91,0.02
+South,Alameda,Al_31,Al,Alameda_31,31,.,10.6,.,0.05,0.04,0.02,37.5,0
+West,Alameda,Al_32,Al,Alameda_32,32,.,8.39,.,0.03,0.07,0.01,33.51,0
+East,Alameda,Al_33,Al,Alameda_33,33,.,18.51,.,0.06,0.05,0.02,50.83,0.01
+North,Alameda,Al_34,Al,Alameda_34,34,.,21.63,.,0.07,0.17,0.03,51.55,0.01
+River,Alameda,Al_35,Al,Alameda_35,35,.,15.11,.,0.07,0.1,0.02,43.4,0.02
+South,Alameda,Al_36,Al,Alameda_36,36,.,17.5,.,0.06,0.11,0.02,49.3,0.01
+Center,Alameda,Al_37,Al,Alameda_37,37,.,19.44,.,0.08,0.16,0.04,50.17,0.01
+West,Alameda,Al_38,Al,Alameda_38,38,.,16.71,.,0.08,0.13,0.02,47.45,0.01
+Center,Alameda,Al_39,Al,Alameda_39,39,.,6.03,.,0.02,0.1,0.02,25.74,0
+East,Alameda,Al_40,Al,Alameda_40,40,.,9.54,.,0.05,0.06,0.02,47.72,0
+North,Alameda,Al_41,Al,Alameda_41,41,.,10.61,.,0.08,0.16,0.01,48.77,0
+River,Alameda,Al_42,Al,Alameda_42,42,.,9.08,.,0.04,0.06,0.02,45.88,0
+South,Alameda,Al_43,Al,Alameda_43,43,.,10.5,.,0.04,0.13,0.02,50.38,0
+West,Alameda,Al_44,Al,Alameda_44,44,.,10.38,.,0.05,0.1,0.04,48.24,0
+Center,Alameda,Al_45,Al,Alameda_45,45,.,4.36,.,0.03,0.08,0.04,34.11,0.01
+East,Alameda,Al_46,Al,Alameda_46,46,.,3.65,.,0.04,0.02,0.04,32.55,0
+North,Alameda,Al_47,Al,Alameda_47,47,.,4.29,.,0.03,0.08,0.03,34.27,0.01
+River,Alameda,Al_48,Al,Alameda_48,48,.,9.01,.,0.04,0.07,0,39.19,0.02
+South,Alameda,Al_49,Al,Alameda_49,49,.,4.13,.,0.03,0.01,0.02,33.94,0.01
+West,Alameda,Al_50,Al,Alameda_50,50,.,4.68,.,0.04,0.07,0.03,34.99,0
+Center,Alameda,Al_51,Al,Alameda_51,51,.,9.86,.,0.02,0.17,0.05,41.39,0
+East,Alameda,Al_52,Al,Alameda_52,52,.,9.25,.,0.05,0.1,0.07,42.82,0
+North,Alameda,Al_53,Al,Alameda_53,53,.,10.01,.,0.01,0.24,0.01,42.14,0
+River,Alameda,Al_54,Al,Alameda_54,54,.,9.99,.,0.05,0.06,0.01,47.95,0
+South,Alameda,Al_55,Al,Alameda_55,55,.,9.37,.,0.03,0.16,0.03,42.79,0
+West,Alameda,Al_56,Al,Alameda_56,56,.,9.36,.,0.04,0.15,0.04,42.01,0
+Center,Badger,Bg_1,Bg,Badger_1,1,,10.69,,0.05,0.08,0.01,42.6,0.01
+East,Badger,Bg_2,Bg,Badger_2,2,,10.76,,0.05,0.1,0.03,42.04,0.01
+North,Badger,Bg_3,Bg,Badger_3,3,,9.66,,0.05,0.14,0.1,41.74,0.01
+South,Badger,Bg_4,Bg,Badger_4,4,,10.5,,0.05,0.13,0.02,43.51,0.02
+West,Badger,Bg_5,Bg,Badger_5,5,.,9.8,.,0.05,0.03,0.08,41.64,0.03
+Center,Badger,Bg_6,Bg,Badger_6,6,.,13.9,.,0.05,0.07,0.03,44.97,0
+East,Badger,Bg_7,Bg,Badger_7,7,.,12.75,.,0.04,0.06,0.02,45.48,0.01
+North,Badger,Bg_8,Bg,Badger_8,8,.,13.76,.,0.05,0.16,0,43.4,0
+River,Badger,Bg_9,Bg,Badger_9,9,.,16.65,.,0.06,0.03,0.01,44.02,0.04
+South,Badger,Bg_10,Bg,Badger_10,10,.,13.62,.,0.06,0.09,0.04,45.9,0.01
+West,Badger,Bg_11,Bg,Badger_11,11,.,13.27,.,0.05,0.11,0.03,44.24,0.02
+Center,Badger,Bg_12,Bg,Badger_12,12,.,6.56,.,0.04,0.1,0.05,39.17,0.03
+Ditch,Badger,Bg_13,Bg,Badger_13,13,.,9.51,.,0.04,0.06,0.03,44.8,0.07
+East,Badger,Bg_14,Bg,Badger_14,14,.,6.95,.,0.07,0.1,0.05,39.84,0.02
+North,Badger,Bg_15,Bg,Badger_15,15,.,5.68,.,0.05,0.14,0.03,39.84,0.01
+River,Badger,Bg_16,Bg,Badger_16,16,.,5.22,.,0.01,0.06,0.02,40.73,0.03
+South,Badger,Bg_17,Bg,Badger_17,17,.,6.83,.,0.03,0.13,0.03,41.09,0.01
+West,Badger,Bg_18,Bg,Badger_18,18,.,5.93,.,0.03,0.04,0.04,39.15,0.03
+Center,Badger,Bg_19,Bg,Badger_19,19,.,15.86,.,0.07,0.02,0.02,110.77,0
+Ditch,Badger,Bg_20,Bg,Badger_20,20,.,13.88,.,0.05,0.09,0.02,70.76,0.01
+East,Badger,Bg_21,Bg,Badger_21,21,.,14.62,.,0.06,0.02,0.02,79.37,0
+North,Badger,Bg_22,Bg,Badger_22,22,.,9.94,.,0.04,0.12,0.03,67.83,0
+River,Badger,Bg_23,Bg,Badger_23,23,.,11.07,.,0.04,0.29,0.04,67.04,0
+South,Badger,Bg_24,Bg,Badger_24,24,.,15.72,.,0.09,0.02,0.01,111.79,0
+West,Badger,Bg_25,Bg,Badger_25,25,.,11.35,.,0.06,0.01,0.02,86.97,0
+Center,Badger,Bg_26,Bg,Badger_26,26,.,11.02,.,0.06,0.09,0.06,34.6,0
+Ditch,Badger,Bg_27,Bg,Badger_27,27,.,13.86,.,0.07,0.04,0.02,61.72,0.01
+East,Badger,Bg_28,Bg,Badger_28,28,.,11.06,.,0.06,0.02,0.07,46.83,0
+North,Badger,Bg_29,Bg,Badger_29,29,.,9,.,0,0.13,0.06,31.37,0.01
+River,Badger,Bg_30,Bg,Badger_30,30,.,7.48,.,0.03,0.07,0.04,30.59,0.02
+South,Badger,Bg_31,Bg,Badger_31,31,.,11.05,.,0.05,0.08,0.04,37.88,0
+West,Badger,Bg_32,Bg,Badger_32,32,.,7.95,.,0.05,0.04,0.06,31.45,0.01
+Center,Badger,Bg_33,Bg,Badger_33,33,.,25.67,.,0.1,0.12,0.03,50.26,0.01
+Ditch,Badger,Bg_34,Bg,Badger_34,34,.,17.6,.,0.07,0.07,0.02,52.95,0.02
+East,Badger,Bg_35,Bg,Badger_35,35,.,18.78,.,0.07,0.11,0.04,50.67,0.01
+North,Badger,Bg_36,Bg,Badger_36,36,.,18.94,.,0.08,0.17,0.04,49.68,0.01
+River,Badger,Bg_37,Bg,Badger_37,37,.,15.2,.,0.07,0.1,0.02,44.51,0.04
+South,Badger,Bg_38,Bg,Badger_38,38,.,20.27,.,0.06,0.09,0.02,51.58,0.01
+West,Badger,Bg_39,Bg,Badger_39,39,.,21.01,.,0.01,0.08,0.03,48.52,0.02
+Center,Badger,Bg_40,Bg,Badger_40,40,.,9.2,.,1.89,0.1,0.02,43.6,0
+Ditch,Badger,Bg_41,Bg,Badger_41,41,.,11.25,.,1.44,0.04,0.05,56.46,0
+East,Badger,Bg_42,Bg,Badger_42,42,.,8.22,.,1.27,0.09,0.02,39.2,0.01
+North,Badger,Bg_43,Bg,Badger_43,43,.,11.59,.,2.02,0.14,0.09,52.99,0.01
+River,Badger,Bg_44,Bg,Badger_44,44,.,9.79,.,1.4,0.05,0.02,47.76,0
+South,Badger,Bg_45,Bg,Badger_45,45,.,9.22,.,1.87,0.15,0.02,46.26,0
+West,Badger,Bg_46,Bg,Badger_46,46,.,9.58,.,1.59,0.04,0.11,55.32,0
+Center,Badger,Bg_47,Bg,Badger_47,47,.,5.38,.,0.04,0.08,0.02,38.15,0.02
+Ditch,Badger,Bg_48,Bg,Badger_48,48,.,5.58,.,0.04,0.04,0.02,39.2,0.02
+East,Badger,Bg_49,Bg,Badger_49,49,.,4.12,.,0.01,0.07,0.03,36.89,0
+North,Badger,Bg_50,Bg,Badger_50,50,.,4.75,.,0.02,0,0.02,34.99,0
+River,Badger,Bg_51,Bg,Badger_51,51,.,5,.,0.03,0.13,0.04,34.14,0.03
+South,Badger,Bg_52,Bg,Badger_52,52,.,4.26,.,0.04,0.07,0.03,33.86,0
+West,Badger,Bg_53,Bg,Badger_53,53,.,4.85,.,0.03,0.01,0.02,35.1,0.02
+Center,Badger,Bg_54,Bg,Badger_54,54,.,10.63,.,0.07,0.05,0.03,42.29,0
+Ditch,Badger,Bg_55,Bg,Badger_55,55,.,8.83,.,0.03,0.07,0.01,48.73,0
+North,Badger,Bg_56,Bg,Badger_56,56,.,9.07,.,0.02,0.18,0.06,42.26,0
+River,Badger,Bg_57,Bg,Badger_57,57,.,11.99,.,0.04,0.06,0.01,47.95,0
+South,Badger,Bg_58,Bg,Badger_58,58,.,9.96,.,0.05,0.17,0.03,41.1,0
+West,Badger,Bg_59,Bg,Badger_59,59,.,10.57,.,0.08,0.03,0.04,37.09,0.02
+East,Badger,Bg_60,Bg,Badger_60,60,.,9.85,.,0.08,0.12,0.04,40.75,0
+Center,Badger,Bg_61,Bg,Badger_61,61,.,4.31,.,0.01,0.12,0.02,29.36,0.01
+Ditch,Badger,Bg_62,Bg,Badger_62,62,.,10.02,.,0.03,0.13,0.03,43.76,0.03
+East,Badger,Bg_63,Bg,Badger_63,63,.,7.52,.,0.02,0.03,0.01,36.01,0
+North,Badger,Bg_64,Bg,Badger_64,64,.,3.79,.,0,0.2,0.02,29.96,0
+River,Badger,Bg_65,Bg,Badger_65,65,.,3.31,.,0.01,0.1,0.02,28.61,0.04
+South,Badger,Bg_66,Bg,Badger_66,66,.,5.79,.,0.02,0.05,0.02,32.44,0
+West,Badger,Bg_67,Bg,Badger_67,67,.,4.35,.,0.02,0.02,0.02,33.83,0.02
+Center,Badger,Bg_68,Bg,Badger_68,68,.,3.67,.,0.01,0.13,0.01,32.28,0.01
+Ditch,Badger,Bg_69,Bg,Badger_69,69,.,7.19,.,0.02,0.12,0.03,44.9,0.02
+East,Badger,Bg_70,Bg,Badger_70,70,.,4.03,.,0.02,0.1,0.02,31.84,0
+North,Badger,Bg_71,Bg,Badger_71,71,.,4.38,.,0.01,0.23,0.01,39.43,0
+River,Badger,Bg_72,Bg,Badger_72,72,.,4.27,.,0.01,0.15,0.03,48.73,0.03
+South,Badger,Bg_73,Bg,Badger_73,73,.,3.79,.,0.02,0.15,0.02,32.05,0
+West,Badger,Bg_74,Bg,Badger_74,74,.,4.89,.,0.01,0.16,0.02,41.94,0.01
+Center,Badger,Bg_75,Bg,Badger_75,75,.,4.69,.,0.04,0.06,0.02,51.81,0.03
+Ditch,Badger,Bg_76,Bg,Badger_76,76,.,7.58,.,0.02,0.06,0.02,51.86,0.04
+East,Badger,Bg_77,Bg,Badger_77,77,.,6.35,.,0.03,0.05,0.02,60.58,0.03
+North,Badger,Bg_78,Bg,Badger_78,78,.,5.14,.,0.04,0.03,0.03,50.3,0.05
+River,Badger,Bg_79,Bg,Badger_79,79,.,5.9,.,0.03,0.08,0.02,53.73,0.06
+South,Badger,Bg_80,Bg,Badger_80,80,.,5.18,.,0.05,0.06,0.02,52.8,0.04
+West,Badger,Bg_81,Bg,Badger_81,81,.,5.24,.,0.02,0.03,0.03,49.7,0.05
+Center,Badger,Bg_82,Bg,Badger_82,82,.,8.83,.,0,0.43,0,39.5,.
+Ditch,Badger,Bg_83,Bg,Badger_83,83,.,10.13,.,0.4,0.53,0,49.04,.
+East,Badger,Bg_84,Bg,Badger_84,84,.,11.46,.,0.64,0.63,0,41.4,.
+North,Badger,Bg_85,Bg,Badger_85,85,.,11.97,.,0.39,1.23,0,40.96,.
+River,Badger,Bg_86,Bg,Badger_86,86,.,9.13,.,0.57,0.75,0,42.64,.
+South,Badger,Bg_87,Bg,Badger_87,87,.,10.59,.,1.18,1.07,0,38.14,.
+West,Badger,Bg_88,Bg,Badger_88,88,.,10.04,.,0.51,0.46,0,32,.
+Center,Badger,Bg_89,Bg,Badger_89,89,.,4.89,.,0.53,0.47,0,38.79,.
+Ditch,Badger,Bg_90,Bg,Badger_90,90,.,7.53,.,0.66,0.53,0,47.7,.
+East,Badger,Bg_91,Bg,Badger_91,91,.,5.18,.,0.49,0.48,0,42.77,.
+North,Badger,Bg_92,Bg,Badger_92,92,.,4.69,.,0.36,0.39,0,38.34,.
+River,Badger,Bg_93,Bg,Badger_93,93,.,5.17,.,0,0.65,0,36.58,.
+South,Badger,Bg_94,Bg,Badger_94,94,.,4.66,.,0.39,0.32,0,40.36,.
+West,Badger,Bg_95,Bg,Badger_95,95,.,5.43,.,0.57,0.43,0,36.82,.
+Center,Badger,Bg_96,Bg,Badger_96,96,0.6253,8.28,.,0.34,0.2,0,47.56,.
+Ditch,Badger,Bg_97,Bg,Badger_97,97,0.4823,8.9,.,0,0.19,0,47.64,.
+East,Badger,Bg_98,Bg,Badger_98,98,0.562,8.25,.,0,0,0,46.64,.
+North,Badger,Bg_99,Bg,Badger_99,99,0.5585,9.01,.,0,0,0,48.85,.
+River,Badger,Bg_100,Bg,Badger_100,100,0.6661,8.59,.,0,0,0,47.84,.
+South,Badger,Bg_101,Bg,Badger_101,101,0.6472,8.29,.,0,0,0,51.26,.
+West,Badger,Bg_102,Bg,Badger_102,102,0.5962,9.89,.,0,0,0,56.04,.
+Center well,Badger,Bg_103,Bg,Badger_103,103,0.8206,9.344,0,0.1092,0.5079,0,50.121,
+Ditch,Badger,Bg_104,Bg,Badger_104,104,0.8317,15.1,0,0,0.1435,0,79.7273,
+East well,Badger,Bg_105,Bg,Badger_105,105,0.7498,9.242,0,0,0.041,0,57.4994,
+North well,Badger,Bg_106,Bg,Badger_106,106,0.7789,8.238,0,0,0.3063,0,49.268,
+River,Badger,Bg_107,Bg,Badger_107,107,0.8226,6.888,0,0,0.2505,0,46.5638,
+South well,Badger,Bg_108,Bg,Badger_108,108,0.7693,8.987,0,0,0.4392,0,53.4407,
+West well,Badger,Bg_109,Bg,Badger_109,109,0.8064,8.619,0.3335,0.1249,0.2975,0.375,47.736,
+Center well,Badger,Bg_110,Bg,Badger_110,110,1.486,16.123,0,0.0564,0.4312,0,40.6041,
+Ditch,Badger,Bg_111,Bg,Badger_111,111,1.4096,17.184,0,0.181,0.0458,0,58.4462,
+East well,Badger,Bg_112,Bg,Badger_112,112,1.2546,24.311,0,0.0101,0.2539,0,52.1431,
+North well,Badger,Bg_113,Bg,Badger_113,113,1.3288,12.468,0,0,0.4212,0,37.3029,
+River,Badger,Bg_114,Bg,Badger_114,114,1.2451,9.54,0,0,6.9749,0,25.406,
+South well,Badger,Bg_115,Bg,Badger_115,115,1.4464,16.198,0,0.0304,0.3824,0,42.9795,
+West well,Badger,Bg_116,Bg,Badger_116,116,1.2815,15.745,0,0,0.232,0,38.0153,
+Center well,Badger,Bg_117,Bg,Badger_117,117,0.3907,6.0239,0.3036,0,0.0789,0,42.1693,
+Ditch,Badger,Bg_118,Bg,Badger_118,118,0.4856,9.6679,0.2853,0.0646,0.3536,0.0524,54.3116,
+East well,Badger,Bg_119,Bg,Badger_119,119,0.4733,5.9288,0.2456,0,0.3703,0,44.1476,
+North well,Badger,Bg_120,Bg,Badger_120,120,0.2711,6.7555,0.1646,0,1.0983,0,40.6438,
+River,Badger,Bg_121,Bg,Badger_121,121,0.3574,7.5435,0.165,0,1.0154,0,58.2455,
+South well,Badger,Bg_122,Bg,Badger_122,122,0.5134,6.4361,0,0.2281,0.1919,0,49.3024,
+West well,Badger,Bg_123,Bg,Badger_123,123,0.3859,6.6426,0.4201,0.2612,0.2917,0,39.4364,
+Center well,Badger,Bg_124,Bg,Badger_124,124,0.5503,12.19,0.0624,0.779,1.8983,0.4359,77.83,
+Ditch,Badger,Bg_125,Bg,Badger_125,125,0.6384,11.52,0.1052,0.8498,1.7353,0.6592,71.68,
+East well,Badger,Bg_126,Bg,Badger_126,126,.,.,.,.,.,.,.,
+North well,Badger,Bg_127,Bg,Badger_127,127,0.5644,13.28,0,0.7289,2.2383,0.511,60.45,
+River,Badger,Bg_128,Bg,Badger_128,128,0.6714,12.93,0,0.5468,1.0505,0,61.19,
+South well,Badger,Bg_129,Bg,Badger_129,129,0.5214,15.39,0,0.7453,1.5231,0.4381,90.34,
+West well,Badger,Bg_130,Bg,Badger_130,130,0.591,11.91,0,0.7485,1.3829,0.6979,56.74,
+Center well,Badger,Bg_131,Bg,Badger_131,131,0.5303,10.473,0,0.373,0.693,0.4063,31.4071,
+Ditch,Badger,Bg_132,Bg,Badger_132,132,0.4578,11.445,0,0.3691,0.4357,0,43.9109,
+East well,Badger,Bg_133,Bg,Badger_133,133,0.5518,11.706,0,0.3645,0.9504,0.3409,26.0265,
+North well,Badger,Bg_134,Bg,Badger_134,134,0.4292,10.344,0,0.3491,1.2788,0.3764,30.5213,
+River,Badger,Bg_135,Bg,Badger_135,135,0.486,11.014,0.5984,0.3576,0.3771,0,32.3408,
+South well,Badger,Bg_136,Bg,Badger_136,136,0.5225,10.674,0,0.3429,0.6704,0,33.6669,
+West well,Badger,Bg_137,Bg,Badger_137,137,0.6911,11.062,0,0.5832,1.0865,0,31.1978,
+Center well,Badger,Bg_138,Bg,Badger_138,138,0.3038,12.721,1.3827,0.3623,0.682,0.384,50.6324,
+Ditch,Badger,Bg_139,Bg,Badger_139,139,0.3742,9.9,1.5132,0.7631,0.376,0,57.8342,
+East well,Badger,Bg_140,Bg,Badger_140,140,0.3308,6.938,1.5671,0.9891,0.7969,1.2275,51.4436,
+North well,Badger,Bg_141,Bg,Badger_141,141,0.2939,6.333,1.4067,0.6638,0.9627,0,49.8502,
+River,Badger,Bg_142,Bg,Badger_142,142,0.2767,5.553,0,1.5048,0,0,50.9956,
+South well,Badger,Bg_143,Bg,Badger_143,143,.,.,.,.,.,.,.,
+West well,Badger,Bg_144,Bg,Badger_144,144,0.2888,6.492,1.5493,0.7884,0.6269,0.3151,51.804,
+Center,Belen,Bl_1,Bl,Belen_1,1,.,36.5,.,0.2,0.02,0.02,145.5,0.17
+Ditch,Belen,Bl_2,Bl,Belen_2,2,.,28.52,.,0.13,0.13,0.15,105.41,0.04
+East,Belen,Bl_3,Bl,Belen_3,3,.,109.45,.,0.18,0.01,0.12,305.52,0.23
+North,Belen,Bl_4,Bl,Belen_4,4,.,18.18,.,0.15,0.02,0.13,54.21,0.03
+River,Belen,Bl_5,Bl,Belen_5,5,.,21.58,.,0.09,0.63,0.32,57.31,0.04
+South,Belen,Bl_6,Bl,Belen_6,6,.,135.04,.,0.38,0.02,0.02,415.39,0.2
+West,Belen,Bl_7,Bl,Belen_7,7,.,26.66,.,0.11,0.02,0.15,89.55,0.1
+Center,Belen,Bl_8,Bl,Belen_8,8,.,65.89,.,0.15,0.01,0,215.13,0.11
+Ditch,Belen,Bl_9,Bl,Belen_9,9,.,27.11,.,0.1,0.13,0.15,91.38,0.11
+East,Belen,Bl_10,Bl,Belen_10,10,.,61.01,.,0.14,0.03,0,192.8,0.08
+North,Belen,Bl_11,Bl,Belen_11,11,.,37.08,.,0.14,0.02,0.01,151.37,0.03
+River,Belen,Bl_12,Bl,Belen_12,12,.,26.07,.,0.1,0.68,0.42,55.41,0.02
+South,Belen,Bl_13,Bl,Belen_13,13,.,49.82,.,0.15,0.02,0.01,135.53,0.08
+West,Belen,Bl_14,Bl,Belen_14,14,.,40.76,.,0.11,0.02,0.02,153.84,0.08
+Ditch,Belen,Bl_15,Bl,Belen_15,15,.,25.68,.,0.12,0.12,0.17,102.99,0.05
+Center,Belen,Bl_16,Bl,Belen_16,16,.,56.04,.,0.22,0.01,0.07,175.55,0.13
+East,Belen,Bl_17,Bl,Belen_17,17,.,75.06,.,0.24,0.01,0.03,202.23,0.16
+North,Belen,Bl_18,Bl,Belen_18,18,.,51.1,.,0.18,0.01,0.05,144.25,0.04
+River,Belen,Bl_19,Bl,Belen_19,19,.,15.95,.,0.06,0.69,0.28,52.48,0.02
+South,Belen,Bl_20,Bl,Belen_20,20,.,40.47,.,0.16,0.01,0.04,119.97,0.12
+West,Belen,Bl_21,Bl,Belen_21,21,.,65.06,.,0.25,0.01,0.04,197.78,0.17
+Center,Belen,Bl_22,Bl,Belen_22,22,.,53.84,.,0.17,0.01,0.07,154.84,0.08
+Ditch,Belen,Bl_23,Bl,Belen_23,23,.,25.58,.,0.12,0.18,0.14,84.42,0.06
+East,Belen,Bl_24,Bl,Belen_24,24,.,133.48,.,0.4,0.01,0,453.45,0.17
+North,Belen,Bl_25,Bl,Belen_25,25,.,58.93,.,0.16,0.01,0.01,148.16,0.09
+River,Belen,Bl_26,Bl,Belen_26,26,.,40.67,.,0.09,0.7,0.12,109.34,0.19
+South,Belen,Bl_27,Bl,Belen_27,27,.,46.02,.,0.17,0.02,0.05,132.63,0.03
+West,Belen,Bl_28,Bl,Belen_28,28,.,48.99,.,0.18,0.01,0.04,166.75,0.07
+Center,Belen,Bl_29,Bl,Belen_29,29,.,8.67,.,0.18,0.01,0.02,28.37,0.08
+Ditch,Belen,Bl_30,Bl,Belen_30,30,.,29.37,.,0.13,0.1,0,97.49,0.03
+East,Belen,Bl_31,Bl,Belen_31,31,.,26.36,.,0.23,0.02,4.43,80.96,0.14
+North,Belen,Bl_32,Bl,Belen_32,32,.,15.59,.,0.16,0.02,0,42.58,0.05
+River,Belen,Bl_33,Bl,Belen_33,33,.,17.82,.,0.09,0.36,0.22,45.66,0.06
+South,Belen,Bl_34,Bl,Belen_34,34,.,14.95,.,0.22,0.01,0.03,41.25,0.09
+West,Belen,Bl_35,Bl,Belen_35,35,.,9.08,.,0.17,0.02,0.11,28.17,0.07
+Center,Belen,Bl_36,Bl,Belen_36,36,.,54.68,.,0.22,0.04,0.01,160.75,0.11
+Ditch,Belen,Bl_37,Bl,Belen_37,37,.,26.57,.,0.11,0.09,0.13,87.52,0.04
+East,Belen,Bl_38,Bl,Belen_38,38,.,58.76,.,0.16,0.04,0,177.16,0.05
+North,Belen,Bl_39,Bl,Belen_39,39,.,27.75,.,0.24,0.04,0.01,70.92,0.04
+River,Belen,Bl_40,Bl,Belen_40,40,.,21.96,.,0.07,0.4,0.22,47.57,0.02
+South,Belen,Bl_41,Bl,Belen_41,41,.,59.38,.,0.24,0.02,0.01,161.3,0.13
+West,Belen,Bl_42,Bl,Belen_42,42,.,44.75,.,0.14,0.03,0.05,147.98,0.06
+Center,Belen,Bl_43,Bl,Belen_43,43,.,39.57,.,0.15,0.07,0.21,144.76,0.03
+Ditch,Belen,Bl_44,Bl,Belen_44,44,.,29.94,.,0.16,0.16,0.16,118.86,0.01
+East,Belen,Bl_45,Bl,Belen_45,45,.,76.79,.,0.24,0.04,0.01,238.35,0.04
+North,Belen,Bl_46,Bl,Belen_46,46,.,38.3,.,0.15,0.07,0.2,131.27,0
+River,Belen,Bl_47,Bl,Belen_47,47,.,21.82,.,0.07,0.53,0.42,57.84,0
+South,Belen,Bl_48,Bl,Belen_48,48,.,40.44,.,0.19,0.04,0.12,144.92,0.02
+West,Belen,Bl_49,Bl,Belen_49,49,.,49.77,.,0.16,0.02,0.04,182.17,0.02
+Center,Belen,Bl_50,Bl,Belen_50,50,.,109.04,.,0.46,0.05,0.01,290.43,0.37
+Ditch,Belen,Bl_51,Bl,Belen_51,51,.,28.76,.,0.12,0.2,0.48,115.42,0.01
+East,Belen,Bl_52,Bl,Belen_52,52,.,27.1,.,0.18,0.06,0.05,76.46,0.13
+North,Belen,Bl_53,Bl,Belen_53,53,.,67.42,.,0.22,0.03,0.03,198.06,0.09
+River,Belen,Bl_54,Bl,Belen_54,54,.,16.95,.,0.05,0.76,0.38,46.72,0.02
+South,Belen,Bl_55,Bl,Belen_55,55,.,33.32,.,0.18,0.09,0.15,114.69,0.25
+West,Belen,Bl_56,Bl,Belen_56,56,.,48.28,.,0.23,0.02,0.1,171.52,0.22
+Center,Belen,Bl_57,Bl,Belen_57,57,.,58,.,0.26,0.03,0.07,198.78,0.21
+Ditch,Belen,Bl_58,Bl,Belen_58,58,.,24.82,.,0.12,0.16,0.03,97.44,0.01
+East,Belen,Bl_59,Bl,Belen_59,59,.,68.6,.,0.23,0.07,0,175.46,0.2
+North,Belen,Bl_60,Bl,Belen_60,60,.,52.57,.,0.19,0.04,0.09,166.15,0.05
+River,Belen,Bl_61,Bl,Belen_61,61,.,21.92,.,0.04,0.96,0.33,55.52,0
+South,Belen,Bl_62,Bl,Belen_62,62,.,48.04,.,0.22,0.05,0.06,178.29,0.32
+West,Belen,Bl_63,Bl,Belen_63,63,.,40.23,.,0.17,0.03,0.09,143.77,0.19
+Center,Belen,Bl_64,Bl,Belen_64,64,.,31.65,.,0.49,1.28,0,134.29,.
+Ditch,Belen,Bl_65,Bl,Belen_65,65,.,31.73,.,0.44,2.03,1.12,118.04,.
+East,Belen,Bl_66,Bl,Belen_66,66,.,77.58,.,0.64,0.4,0,290.09,.
+North,Belen,Bl_67,Bl,Belen_67,67,.,42.58,.,0.61,0.56,0,162.73,.
+River,Belen,Bl_68,Bl,Belen_68,68,.,24.3,.,0.58,2.55,1.27,67.03,.
+South,Belen,Bl_69,Bl,Belen_69,69,.,57.01,.,0.56,0.34,0,251.06,.
+West,Belen,Bl_70,Bl,Belen_70,70,.,24.89,.,0.54,0.53,0,105.15,.
+Center,Belen,Bl_71,Bl,Belen_71,71,.,33.24,.,0.46,0.34,0,160.56,.
+Ditch,Belen,Bl_72,Bl,Belen_72,72,.,23.42,.,0.54,1.79,0,112.7,.
+East,Belen,Bl_73,Bl,Belen_73,73,.,48.43,.,0.55,0.38,0,161.31,.
+North,Belen,Bl_74,Bl,Belen_74,74,.,24.88,.,1.02,1.23,1.19,108.03,.
+River,Belen,Bl_75,Bl,Belen_75,75,.,17.72,.,0.38,2.53,1.05,51.58,.
+South,Belen,Bl_76,Bl,Belen_76,76,.,29.93,.,0.44,0.5,0,138.7,.
+West,Belen,Bl_77,Bl,Belen_77,77,.,24.77,.,0.45,0.32,0,110.19,.
+Center,Belen,Bl_78,Bl,Belen_78,78,0.8239,28.96,.,0.41,0,0.75,128.37,.
+Ditch,Belen,Bl_79,Bl,Belen_79,79,1.1638,41.81,.,0.53,0,0,124.26,.
+East,Belen,Bl_80,Bl,Belen_80,80,0.8559,28.62,.,0.52,0,0.78,120.06,.
+North,Belen,Bl_81,Bl,Belen_81,81,0.6389,57.07,.,0.45,0,0,245.63,.
+River,Belen,Bl_82,Bl,Belen_82,82,0.8109,37.54,.,0.45,0,0,152.42,.
+South,Belen,Bl_83,Bl,Belen_83,83,0.9014,22.16,.,0.42,2.72,0,66.52,.
+West,Belen,Bl_84,Bl,Belen_84,84,0.7533,30.11,.,0.4,0,0,125.73,.
+Ditch,Belen,Bl_85,Bl,Belen_85,85,0.9351,32.231,0,0.394,1.2193,0.5876,122.87,
+East well,Belen,Bl_86,Bl,Belen_86,86,0.8967,39.194,0,0.3224,0.1513,0,135.08,
+North well,Belen,Bl_87,Bl,Belen_87,87,0.8796,51.176,0,0.445,0.2625,0,203.84,
+River,Belen,Bl_88,Bl,Belen_88,88,0.9879,24.495,0,0.1936,3.8643,0.7831,69.51,
+South well,Belen,Bl_89,Bl,Belen_89,89,0.9418,183.829,0,0.9227,0.8428,0,76.79,
+West well,Belen,Bl_90,Bl,Belen_90,90,0.8521,59.323,0,0.4907,0.5872,0.5122,225.15,
+Ditch,Belen,Bl_91,Bl,Belen_91,91,1.502,20.297,0,0,0.4188,0,70.2425,
+East well,Belen,Bl_92,Bl,Belen_92,92,1.6434,57.677,0,0.2126,0,0,0,
+North well,Belen,Bl_93,Bl,Belen_93,93,1.2375,50.777,0.1357,0,0,0,0,
+River,Belen,Bl_94,Bl,Belen_94,94,1.2793,15.349,0,0,1.2019,0.7476,43.58,
+South well,Belen,Bl_95,Bl,Belen_95,95,1.7338,100.147,0,0.3584,0,0,39.8861,
+West well,Belen,Bl_96,Bl,Belen_96,96,1.5395,42.06,0,0.145,0,0.8136,0,
+Ditch,Belen,Bl_97,Bl,Belen_97,97,0.54,20.77,0,0.55,1.54,0.92,87.15,
+East well,Belen,Bl_98,Bl,Belen_98,98,0.3,59.21,0,0.17,0.08,0,149.04,
+North well,Belen,Bl_99,Bl,Belen_99,99,0.37,122.51,0,0.29,0.09,0,323.75,
+River,Belen,Bl_100,Bl,Belen_100,100,0.42,15.66,0,0,2.28,0.51,51.62,
+South well,Belen,Bl_101,Bl,Belen_101,101,0.37,34.01,0,0.15,0.09,0,174.11,
+West well,Belen,Bl_102,Bl,Belen_102,102,0.54,36.87,0,0.38,0.26,0.2,171.93,
+Ditch,Belen,Bl_103,Bl,Belen_103,103,0.9174,31.57,0.3805,0.9462,1.9772,0.7852,129.0582,
+East well,Belen,Bl_104,Bl,Belen_104,104,0.6831,55.94,0,0.7281,0.8399,0,219.1262,
+North well,Belen,Bl_105,Bl,Belen_105,105,0,79.73,0,0.8312,0.8487,0,301.7373,
+River,Belen,Bl_106,Bl,Belen_106,106,0.8495,28.45,0,0.8996,4.3338,1.4609,81.067,
+South well,Belen,Bl_107,Bl,Belen_107,107,0,81.316,0,0.8247,0.858,0,367.3562,
+West well,Belen,Bl_108,Bl,Belen_108,108,0.6749,58.117,0,0.726,0.8109,0.1632,249.4406,
+Ditch,Belen,Bl_109,Bl,Belen_109,109,0.9014,24.642,1.3285,0.1901,2.0564,0.744,87.4197,
+East well,Belen,Bl_110,Bl,Belen_110,110,1.0137,52.769,0,0.2235,1.7756,0,189.2367,
+North well,Belen,Bl_111,Bl,Belen_111,111,0.8263,74.4,0,0.4069,1.4191,0,266,
+River,Belen,Bl_112,Bl,Belen_112,112,0.8659,21.81,1.4438,0.3525,2.4026,0.8251,42.7136,
+South well,Belen,Bl_113,Bl,Belen_113,113,0.9347,93.218,0,0.372,2.0081,0.5338,323.1889,
+West well,Belen,Bl_114,Bl,Belen_114,114,0.9823,43.818,0,0.456,1.7541,0.6712,162.5958,
+Ditch,Belen,Bl_115,Bl,Belen_115,115,0.5223,24.254,1.6303,1.2292,1.0837,0,126.909,
+East well,Belen,Bl_116,Bl,Belen_116,116,0.328,89.96,0,0.7938,0.0929,0,251.7602,
+North well,Belen,Bl_117,Bl,Belen_117,117,0.2054,78.517,0,0.3249,0,0,203.5271,
+River,Belen,Bl_118,Bl,Belen_118,118,0.17,25.192,0,0.2254,1.185,0.6414,66.1444,
+South well,Belen,Bl_119,Bl,Belen_119,119,0.3087,218.641,0,2.133,0.4104,0,678.2204,
+West well,Belen,Bl_120,Bl,Belen_120,120,0.2104,87.392,0,0.3983,0.023,0,264.0633,
+Center,BioPark,Bp_1,Bp,BioPark_1,1,.,38.38,.,0.29,0.02,0.02,138.21,0.06
+East,BioPark,Bp_2,Bp,BioPark_2,2,.,18.46,.,0.14,0.02,0.04,86.1,0.03
+North,BioPark,Bp_3,Bp,BioPark_3,3,.,23.1,.,0.22,0.02,0.06,127.93,0.05
+South,BioPark,Bp_4,Bp,BioPark_4,4,.,14.66,.,0.05,0.02,0.04,98.61,0.06
+West,BioPark,Bp_5,Bp,BioPark_5,5,.,28.42,.,0.28,0.01,0.01,107.85,0.04
+Center,BioPark,Bp_6,Bp,BioPark_6,6,.,25.76,.,0.2,0.04,0.43,100.61,0.01
+East,BioPark,Bp_7,Bp,BioPark_7,7,.,11.19,.,0.11,0.03,0.1,55.17,0
+North,BioPark,Bp_8,Bp,BioPark_8,8,.,39.64,.,0.29,0.03,0.09,160.87,0.01
+South,BioPark,Bp_9,Bp,BioPark_9,9,.,16.99,.,0.15,0.03,0.09,62.82,0.04
+West,BioPark,Bp_10,Bp,BioPark_10,10,.,21.11,.,0.19,0.02,0.01,84.29,0.01
+Center,BioPark,Bp_11,Bp,BioPark_11,11,.,24.04,.,0.25,0.03,0.03,87.62,0.12
+East,BioPark,Bp_12,Bp,BioPark_12,12,.,10.11,.,0.1,0.03,0.06,67.39,0.06
+North,BioPark,Bp_13,Bp,BioPark_13,13,.,45.98,.,0.47,0.02,0.04,116.47,0.11
+South,BioPark,Bp_14,Bp,BioPark_14,14,.,7.92,.,0.1,0.09,0.06,72.31,0.31
+West,BioPark,Bp_15,Bp,BioPark_15,15,.,26.7,.,0.23,0.03,0.02,93.56,0.23
+Center,BioPark,Bp_16,Bp,BioPark_16,16,.,12.32,.,0.17,0.05,0.06,50.77,0.08
+East,BioPark,Bp_17,Bp,BioPark_17,17,.,7.51,.,0.06,0.07,0.07,53.6,0.02
+North,BioPark,Bp_18,Bp,BioPark_18,18,.,22.41,.,0.17,0.11,0.07,64.65,0.05
+South,BioPark,Bp_19,Bp,BioPark_19,19,.,9.02,.,0.13,0.05,0.04,37.34,0.35
+West,BioPark,Bp_20,Bp,BioPark_20,20,.,13.32,.,0.09,0.04,0.02,45.22,0.23
+Center,BioPark,Bp_21,Bp,BioPark_21,21,.,18.96,.,0.12,0.11,0.03,66.25,0.07
+East,BioPark,Bp_22,Bp,BioPark_22,22,.,13.66,.,0.03,0.04,0.02,54.97,0.03
+North,BioPark,Bp_23,Bp,BioPark_23,23,.,14.31,.,0.09,0.08,0.04,36.13,0.05
+South,BioPark,Bp_24,Bp,BioPark_24,24,.,15.25,.,0.04,0.03,0.01,70.12,0.21
+West,BioPark,Bp_25,Bp,BioPark_25,25,.,18.82,.,0.1,0.06,0.01,62.94,0.13
+Center,BioPark,Bp_26,Bp,BioPark_26,26,.,17.07,.,0.06,0.03,0.01,72.88,0.1
+East,BioPark,Bp_27,Bp,BioPark_27,27,.,13.76,.,0.04,0.03,0.02,55.69,0.03
+North,BioPark,Bp_28,Bp,BioPark_28,28,.,16.47,.,0.09,0.06,0.05,38.7,0.06
+South,BioPark,Bp_29,Bp,BioPark_29,29,.,14.69,.,0.03,0.03,0.03,67.77,0.25
+West,BioPark,Bp_30,Bp,BioPark_30,30,.,19.86,.,0.14,0.04,0.01,67.63,0.18
+Center,BioPark,Bp_31,Bp,BioPark_31,31,.,17.25,.,0.14,0.03,0.03,62.59,0.09
+East,BioPark,Bp_32,Bp,BioPark_32,32,.,13.37,.,0.06,0.08,0.05,52.14,0.02
+North,BioPark,Bp_33,Bp,BioPark_33,33,.,17.48,.,0.28,0.06,0.07,35.25,0.09
+South,BioPark,Bp_34,Bp,BioPark_34,34,.,13.81,.,0.05,0.07,0.02,61.43,0.2
+West,BioPark,Bp_35,Bp,BioPark_35,35,.,22.18,.,0.11,0.05,0,71.1,0.2
+Center,BioPark,Bp_36,Bp,BioPark_36,36,.,17.51,.,0.81,0.89,0,48.33,.
+East,BioPark,Bp_37,Bp,BioPark_37,37,.,11.04,.,0.6,0.57,0,53.86,.
+North,BioPark,Bp_38,Bp,BioPark_38,38,.,15.24,.,0.65,0.57,0,37.47,.
+South,BioPark,Bp_39,Bp,BioPark_39,39,.,18.59,.,0.42,1.79,0,119.44,.
+West,BioPark,Bp_40,Bp,BioPark_40,40,.,11.64,.,0.65,0.63,0,57.93,.
+Center,BioPark,Bp_41,Bp,BioPark_41,41,.,20.35,.,0.67,0.41,0,75.49,.
+East,BioPark,Bp_42,Bp,BioPark_42,42,.,12.88,.,0.49,0.39,0,44.68,.
+North,BioPark,Bp_43,Bp,BioPark_43,43,.,22.46,.,0.48,0.34,0,14.57,.
+South,BioPark,Bp_44,Bp,BioPark_44,44,.,10.88,.,0.61,0.46,0,71.2,.
+West,BioPark,Bp_45,Bp,BioPark_45,45,.,27.35,.,0.62,0.44,0,115.92,.
+Center,BioPark,Bp_46,Bp,BioPark_46,46,1.3073,16.3,.,0.61,0.32,0,64.51,.
+East,BioPark,Bp_47,Bp,BioPark_47,47,0.8871,9.75,.,0.4,0,0,35.87,.
+North,BioPark,Bp_48,Bp,BioPark_48,48,1.6219,29.91,.,0.45,0,0,25.54,.
+South,BioPark,Bp_49,Bp,BioPark_49,49,1.3605,10.51,.,0.59,0.2,0,23.94,.
+West,BioPark,Bp_50,Bp,BioPark_50,50,1.3354,27.5,.,0.72,0.21,0,124.42,.
+Center,Bobcat,Bc_1,Bc,Bobcat_1,1,.,10.23,.,0.05,0.01,0.08,50.51,0.01
+Ditch,Bobcat,Bc_2,Bc,Bobcat_2,2,.,15.92,.,0.07,0.01,0.04,58.1,0.02
+East,Bobcat,Bc_3,Bc,Bobcat_3,3,.,9.32,.,0.04,0.02,0.07,42.46,0.06
+North,Bobcat,Bc_4,Bc,Bobcat_4,4,.,9.75,.,0.04,0.01,0.03,47.65,0.04
+River,Bobcat,Bc_5,Bc,Bobcat_5,5,.,10.06,.,0.05,0.09,0.07,40.82,0.01
+South,Bobcat,Bc_6,Bc,Bobcat_6,6,.,7.71,.,0.05,0.01,0.04,41.7,0.01
+West,Bobcat,Bc_7,Bc,Bobcat_7,7,.,9.28,.,0.04,0.01,0.08,49.07,0.02
+Center,Bobcat,Bc_8,Bc,Bobcat_8,8,.,12.12,.,0.04,0.11,0.04,40.07,0
+Ditch,Bobcat,Bc_9,Bc,Bobcat_9,9,.,16.17,.,0.04,0.03,0.03,59.3,0.04
+East,Bobcat,Bc_10,Bc,Bobcat_10,10,.,12.62,.,0.02,0.1,0.05,35.7,0.06
+North,Bobcat,Bc_11,Bc,Bobcat_11,11,.,11.86,.,0,0.1,0.04,38.68,0.03
+River,Bobcat,Bc_12,Bc,Bobcat_12,12,.,13.51,.,0.05,0.12,0.06,39.18,0.02
+South,Bobcat,Bc_13,Bc,Bobcat_13,13,.,10.03,.,0.05,0.02,0.03,48.49,0.01
+West,Bobcat,Bc_14,Bc,Bobcat_14,14,.,11.54,.,0.03,0.02,0,39.84,0.02
+Center,Bobcat,Bc_15,Bc,Bobcat_15,15,.,7.66,.,0.02,0.09,0.03,25.31,0.01
+Ditch,Bobcat,Bc_16,Bc,Bobcat_16,16,.,15.03,.,0.03,0.03,0.04,48.8,0.04
+East,Bobcat,Bc_17,Bc,Bobcat_17,17,.,8.3,.,0.02,0.01,0.05,30.44,0.05
+North,Bobcat,Bc_18,Bc,Bobcat_18,18,.,8.91,.,0.05,0.05,0.05,35.63,0.02
+River,Bobcat,Bc_19,Bc,Bobcat_19,19,.,6.45,.,0.02,0.04,0.13,39.67,0.01
+South,Bobcat,Bc_20,Bc,Bobcat_20,20,.,3.05,.,0.02,0,0.01,9.61,0.03
+West,Bobcat,Bc_21,Bc,Bobcat_21,21,.,4.78,.,0.02,0.02,0.03,11.68,0.02
+Center,Bobcat,Bc_22,Bc,Bobcat_22,22,.,10.68,.,0.05,0.02,0.05,55.91,0
+Ditch,Bobcat,Bc_23,Bc,Bobcat_23,23,.,14.65,.,0.08,0.02,0.04,55.75,0
+East,Bobcat,Bc_24,Bc,Bobcat_24,24,.,13.98,.,0.08,0.02,0.05,89.08,0
+North,Bobcat,Bc_25,Bc,Bobcat_25,25,.,13.83,.,0.08,0.02,0.05,86.85,0
+River,Bobcat,Bc_26,Bc,Bobcat_26,26,.,13.73,.,0.06,0.25,0.11,48.33,0
+South,Bobcat,Bc_27,Bc,Bobcat_27,27,.,10.58,.,0.06,0.02,0.02,66.59,0
+West,Bobcat,Bc_28,Bc,Bobcat_28,28,.,9.62,.,0.05,0.03,0.03,57.69,0
+Center,Bobcat,Bc_29,Bc,Bobcat_29,29,.,10.79,.,0.07,0.02,0.1,48.72,0
+Ditch,Bobcat,Bc_30,Bc,Bobcat_30,30,.,15.94,.,0.08,0.02,0.03,57.45,0.02
+East,Bobcat,Bc_31,Bc,Bobcat_31,31,.,11.2,.,0.06,0.15,0.08,41.21,0.03
+North,Bobcat,Bc_32,Bc,Bobcat_32,32,.,13.18,.,0.06,0.03,0.06,57.46,0.04
+River,Bobcat,Bc_33,Bc,Bobcat_33,33,.,7.87,.,0.03,0.11,0.03,35.07,0.02
+South,Bobcat,Bc_34,Bc,Bobcat_34,34,.,11.66,.,0.08,0.02,0.05,54.65,0
+West,Bobcat,Bc_35,Bc,Bobcat_35,35,.,9.99,.,0.06,0.01,0.08,49.94,0.01
+Center,Bobcat,Bc_36,Bc,Bobcat_36,36,.,16.6,.,0.06,0.24,0.02,46.57,0
+Ditch,Bobcat,Bc_37,Bc,Bobcat_37,37,.,14.3,.,0.08,0.09,0.03,54.9,0
+East,Bobcat,Bc_38,Bc,Bobcat_38,38,.,17.74,.,0.06,0.23,0.04,44.11,0.01
+North,Bobcat,Bc_39,Bc,Bobcat_39,39,.,15.23,.,0.04,0.06,0.01,45.49,0.02
+River,Bobcat,Bc_40,Bc,Bobcat_40,40,.,12.99,.,0.05,0.04,0.01,39.92,0.01
+South,Bobcat,Bc_41,Bc,Bobcat_41,41,.,12.04,.,0.04,0.02,0.01,42.51,0.01
+West,Bobcat,Bc_42,Bc,Bobcat_42,42,.,15.74,.,0.05,0.04,0.02,47.19,0.01
+Center,Bobcat,Bc_43,Bc,Bobcat_43,43,.,9.49,.,2.11,0.09,0.11,48.47,0
+Ditch,Bobcat,Bc_44,Bc,Bobcat_44,44,.,15.63,.,2.15,0.04,0.06,58.59,0
+East,Bobcat,Bc_45,Bc,Bobcat_45,45,.,8.81,.,0.09,0.05,0.08,44.93,0.01
+North,Bobcat,Bc_46,Bc,Bobcat_46,46,.,8.87,.,0.07,0.07,0.08,44.91,0.01
+River,Bobcat,Bc_47,Bc,Bobcat_47,47,.,9.54,.,1.5,0.1,0.06,46.07,0
+South,Bobcat,Bc_48,Bc,Bobcat_48,48,.,10.72,.,0.04,0.06,0.06,56.69,0.01
+West,Bobcat,Bc_49,Bc,Bobcat_49,49,.,14.89,.,0.26,0.04,0.04,68.05,0
+Center,Bobcat,Bc_50,Bc,Bobcat_50,50,.,2.85,.,0.02,0.05,0.06,29.75,0
+Ditch,Bobcat,Bc_51,Bc,Bobcat_51,51,.,12.51,.,0.07,0.03,0.06,46.64,0
+East,Bobcat,Bc_52,Bc,Bobcat_52,52,.,4.02,.,0.03,0.04,0.05,27.58,0
+North,Bobcat,Bc_53,Bc,Bobcat_53,53,.,3.27,.,0.03,0,0.05,29.9,0
+River,Bobcat,Bc_54,Bc,Bobcat_54,54,.,4.49,.,0.02,0.05,0.02,37.3,0
+South,Bobcat,Bc_55,Bc,Bobcat_55,55,.,3.34,.,0.04,0.03,0.03,30.38,0
+West,Bobcat,Bc_56,Bc,Bobcat_56,56,.,3.02,.,0.03,0.03,0.04,29.58,0
+Center,Bobcat,Bc_57,Bc,Bobcat_57,57,.,8.6,.,0.06,0.08,0.06,42.39,0
+Ditch,Bobcat,Bc_58,Bc,Bobcat_58,58,.,12.24,.,0.04,0.09,0.03,50.63,0
+East,Bobcat,Bc_59,Bc,Bobcat_59,59,.,8.99,.,0.04,0.07,0.04,40.45,0.01
+North,Bobcat,Bc_60,Bc,Bobcat_60,60,.,8.12,.,0.06,0.04,0.05,38.4,0.01
+River,Bobcat,Bc_61,Bc,Bobcat_61,61,.,11.08,.,0.05,0.19,0.05,43.72,0
+South,Bobcat,Bc_62,Bc,Bobcat_62,62,.,7.36,.,0.03,0.05,0.02,40.96,0
+West,Bobcat,Bc_63,Bc,Bobcat_63,63,.,6.85,.,0.04,0.06,0.05,37.77,0
+Center,Bobcat,Bc_64,Bc,Bobcat_64,64,.,11.53,.,0.04,0.28,0.05,38.88,0.03
+Ditch,Bobcat,Bc_65,Bc,Bobcat_65,65,.,11.88,.,0.03,0.08,0.05,44.72,0.07
+East,Bobcat,Bc_66,Bc,Bobcat_66,66,.,5.35,.,0.02,0.21,0.05,27.83,0.03
+North,Bobcat,Bc_67,Bc,Bobcat_67,67,.,8.81,.,0.03,0.12,0.03,34.15,0.01
+River,Bobcat,Bc_68,Bc,Bobcat_68,68,.,4.86,.,0,0.23,0.02,31.3,0.03
+South,Bobcat,Bc_69,Bc,Bobcat_69,69,.,10.22,.,0.02,0.07,0.01,38.03,0.02
+West,Bobcat,Bc_70,Bc,Bobcat_70,70,.,10.22,.,0.06,0.13,0.05,37.29,0.01
+Center,Bobcat,Bc_71,Bc,Bobcat_71,71,.,4.6,.,0.01,0.2,0.07,30.93,0
+Ditch,Bobcat,Bc_72,Bc,Bobcat_72,72,.,11.97,.,0.02,0.05,0.05,44.71,0.01
+East,Bobcat,Bc_73,Bc,Bobcat_73,73,.,4.71,.,0.01,0.23,0.07,30.77,0.01
+North,Bobcat,Bc_74,Bc,Bobcat_74,74,.,4.36,.,0.01,0.06,0.07,31.72,0.01
+River,Bobcat,Bc_75,Bc,Bobcat_75,75,.,5.55,.,0.02,0.15,0.02,46.51,0.02
+South,Bobcat,Bc_76,Bc,Bobcat_76,76,.,6.23,.,0.04,0.04,0.05,33.74,0.01
+West,Bobcat,Bc_77,Bc,Bobcat_77,77,.,5.67,.,0.01,0.09,0.04,32.93,0
+Center,Bobcat,Bc_78,Bc,Bobcat_78,78,.,4.37,.,0.02,0.08,0.06,42.09,0.02
+Ditch,Bobcat,Bc_79,Bc,Bobcat_79,79,.,10.55,.,0.05,0.06,0.05,42.68,0.04
+East,Bobcat,Bc_80,Bc,Bobcat_80,80,.,5.07,.,0.02,0.04,0.02,44.23,0.05
+North,Bobcat,Bc_81,Bc,Bobcat_81,81,.,5.19,.,0.03,0.07,0.07,48.32,0.03
+River,Bobcat,Bc_82,Bc,Bobcat_82,82,.,6.29,.,0.02,0.09,0.04,50.94,0.03
+South,Bobcat,Bc_83,Bc,Bobcat_83,83,.,5.07,.,0.02,0.03,0.02,38.96,0.02
+West,Bobcat,Bc_84,Bc,Bobcat_84,84,.,4.05,.,0.02,0.07,0.04,33.47,0.01
+Center,Bobcat,Bc_85,Bc,Bobcat_85,85,.,11.29,.,0.42,1.54,0,43.01,.
+Ditch,Bobcat,Bc_86,Bc,Bobcat_86,86,.,10.24,.,0.39,0.5,0,49.37,.
+East,Bobcat,Bc_87,Bc,Bobcat_87,87,.,8.81,.,0.4,0.54,0,40.68,.
+North,Bobcat,Bc_88,Bc,Bobcat_88,88,.,11.15,.,0.39,0.69,0,41.99,.
+River,Bobcat,Bc_89,Bc,Bobcat_89,89,.,9.06,.,0.37,0.58,0,43.2,.
+South,Bobcat,Bc_90,Bc,Bobcat_90,90,.,11.42,.,0.59,0.58,0,46.27,.
+West,Bobcat,Bc_91,Bc,Bobcat_91,91,.,11.18,.,0.42,1.15,0,43.62,.
+Center,Bobcat,Bc_92,Bc,Bobcat_92,92,.,5.62,.,0.58,0.37,0,43.4,.
+Ditch,Bobcat,Bc_93,Bc,Bobcat_93,93,.,10.28,.,0.46,0.38,0,34.19,.
+East,Bobcat,Bc_94,Bc,Bobcat_94,94,.,5.06,.,0,0.46,0,36.83,.
+North,Bobcat,Bc_95,Bc,Bobcat_95,95,.,5.14,.,0,0.54,0,37.47,.
+River,Bobcat,Bc_96,Bc,Bobcat_96,96,.,4.17,.,0,0.39,0,39.37,.
+South,Bobcat,Bc_97,Bc,Bobcat_97,97,.,5.1,.,0,0.32,0,38.92,.
+West,Bobcat,Bc_98,Bc,Bobcat_98,98,.,5.06,.,0,0.36,0,44.01,.
+Center,Bobcat,Bc_99,Bc,Bobcat_99,99,0.7025,9.8,.,0.33,0,0,51.78,.
+Ditch,Bobcat,Bc_100,Bc,Bobcat_100,100,0.6028,9.47,.,0,0,0,46.67,.
+East,Bobcat,Bc_101,Bc,Bobcat_101,101,0.3449,4.35,.,0,0,0,21.34,.
+North,Bobcat,Bc_102,Bc,Bobcat_102,102,0.7884,9.67,.,0.43,0,0,52.86,.
+River,Bobcat,Bc_103,Bc,Bobcat_103,103,0.5976,9.32,.,0,0,0,51.45,.
+South,Bobcat,Bc_104,Bc,Bobcat_104,104,0.6309,7.2,.,0,0,0,45.46,.
+West,Bobcat,Bc_105,Bc,Bobcat_105,105,0.7911,11.26,.,0,0,0,49.66,.
+East well,Bobcat,Bc_106,Bc,Bobcat_106,106,.,.,.,.,.,.,.,
+North well,Bobcat,Bc_107,Bc,Bobcat_107,107,.,.,.,.,.,.,.,
+South well,Bobcat,Bc_108,Bc,Bobcat_108,108,.,.,.,.,.,.,.,
+West well,Bobcat,Bc_109,Bc,Bobcat_109,109,.,.,.,.,.,.,.,
+East well,Bobcat,Bc_110,Bc,Bobcat_110,110,1.4226,13.803,0,0.0762,0.8655,0,42.4218,
+North well,Bobcat,Bc_111,Bc,Bobcat_111,111,1.1554,11.478,0,0,0,0,49.3639,
+South well,Bobcat,Bc_112,Bc,Bobcat_112,112,1.1491,9.162,0,0.0401,0.0939,0,49.4996,
+West well,Bobcat,Bc_113,Bc,Bobcat_113,113,1.126,9.971,0,0,0,0.9857,47.4656,
+East well,Bobcat,Bc_114,Bc,Bobcat_114,114,0.3533,6.8429,0,0.1237,0.0702,0,54.4053,
+North well,Bobcat,Bc_115,Bc,Bobcat_115,115,0.4529,6.7393,0,0.0789,0.1141,0.09,46.0504,
+South well,Bobcat,Bc_116,Bc,Bobcat_116,116,9.9726,34.2539,1.8557,3.6983,0,0,42.4046,
+West well,Bobcat,Bc_117,Bc,Bobcat_117,117,0.4365,6.6874,0,0,0.3271,0,46.2189,
+East well,Bobcat,Bc_118,Bc,Bobcat_118,118,0.4875,39.31,0,0.844,1.2996,0.4073,223,
+North well,Bobcat,Bc_119,Bc,Bobcat_119,119,0.5356,16.46,0.0962,0.6594,1.0005,0,86.5,
+South well,Bobcat,Bc_120,Bc,Bobcat_120,120,0.6017,8.46,0,0.7855,1.0953,0,55.91,
+West well,Bobcat,Bc_121,Bc,Bobcat_121,121,0.5567,9.2,0,0.8677,1.4582,0.6596,57.32,
+Center well,Bosque Farms,Bf_1,Bf,BosqueFarms_1,1,0.6974,12.572,0,0.0365,0,0.4079,40.1912,
+Ditch,Bosque Farms,Bf_2,Bf,BosqueFarms_2,2,0.8852,30.844,0.15,0,1.8998,0.7076,84.8195,
+East well,Bosque Farms,Bf_3,Bf,BosqueFarms_3,3,0.8369,21.478,0,0,0,0.3761,79.0962,
+North well,Bosque Farms,Bf_4,Bf,BosqueFarms_4,4,0.8659,26.69,0,0.3891,0.849,0.6781,81.1955,
+River,Bosque Farms,Bf_5,Bf,BosqueFarms_5,5,0.993,26.25,0.5219,0.121,4.8654,1.0095,70.3266,
+South well,Bosque Farms,Bf_6,Bf,BosqueFarms_6,6,1.0218,28.449,0,0.5295,0.6986,0.99,90.5082,
+West well,Bosque Farms,Bf_7,Bf,BosqueFarms_7,7,0.921,31.956,0,0.28,0.2621,0.3721,81.82,
+Center well,Bosque Farms,Bf_8,Bf,BosqueFarms_8,8,0.9242,74.162,0,0.5316,0.6585,0,0,
+Ditch,Bosque Farms,Bf_9,Bf,BosqueFarms_9,9,1.0331,26.932,0,0.658,1.4309,1.6796,83.0743,
+East well,Bosque Farms,Bf_10,Bf,BosqueFarms_10,10,0.8588,30.619,0,0.342,0.7589,0,85.4817,
+North well,Bosque Farms,Bf_11,Bf,BosqueFarms_11,11,0.9385,31.807,0,0.5143,0.8968,0,66.8988,
+River,Bosque Farms,Bf_12,Bf,BosqueFarms_12,12,0.8611,15.685,0,0.188,2.7241,1.1021,44.4166,
+South well,Bosque Farms,Bf_13,Bf,BosqueFarms_13,13,1.014,25.885,0,0.3975,0.8513,1.139,61.1434,
+West well,Bosque Farms,Bf_14,Bf,BosqueFarms_14,14,0.9459,24.693,0,0.403,0.6835,0,52.0231,
+Center well,Bosque Farms,Bf_15,Bf,BosqueFarms_15,15,0.7028,21.2872,0,0.3876,0.2816,0.3283,50.4261,
+Ditch,Bosque Farms,Bf_16,Bf,BosqueFarms_16,16,0.4514,27.2872,0,0.1035,0.1441,0.3007,88.2454,
+East well,Bosque Farms,Bf_17,Bf,BosqueFarms_17,17,0.6736,32.43,0,0.5006,0.5988,0.2653,63.9478,
+North well,Bosque Farms,Bf_18,Bf,BosqueFarms_18,18,0.6736,29.6192,0,0.5552,0.6149,0.284,67.6193,
+River,Bosque Farms,Bf_19,Bf,BosqueFarms_19,19,0.5888,32.4486,0.4893,0.0658,2.7266,0,110.7443,
+South well,Bosque Farms,Bf_20,Bf,BosqueFarms_20,20,0.8426,27.4993,0,0.5533,0.9083,1.1442,47.0262,
+West well,Bosque Farms,Bf_21,Bf,BosqueFarms_21,21,0.7538,15.1995,0,0.4655,0.5245,0.4544,34.8428,
+Center well,Bosque Farms,Bf_22,Bf,BosqueFarms_22,22,0.8789,22.214,0,0.9361,1.4131,0.6916,72.6291,
+Ditch,Bosque Farms,Bf_23,Bf,BosqueFarms_23,23,0.8585,31.853,0.3485,0.9058,4.0315,1.1873,86.8844,
+East well,Bosque Farms,Bf_24,Bf,BosqueFarms_24,24,0.8012,17.362,0.222,0.9131,1.3893,0.6868,57.196,
+North well,Bosque Farms,Bf_25,Bf,BosqueFarms_25,25,0.8403,17.666,0.2086,0.878,1.3194,0.3993,51.5388,
+River,Bosque Farms,Bf_26,Bf,BosqueFarms_26,26,.,.,.,.,.,.,.,
+South well,Bosque Farms,Bf_27,Bf,BosqueFarms_27,27,0.8339,32.115,0.3236,0.8872,5.4765,2.0867,75.773,
+West well,Bosque Farms,Bf_28,Bf,BosqueFarms_28,28,0.798,29.284,0,0.9671,1.4915,1.2094,67.475,
+Center well,Bosque Farms,Bf_29,Bf,BosqueFarms_29,29,0.8778,28.789,0,0.1446,1.4233,0,48.8821,
+Ditch,Bosque Farms,Bf_30,Bf,BosqueFarms_30,30,0.6998,26.188,0.6787,0.5029,0.552,0.7556,80.1298,
+East well,Bosque Farms,Bf_31,Bf,BosqueFarms_31,31,0.8687,24.699,0,0.3706,1.4548,0.6392,65.2635,
+North well,Bosque Farms,Bf_32,Bf,BosqueFarms_32,32,0.8872,21.471,1.0531,0.0847,1.4039,0,50.8301,
+River,Bosque Farms,Bf_33,Bf,BosqueFarms_33,33,0.5165,20.946,0.5958,0.3867,2.9239,1.4249,43.1964,
+South well,Bosque Farms,Bf_34,Bf,BosqueFarms_34,34,0.8381,25.025,0,0.1623,1.4316,0.7636,60.4812,
+West well,Bosque Farms,Bf_35,Bf,BosqueFarms_35,35,0.5607,22.059,0,0.3659,0.4517,1.3835,51.4856,
+Center well,Bosque Farms,Bf_36,Bf,BosqueFarms_36,36,0.3786,12.811,0,0.3537,0.0668,0.0545,42.3331,
+Ditch,Bosque Farms,Bf_37,Bf,BosqueFarms_37,37,0.5672,26.605,0.1365,0.7106,0.8532,0.0501,86.5289,
+East well,Bosque Farms,Bf_38,Bf,BosqueFarms_38,38,0.2975,13.598,0,0.3781,0.0888,0.1148,44.2687,
+North well,Bosque Farms,Bf_39,Bf,BosqueFarms_39,39,0.5224,20.083,0,0.5491,0.1568,0.019,45.4102,
+River,Bosque Farms,Bf_40,Bf,BosqueFarms_40,40,0.069,16.93,0,0.485,2.2626,0.3392,59.1728,
+South well,Bosque Farms,Bf_41,Bf,BosqueFarms_41,41,0.4332,9.304,0,0.1925,0,0.2999,41.7671,
+West well,Bosque Farms,Bf_42,Bf,BosqueFarms_42,42,0.212,15.603,0,0.5149,0.0892,1.4118,36.5759,
+Center,Calabacillas,Cb_1,Cb,Calabacillas_1,1,.,10.19,.,0.07,0.01,0.07,35.6,0.11
+East,Calabacillas,Cb_2,Cb,Calabacillas_2,2,.,10.13,.,0.05,0.01,0.06,47.26,0.09
+North,Calabacillas,Cb_3,Cb,Calabacillas_3,3,.,6,.,0.05,0.02,0.07,26.23,0.15
+South,Calabacillas,Cb_4,Cb,Calabacillas_4,4,.,6.12,.,0.04,0.01,0.06,27.24,0.05
+West,Calabacillas,Cb_5,Cb,Calabacillas_5,5,.,18.71,.,0.07,0.02,0.03,78.58,0.06
+Center,Calabacillas,Cb_6,Cb,Calabacillas_6,6,.,18.58,.,0.07,0.02,0,77.08,0.08
+East,Calabacillas,Cb_7,Cb,Calabacillas_7,7,.,13.09,.,0.05,0.02,0.05,37.04,0.05
+North,Calabacillas,Cb_8,Cb,Calabacillas_8,8,.,11.49,.,0.06,0.03,0.07,40.62,0.11
+River,Calabacillas,Cb_9,Cb,Calabacillas_9,9,.,12.04,.,0.06,0.06,0.01,37.17,0.01
+South,Calabacillas,Cb_10,Cb,Calabacillas_10,10,.,10.74,.,0.06,0.02,0.04,41.62,0.03
+West,Calabacillas,Cb_11,Cb,Calabacillas_11,11,.,23.2,.,0.06,0.02,0.03,91.8,0.04
+Center,Calabacillas,Cb_12,Cb,Calabacillas_12,12,.,11.41,.,0.08,0.01,0.01,31.04,0.05
+Ditch,Calabacillas,Cb_13,Cb,Calabacillas_13,13,.,15.02,.,0.07,0.03,0.22,43.02,0.03
+East,Calabacillas,Cb_14,Cb,Calabacillas_14,14,.,7.65,.,0.04,0.01,0.12,32.81,0.07
+North,Calabacillas,Cb_15,Cb,Calabacillas_15,15,.,13.19,.,0.04,0.02,0.07,26.22,0.13
+River,Calabacillas,Cb_16,Cb,Calabacillas_16,16,.,6.02,.,0.01,0.06,0.03,39.07,0.03
+South,Calabacillas,Cb_17,Cb,Calabacillas_17,17,.,12.39,.,0.06,0.01,0.02,30.02,0.03
+West,Calabacillas,Cb_18,Cb,Calabacillas_18,18,.,12.75,.,0.05,0.01,0.03,32.96,0.04
+Center,Calabacillas,Cb_19,Cb,Calabacillas_19,19,.,14.86,.,0.1,0.02,0.02,62.79,0
+Ditch,Calabacillas,Cb_20,Cb,Calabacillas_20,20,.,12.68,.,0.06,0.03,0.03,54.78,0
+East,Calabacillas,Cb_21,Cb,Calabacillas_21,21,.,16.14,.,0.06,0.02,0.05,98.35,0.01
+North,Calabacillas,Cb_22,Cb,Calabacillas_22,22,.,6.13,.,0.07,0.01,0.09,27.35,0.1
+River,Calabacillas,Cb_23,Cb,Calabacillas_23,23,.,9.65,.,0.04,0.18,0.03,44.48,0.02
+South,Calabacillas,Cb_24,Cb,Calabacillas_24,24,.,8.13,.,0.06,0.02,0.05,47.36,0
+West,Calabacillas,Cb_25,Cb,Calabacillas_25,25,.,8.76,.,0.07,0.02,0.02,32.91,0
+Center,Calabacillas,Cb_26,Cb,Calabacillas_26,26,.,38.35,.,0.13,0.01,0,194.87,0.09
+Ditch,Calabacillas,Cb_27,Cb,Calabacillas_27,27,.,14.37,.,0.07,0.02,0.04,57.35,0.01
+East,Calabacillas,Cb_28,Cb,Calabacillas_28,28,.,11.19,.,0.07,0.02,0.05,41.72,0.05
+North,Calabacillas,Cb_29,Cb,Calabacillas_29,29,.,13.91,.,0.09,0.01,0.12,59.2,0.21
+River,Calabacillas,Cb_30,Cb,Calabacillas_30,30,.,7.96,.,0.03,0.08,0.02,35.76,0.02
+South,Calabacillas,Cb_31,Cb,Calabacillas_31,31,.,13.68,.,0.06,0.01,0.03,57.56,0.04
+West,Calabacillas,Cb_32,Cb,Calabacillas_32,32,.,17,.,0.08,0.03,0.01,84.11,0.05
+Center,Calabacillas,Cb_33,Cb,Calabacillas_33,33,.,20.71,.,0.11,0.03,0.01,118.81,0.07
+Ditch,Calabacillas,Cb_34,Cb,Calabacillas_34,34,.,14.7,.,0.07,0.04,0.02,58.52,0.02
+East,Calabacillas,Cb_35,Cb,Calabacillas_35,35,.,15.53,.,0.07,0.02,0.05,42.74,0.06
+North,Calabacillas,Cb_36,Cb,Calabacillas_36,36,.,8.51,.,0.06,0.03,0.1,21.61,0.13
+River,Calabacillas,Cb_37,Cb,Calabacillas_37,37,.,12.82,.,0.06,0.09,0.02,39.59,0.02
+South,Calabacillas,Cb_38,Cb,Calabacillas_38,38,.,9.74,.,0.07,0.03,0.05,39.81,0.04
+West,Calabacillas,Cb_39,Cb,Calabacillas_39,39,.,15.22,.,0.12,0.02,0.02,55.96,0.06
+Center,Calabacillas,Cb_40,Cb,Calabacillas_40,40,.,7.93,.,2.36,0.04,0.07,21.53,0.03
+Ditch,Calabacillas,Cb_41,Cb,Calabacillas_41,41,.,12.97,.,1.69,0.02,0.04,55.09,0.01
+East,Calabacillas,Cb_42,Cb,Calabacillas_42,42,.,11.78,.,1.25,0.05,0.11,44.94,0.02
+North,Calabacillas,Cb_43,Cb,Calabacillas_43,43,.,7.63,.,2.11,0.03,0.13,46.56,0.06
+River,Calabacillas,Cb_44,Cb,Calabacillas_44,44,.,8.76,.,0.59,0.04,0,40.71,0.01
+South,Calabacillas,Cb_45,Cb,Calabacillas_45,45,.,7.02,.,2.04,0.07,0.07,41.14,0.02
+West,Calabacillas,Cb_46,Cb,Calabacillas_46,46,.,10.07,.,2.41,0.03,0.07,46.77,0.02
+Center,Calabacillas,Cb_47,Cb,Calabacillas_47,47,.,18.59,.,0.15,0.01,0.02,76.23,0.03
+Ditch,Calabacillas,Cb_48,Cb,Calabacillas_48,48,.,8.07,.,0.04,0.05,0.25,41.33,0
+East,Calabacillas,Cb_49,Cb,Calabacillas_49,49,.,3.1,.,0.01,0.01,0.04,26.73,0.06
+North,Calabacillas,Cb_50,Cb,Calabacillas_50,50,.,5.06,.,0.04,0.03,0.09,20.03,0.06
+River,Calabacillas,Cb_51,Cb,Calabacillas_51,51,.,5.95,.,0.04,0.05,0.28,29.34,0
+South,Calabacillas,Cb_52,Cb,Calabacillas_52,52,.,4.84,.,0.04,0.02,0.06,25,0.04
+West,Calabacillas,Cb_53,Cb,Calabacillas_53,53,.,6.07,.,0.04,0.01,0.05,35.88,0.02
+Center,Calabacillas,Cb_54,Cb,Calabacillas_54,54,.,4.13,.,0.04,0.06,0.1,15.7,0.05
+Ditch,Calabacillas,Cb_55,Cb,Calabacillas_55,55,.,9.24,.,0.06,0.05,0.06,42.52,0
+East,Calabacillas,Cb_56,Cb,Calabacillas_56,56,.,9.5,.,0.03,0.02,0.03,42.8,0.05
+North,Calabacillas,Cb_57,Cb,Calabacillas_57,57,.,5.95,.,0.03,0.05,0.12,32.51,0.16
+River,Calabacillas,Cb_58,Cb,Calabacillas_58,58,.,13.1,.,0.03,0.13,0.04,44.07,0
+South,Calabacillas,Cb_59,Cb,Calabacillas_59,59,.,6.82,.,0.06,0.04,0.05,33.54,0.03
+West,Calabacillas,Cb_60,Cb,Calabacillas_60,60,.,4.57,.,0.04,0.06,0.04,25.75,0.06
+River,Coronado,Cd_1,Cd,Coronado_1,1,1.029,13.872,0,0.4846,1.2577,0,38.801,
+River blank,Coronado,Cd_2,Cd,Coronado_2,2,.,.,.,.,.,.,.,
+River duplicate,Coronado,Cd_3,Cd,Coronado_3,3,.,.,.,.,.,.,.,
+River,Coronado,Cd_4,Cd,Coronado_4,4,0.54,20.99,0,0.45,1.95,0,71.69,
+River blank,Coronado,Cd_5,Cd,Coronado_5,5,.,.,.,.,.,.,.,
+River duplicate,Coronado,Cd_6,Cd,Coronado_6,6,.,.,.,.,.,.,.,
+River,Coronado,Cd_7,Cd,Coronado_7,7,0.7463,29.934,0,0.8639,2.0506,0,106.9661,
+River blank,Coronado,Cd_8,Cd,Coronado_8,8,.,.,.,.,.,.,.,
+River duplicate,Coronado,Cd_9,Cd,Coronado_9,9,.,.,.,.,.,.,.,
+River,Coronado,Cd_10,Cd,Coronado_10,10,0.4362,10.412,0,0.3471,0.359,0,30.6159,
+River blank,Coronado,Cd_11,Cd,Coronado_11,11,.,.,.,.,.,.,.,
+River duplicate,Coronado,Cd_12,Cd,Coronado_12,12,.,.,.,.,.,.,.,
+River,Coronado,Cd_13,Cd,Coronado_13,13,.,.,.,.,.,.,.,
+River blank,Coronado,Cd_14,Cd,Coronado_14,14,.,.,.,.,.,.,.,
+River duplicate,Coronado,Cd_15,Cd,Coronado_15,15,.,.,.,.,.,.,.,
+Center,Crawford,Cf_1,Cf,Crawford_1,1,.,55.06,.,0.23,0.04,0.02,240.15,0.31
+East,Crawford,Cf_2,Cf,Crawford_2,2,.,87.36,.,0.32,0.03,0.37,373.52,0.64
+North,Crawford,Cf_3,Cf,Crawford_3,3,.,97.41,.,0.34,0.03,82.91,442.24,0.62
+South,Crawford,Cf_4,Cf,Crawford_4,4,.,57.05,.,0.26,0.05,0.01,218.89,0.36
+West,Crawford,Cf_5,Cf,Crawford_5,5,.,47.22,.,0.23,0.04,0.04,194.97,0.22
+Center,Crawford,Cf_6,Cf,Crawford_6,6,.,34.76,.,0.47,0.45,0,165.41,.
+East,Crawford,Cf_7,Cf,Crawford_7,7,.,63.9,.,0.64,1.48,0,349.5,.
+North,Crawford,Cf_8,Cf,Crawford_8,8,.,55.02,.,0.64,0.43,0,312.95,.
+South,Crawford,Cf_9,Cf,Crawford_9,9,.,40.41,.,0.63,0.35,0,190.73,.
+West,Crawford,Cf_10,Cf,Crawford_10,10,.,34.51,.,0.45,0.36,0,172.95,.
+Center,Crawford,Cf_11,Cf,Crawford_11,11,.,32.62,.,0.71,0.92,0,155.83,.
+East,Crawford,Cf_12,Cf,Crawford_12,12,.,48.55,.,0.48,0.36,0,258.48,.
+North,Crawford,Cf_13,Cf,Crawford_13,13,.,37.17,.,0.64,0.43,0,194.88,.
+South,Crawford,Cf_14,Cf,Crawford_14,14,.,38.68,.,0.53,0.33,0,180.81,.
+West,Crawford,Cf_15,Cf,Crawford_15,15,.,27.18,.,0.57,0,0,131.36,.
+Center,Crawford,Cf_16,Cf,Crawford_16,16,0.9823,31.73,.,0.96,0,0,145.79,.
+East,Crawford,Cf_17,Cf,Crawford_17,17,0.7321,20.75,.,0.47,0,0,90.91,.
+North,Crawford,Cf_18,Cf,Crawford_18,18,1.4657,51.53,.,0.66,0.24,0,237.62,.
+South,Crawford,Cf_19,Cf,Crawford_19,19,0.711,36.94,.,0.41,0,0,169.81,.
+West,Crawford,Cf_20,Cf,Crawford_20,20,0.9623,27.84,.,0.43,0.2,0,119.4,.
+Center,Diversion,DV_1,DV,Diversion_1,1,.,9.66,.,0.05,0.13,0.06,42.05,0.01
+East,Diversion,DV_2,DV,Diversion_2,2,.,11.36,.,0.05,0.13,0,45.36,0.02
+North,Diversion,DV_3,DV,Diversion_3,3,.,.,.,.,.,.,.,.
+South,Diversion,DV_4,DV,Diversion_4,4,.,10.38,.,0.04,0.07,0.05,42.59,0.02
+West,Diversion,DV_5,DV,Diversion_5,5,.,9.44,.,0.04,0.13,0.07,40.63,0.02
+Center,Diversion,DV_6,DV,Diversion_6,6,.,13.54,.,0.05,0.16,0.13,46.31,0.01
+East,Diversion,DV_7,DV,Diversion_7,7,.,.,.,.,.,.,.,.
+North,Diversion,DV_8,DV,Diversion_8,8,.,.,.,.,.,.,.,.
+South,Diversion,DV_9,DV,Diversion_9,9,.,.,.,.,.,.,.,.
+West,Diversion,DV_10,DV,Diversion_10,10,.,.,.,.,.,.,.,.
+Center,Diversion,DV_11,DV,Diversion_11,11,.,6.71,.,0.03,0.18,0.06,38.82,0
+East,Diversion,DV_12,DV,Diversion_12,12,.,7,.,0.05,0.09,0.04,38.52,0.02
+North,Diversion,DV_13,DV,Diversion_13,13,.,6.86,.,0.05,0.12,0.05,39.13,0.02
+South,Diversion,DV_14,DV,Diversion_14,14,.,6.52,.,0.05,0.03,0.04,34.58,0.01
+West,Diversion,DV_15,DV,Diversion_15,15,.,5.99,.,0.03,0.19,0.04,40.66,0.02
+Center,Diversion,DV_16,DV,Diversion_16,16,.,18.31,.,0.08,0.02,0.02,151,0
+East,Diversion,DV_17,DV,Diversion_17,17,.,14.66,.,0.06,0.02,0.03,92.41,0
+North,Diversion,DV_18,DV,Diversion_18,18,.,15.49,.,0.09,0.01,0.02,98.74,0
+South,Diversion,DV_19,DV,Diversion_19,19,.,14.07,.,0.06,0.01,0.02,100.88,0
+West,Diversion,DV_20,DV,Diversion_20,20,.,11.24,.,0.06,0.01,0.04,76.16,0
+Center,Diversion,DV_21,DV,Diversion_21,21,.,8.33,.,0.03,0.1,0.04,31.09,0
+East,Diversion,DV_22,DV,Diversion_22,22,.,10.59,.,0.04,0.08,0.04,35.55,0
+North,Diversion,DV_23,DV,Diversion_23,23,.,8.78,.,0.04,0.1,0.05,32.27,0
+South,Diversion,DV_24,DV,Diversion_24,24,.,10.49,.,0.06,0.04,0.05,33.41,0
+West,Diversion,DV_25,DV,Diversion_25,25,.,6.47,.,0.04,0.09,0.04,31.27,0
+Center,Diversion,DV_26,DV,Diversion_26,26,.,21.97,.,0.09,0.17,0.04,50.41,0.04
+East,Diversion,DV_27,DV,Diversion_27,27,.,18.02,.,0.06,0.09,0.02,49.96,0.01
+North,Diversion,DV_28,DV,Diversion_28,28,.,21.68,.,0.06,0.2,0.02,51.44,0
+South,Diversion,DV_29,DV,Diversion_29,29,.,21.81,.,0.08,0.13,0.04,51.16,0.01
+West,Diversion,DV_30,DV,Diversion_30,30,.,15.21,.,0.06,0.14,0.03,44.94,0.01
+Center,Diversion,DV_31,DV,Diversion_31,31,.,10.27,.,2.16,0.18,0.02,48.62,0
+East,Diversion,DV_32,DV,Diversion_32,32,.,9.12,.,1.58,0.15,0.05,42.98,0
+North,Diversion,DV_33,DV,Diversion_33,33,.,9.56,.,1.68,0.06,0.03,44.99,0.01
+South,Diversion,DV_34,DV,Diversion_34,34,.,9.66,.,1.11,0.16,0.02,46.23,0.01
+West,Diversion,DV_35,DV,Diversion_35,35,.,11.48,.,1.9,0.11,0.05,48.1,0
+Center,Diversion,DV_36,DV,Diversion_36,36,.,4.56,.,0.03,0.14,0.04,34.9,0.02
+East,Diversion,DV_37,DV,Diversion_37,37,.,3.72,.,0.04,0.07,0.02,33.25,0.01
+North,Diversion,DV_38,DV,Diversion_38,38,.,4.44,.,0.04,0.05,0.03,35.27,0.01
+South,Diversion,DV_39,DV,Diversion_39,39,.,4.21,.,0.04,0.06,0.04,31.86,0.01
+West,Diversion,DV_40,DV,Diversion_40,40,.,5.23,.,0.03,0.14,0.04,34.66,0.01
+Center,Diversion,DV_41,DV,Diversion_41,41,.,10.62,.,0.06,0.23,0.03,42.17,0
+East,Diversion,DV_42,DV,Diversion_42,42,.,9.38,.,0.07,0.14,0.04,39.1,0
+North,Diversion,DV_43,DV,Diversion_43,43,.,10.25,.,0.06,0.16,0.02,41.62,0
+South,Diversion,DV_44,DV,Diversion_44,44,.,10.28,.,0.05,0.2,0.01,39.81,0
+West,Diversion,DV_45,DV,Diversion_45,45,.,9.93,.,0.06,0.15,0.06,45.86,0
+Center,Diversion,DV_46,DV,Diversion_46,46,.,4.04,.,0,0.28,0.02,29.51,0.01
+East,Diversion,DV_47,DV,Diversion_47,47,.,5.52,.,0.04,0.18,0.04,30.65,0.03
+North,Diversion,DV_48,DV,Diversion_48,48,.,4.62,.,0.03,0.23,0.03,29.87,0.02
+River,Diversion,DV_49,DV,Diversion_49,49,.,3.21,.,0.01,0.11,0.02,28.55,0.03
+South,Diversion,DV_50,DV,Diversion_50,50,.,5.21,.,0.02,0.11,0.03,32.08,0.01
+West,Diversion,DV_51,DV,Diversion_51,51,.,3.49,.,0,0.21,0.02,29.39,0.01
+Center,Diversion,DV_52,DV,Diversion_52,52,.,3.6,.,0.01,0.24,0.02,32.5,0
+East,Diversion,DV_53,DV,Diversion_53,53,.,4,.,0,0.09,0.05,29.77,0.01
+North,Diversion,DV_54,DV,Diversion_54,54,.,3.89,.,0.02,0.13,0.03,30.26,0.01
+River,Diversion,DV_55,DV,Diversion_55,55,.,4.18,.,0.03,0.14,0.01,48.55,0.01
+South,Diversion,DV_56,DV,Diversion_56,56,.,3.95,.,0.01,0.14,0.02,30.83,0
+West,Diversion,DV_57,DV,Diversion_57,57,.,5.31,.,0.02,0.24,0.02,43.58,0
+Center,Diversion,DV_58,DV,Diversion_58,58,.,5.18,.,0.03,0.22,0.03,51.19,0.04
+East,Diversion,DV_59,DV,Diversion_59,59,.,4.64,.,0.03,0.09,0.02,50.49,0.04
+North,Diversion,DV_60,DV,Diversion_60,60,.,5.03,.,0.04,0.06,0.02,50.18,0.03
+River,Diversion,DV_61,DV,Diversion_61,61,.,6.43,.,0.02,0.11,0.03,53.67,0.03
+South,Diversion,DV_62,DV,Diversion_62,62,.,4.78,.,0.04,0.13,0.03,48.42,0.02
+West,Diversion,DV_63,DV,Diversion_63,63,.,13.93,.,0.02,0.05,0.01,66.54,0.01
+Center,Diversion,DV_64,DV,Diversion_64,64,.,9.43,.,0.5,0.8,0,40.86,.
+East,Diversion,DV_65,DV,Diversion_65,65,.,10.71,.,0.47,0.64,0,40.7,.
+North,Diversion,DV_66,DV,Diversion_66,66,.,9.81,.,0.41,0.74,0,42.04,.
+River,Diversion,DV_67,DV,Diversion_67,67,.,12.96,.,0.67,3.28,0,45.51,.
+South,Diversion,DV_68,DV,Diversion_68,68,.,9.88,.,0.59,2.14,0,40.78,.
+West,Diversion,DV_69,DV,Diversion_69,69,.,11.11,.,0.45,0.69,0,41.35,.
+Center,Diversion,DV_70,DV,Diversion_70,70,.,4.91,.,0.59,0.63,0,39.4,.
+East,Diversion,DV_71,DV,Diversion_71,71,.,4.68,.,0.36,0.35,0,39.26,.
+North,Diversion,DV_72,DV,Diversion_72,72,.,4.59,.,0,0.33,0,35.92,.
+River,Diversion,DV_73,DV,Diversion_73,73,.,4.37,.,0,0.45,0,35.14,.
+South,Diversion,DV_74,DV,Diversion_74,74,.,4.94,.,0.59,0.37,0,35.92,.
+West,Diversion,DV_75,DV,Diversion_75,75,.,4.79,.,0,0.37,0,36.23,.
+Center,Diversion,DV_76,DV,Diversion_76,76,0.5151,8.27,.,0,0,0,47.81,.
+East,Diversion,DV_77,DV,Diversion_77,77,0.6482,9.03,.,0,0,0,47.76,.
+North,Diversion,DV_78,DV,Diversion_78,78,0.5564,8.46,.,0,0,0,47.65,.
+River,Diversion,DV_79,DV,Diversion_79,79,0.6652,8.58,.,0,0,0,47.1,.
+South,Diversion,DV_80,DV,Diversion_80,80,0.7036,8.16,.,0,0,0,45.95,.
+West,Diversion,DV_81,DV,Diversion_81,81,0.8408,8.8,.,0.5,0.23,0,48.57,.
+East well,Diversion,DV_82,DV,Diversion_82,82,0.871,9.552,0,0,1.2026,0,57.9284,
+North well,Diversion,DV_83,DV,Diversion_83,83,0.7972,9.872,0,0,0,0,55.7045,
+River,Diversion,DV_84,DV,Diversion_84,84,0.9706,7.758,0,0,0.6147,0,47.9203,
+South well,Diversion,DV_85,DV,Diversion_85,85,0.7744,9.08,0,0,0,0,47.9137,
+West well,Diversion,DV_86,DV,Diversion_86,86,0.8645,9.257,0,0.0303,0,0,47.9071,
+East well,Diversion,DV_87,DV,Diversion_87,87,1.4935,14.83,0,0.2747,0.8655,1.1853,42.1567,
+North well,Diversion,DV_88,DV,Diversion_88,88,1.4456,16.143,0,0.4277,1.008,0.904,40.413,
+River,Diversion,DV_89,DV,Diversion_89,89,1.4511,9.517,0,0,0.2179,0,34.1223,
+South well,Diversion,DV_90,DV,Diversion_90,90,1.2795,15.885,0,0.1817,1.2755,1.0574,41.5508,
+West well,Diversion,DV_91,DV,Diversion_91,91,1.2358,19.262,0,0.0542,0.5364,0,49.8097,
+East well,Diversion,DV_92,DV,Diversion_92,92,0.3327,6.7848,0,0.0411,0.1657,0,61.7489,
+North well,Diversion,DV_93,DV,Diversion_93,93,0.3102,6.5317,0,0.0402,0.0768,0,50.1375,
+River,Diversion,DV_94,DV,Diversion_94,94,0.3054,7.1378,0.1451,0,1.0212,0,50.8596,
+South well,Diversion,DV_95,DV,Diversion_95,95,0.5449,6.3238,0,0.1353,0.2119,0.1197,44.3939,
+West well,Diversion,DV_96,DV,Diversion_96,96,0.3415,9.799,0,0,0.3605,0,51.1008,
+East well,Diversion,DV_97,DV,Diversion_97,97,0.5206,24.76,0.0885,0.8333,1.7011,0.2993,144,
+North well,Diversion,DV_98,DV,Diversion_98,98,0.5165,16.39,0.1306,0.7731,1.828,0.5449,94.67,
+River,Diversion,DV_99,DV,Diversion_99,99,0.6363,14.01,0,0.8067,1.8024,0.5241,61.29,
+South well,Diversion,DV_100,DV,Diversion_100,100,0.5172,19.39,0,0.8099,1.4743,0.46,108.56,
+West well,Diversion,DV_101,DV,Diversion_101,101,0.6127,18.08,0,0.7883,1.8704,0.494,67.98,
+East well,Diversion,DV_102,DV,Diversion_102,102,0.1768,1.284,0,0,0.3512,0,4.2534,
+North well,Diversion,DV_103,DV,Diversion_103,103,0.5408,10.789,0,0.5062,0.9777,0.4252,32.591,
+River,Diversion,DV_104,DV,Diversion_104,104,0.5429,11.218,0.6482,0.4257,0.6844,0,31.9508,
+South well,Diversion,DV_105,DV,Diversion_105,105,0.5863,11.538,0,0.4058,1.2532,0.3687,32.9863,
+West well,Diversion,DV_106,DV,Diversion_106,106,0.5063,11.854,0,0.3481,0.8515,0,22.2794,
+East well,Diversion,DV_107,DV,Diversion_107,107,0.2959,7.109,1.5193,0.6623,0.5051,0.2819,51.4321,
+North well,Diversion,DV_108,DV,Diversion_108,108,0.2551,7.348,0,0.9601,0,0.293,51.8389,
+River,Diversion,DV_109,DV,Diversion_109,109,0.2719,6.096,0,0.0494,0.2086,0,51.8484,
+South well,Diversion,DV_110,DV,Diversion_110,110,0.3052,7.432,0,0.747,0.5818,0,50.8969,
+West well,Diversion,DV_111,DV,Diversion_111,111,0.228,5.876,0.848,0.0321,0,0,51.4725,
+Center,Harrison,Hr_1,Hr,Harrison_1,1,.,11.67,.,0.05,0.01,0.12,36.72,0.39
+Ditch,Harrison,Hr_2,Hr,Harrison_2,2,.,10.18,.,0.05,0.03,0.04,49.17,0.01
+East,Harrison,Hr_3,Hr,Harrison_3,3,.,.,.,.,.,.,.,.
+North,Harrison,Hr_4,Hr,Harrison_4,4,.,6.96,.,0.05,0.01,0.09,40.43,0.21
+River,Harrison,Hr_5,Hr,Harrison_5,5,.,10.98,.,0.04,0.11,0.03,40.67,0.01
+South,Harrison,Hr_6,Hr,Harrison_6,6,.,23.35,.,0.06,0.01,0.21,58.3,1.26
+West,Harrison,Hr_7,Hr,Harrison_7,7,.,16.13,.,0,0.01,0.09,48.43,0.11
+Center,Harrison,Hr_8,Hr,Harrison_8,8,.,11.4,.,0.06,0.02,0.11,38.86,0.33
+Ditch,Harrison,Hr_9,Hr,Harrison_9,9,.,13.55,.,0.05,0.03,0.02,50.23,0.06
+East,Harrison,Hr_10,Hr,Harrison_10,10,.,.,.,.,.,.,.,.
+North,Harrison,Hr_11,Hr,Harrison_11,11,.,10.66,.,0.05,0.02,0.1,44.97,0.21
+River,Harrison,Hr_12,Hr,Harrison_12,12,.,10.33,.,0.04,0.13,0.04,39.09,0.03
+South,Harrison,Hr_13,Hr,Harrison_13,13,.,11.25,.,0.06,0.01,0.2,45.5,0.92
+West,Harrison,Hr_14,Hr,Harrison_14,14,.,13.81,.,0.04,0.03,0.08,43,0.11
+Center,Harrison,Hr_15,Hr,Harrison_15,15,.,12.71,.,0.06,0.01,0.09,36.73,0.35
+Ditch,Harrison,Hr_16,Hr,Harrison_16,16,.,6.97,.,0,0.04,0.02,19.42,0.04
+East,Harrison,Hr_17,Hr,Harrison_17,17,.,.,.,.,.,.,.,.
+North,Harrison,Hr_18,Hr,Harrison_18,18,.,12.75,.,0.07,0.02,0.1,42.22,0.2
+River,Harrison,Hr_19,Hr,Harrison_19,19,.,6.83,.,0.02,0.16,0.04,42.78,0.04
+South,Harrison,Hr_20,Hr,Harrison_20,20,.,12.85,.,0.05,0.01,0.2,40.86,0.99
+West,Harrison,Hr_21,Hr,Harrison_21,21,.,14.53,.,0.07,0.02,0.06,43.62,0.11
+Center,Harrison,Hr_22,Hr,Harrison_22,22,.,8.36,.,0.05,0.03,0.12,34.08,0.16
+Ditch,Harrison,Hr_23,Hr,Harrison_23,23,.,13.68,.,0.06,0.1,0.04,74.4,0
+East,Harrison,Hr_24,Hr,Harrison_24,24,.,9.6,.,0.04,0.01,0.23,57.39,0.17
+North,Harrison,Hr_25,Hr,Harrison_25,25,.,8.99,.,0.07,0.01,0.06,73.99,0.19
+River,Harrison,Hr_26,Hr,Harrison_26,26,.,11.58,.,0.04,0.26,0.06,56.32,0.01
+South,Harrison,Hr_27,Hr,Harrison_27,27,.,21.56,.,0.08,0.01,0.16,82.11,1.1
+West,Harrison,Hr_28,Hr,Harrison_28,28,.,17.21,.,0.08,0.01,0.1,82.67,0.1
+Center,Harrison,Hr_29,Hr,Harrison_29,29,.,11.7,.,0.07,0,0.13,80.18,0.34
+Ditch,Harrison,Hr_30,Hr,Harrison_30,30,.,14.16,.,0.06,0.04,0.04,61.07,0
+East,Harrison,Hr_31,Hr,Harrison_31,31,.,10.9,.,0.06,0.01,0.14,60.95,0.21
+North,Harrison,Hr_32,Hr,Harrison_32,32,.,15.05,.,0.08,0.01,0.11,101.84,0.27
+River,Harrison,Hr_33,Hr,Harrison_33,33,.,7.79,.,0.03,0.1,0.02,32.82,0.02
+South,Harrison,Hr_34,Hr,Harrison_34,34,.,8.5,.,0.07,0.01,0.25,41.34,0.9
+West,Harrison,Hr_35,Hr,Harrison_35,35,.,21.26,.,0.11,0.01,0.1,90.81,0.2
+Center,Harrison,Hr_36,Hr,Harrison_36,36,.,11.77,.,0.07,0.02,0.1,34.04,0.32
+Ditch,Harrison,Hr_37,Hr,Harrison_37,37,.,16.41,.,0.07,0.04,0.03,55.38,0.03
+East,Harrison,Hr_38,Hr,Harrison_38,38,.,12.47,.,0.06,0.02,0.1,40.93,0.17
+North,Harrison,Hr_39,Hr,Harrison_39,39,.,10.22,.,0.06,0.01,0.07,41.76,0.2
+River,Harrison,Hr_40,Hr,Harrison_40,40,.,14.54,.,0.06,0.12,0.05,42.21,0.05
+South,Harrison,Hr_41,Hr,Harrison_41,41,.,10.21,.,0.07,0.01,0.18,43.7,0.7
+West,Harrison,Hr_42,Hr,Harrison_42,42,.,16.03,.,0.08,0.02,0.06,64.13,0.18
+Center,Harrison,Hr_43,Hr,Harrison_43,43,.,13.31,.,0.06,0.06,0.18,60.48,0.14
+Ditch,Harrison,Hr_44,Hr,Harrison_44,44,.,10.35,.,0.07,0.05,0.03,54.65,0
+East,Harrison,Hr_45,Hr,Harrison_45,45,.,23.93,.,0.01,0.01,0.1,59.34,0.17
+North,Harrison,Hr_46,Hr,Harrison_46,46,.,7.31,.,0.05,0.03,0.14,43.54,0.04
+River,Harrison,Hr_47,Hr,Harrison_47,47,.,12.79,.,0.06,0.14,0.01,50.15,0
+South,Harrison,Hr_48,Hr,Harrison_48,48,.,15.76,.,0.08,0.06,0.22,49.6,0.64
+West,Harrison,Hr_49,Hr,Harrison_49,49,.,6.91,.,0.05,0.02,0.05,42.8,0.08
+Center,Harrison,Hr_50,Hr,Harrison_50,50,.,4.99,.,0.03,0.02,0.09,40.39,0.35
+Ditch,Harrison,Hr_51,Hr,Harrison_51,51,.,5.7,.,0.03,0.07,0.04,38.51,0.01
+East,Harrison,Hr_52,Hr,Harrison_52,52,.,4.78,.,0.05,0.04,0.08,34.4,0.04
+North,Harrison,Hr_53,Hr,Harrison_53,53,.,8.38,.,0.1,0.05,0.07,36.84,0.15
+River,Harrison,Hr_54,Hr,Harrison_54,54,.,5.63,.,0.03,0.2,0.02,34.77,0.02
+South,Harrison,Hr_55,Hr,Harrison_55,55,.,3.5,.,0.03,0.05,0.17,30.07,0.54
+West,Harrison,Hr_56,Hr,Harrison_56,56,.,13.18,.,0.05,0.03,0.07,44.99,0.01
+Center,Harrison,Hr_57,Hr,Harrison_57,57,.,5.86,.,0.04,0.05,0.13,36.29,0.28
+Ditch,Harrison,Hr_58,Hr,Harrison_58,58,.,7.89,.,0.05,0.04,0.03,43.66,0
+East,Harrison,Hr_59,Hr,Harrison_59,59,.,8.37,.,0.04,0.07,0.05,43.55,0.05
+North,Harrison,Hr_60,Hr,Harrison_60,60,.,5.63,.,0.02,0.04,0.08,44.36,0.19
+River,Harrison,Hr_61,Hr,Harrison_61,61,.,11.26,.,0.05,0.18,0.03,44.84,0
+South,Harrison,Hr_62,Hr,Harrison_62,62,.,6.56,.,0.03,0.06,0.15,37.63,0.87
+West,Harrison,Hr_63,Hr,Harrison_63,63,.,7.54,.,0.03,0.02,0.05,42.26,0.04
+Center,Harrison,Hr_64,Hr,Harrison_64,64,.,.,.,.,.,.,.,.
+Ditch,Harrison,Hr_65,Hr,Harrison_65,65,.,10.64,.,0.05,0.07,0.03,43.29,0.02
+East,Harrison,Hr_66,Hr,Harrison_66,66,.,9.49,.,0.03,0.19,0.04,37.65,0.02
+North Surf,Harrison,Hr_67,Hr,Harrison_67,67,.,3.43,.,0,0.09,0.01,29.46,0.04
+River,Harrison,Hr_68,Hr,Harrison_68,68,.,3.46,.,0.01,0.1,0.01,29.47,0.04
+South Surf,Harrison,Hr_69,Hr,Harrison_69,69,.,3.53,.,0.01,0.07,0.01,29.72,0.05
+West,Harrison,Hr_70,Hr,Harrison_70,70,.,8.81,.,0.01,0.04,0.04,94.19,0.03
+Center,Harrison,Hr_71,Hr,Harrison_71,71,.,10.73,.,0.03,0.04,0.09,38.84,0.23
+Ditch,Harrison,Hr_72,Hr,Harrison_72,72,.,7.98,.,0,0.06,0.03,42.09,0.02
+East,Harrison,Hr_73,Hr,Harrison_73,73,.,7.73,.,0.03,0.03,0.05,60.56,0.02
+North,Harrison,Hr_74,Hr,Harrison_74,74,.,13.06,.,0.04,0.04,0.07,41.41,0.19
+River,Harrison,Hr_75,Hr,Harrison_75,75,.,5.09,.,n.a.,0.15,0.02,47,0.02
+South,Harrison,Hr_76,Hr,Harrison_76,76,.,9.18,.,0.03,0.06,0.1,33.53,0.66
+West,Harrison,Hr_77,Hr,Harrison_77,77,.,3.66,.,0.02,0.05,0.03,26.24,0.03
+Center,Harrison,Hr_78,Hr,Harrison_78,78,.,11.87,.,0.03,0.05,0.06,44.3,0.24
+Ditch,Harrison,Hr_79,Hr,Harrison_79,79,.,6.9,.,0.04,0.05,0.02,47.58,0.02
+East,Harrison,Hr_80,Hr,Harrison_80,80,.,4.74,.,0.02,0.07,0.03,53.09,0.01
+North,Harrison,Hr_81,Hr,Harrison_81,81,.,5.39,.,0.03,0.04,0.12,36.4,0.15
+River,Harrison,Hr_82,Hr,Harrison_82,82,.,6.37,.,0.02,0.18,0.03,50.72,0.07
+South,Harrison,Hr_83,Hr,Harrison_83,83,.,8.57,.,0.04,0.07,0.1,38.76,0.56
+West,Harrison,Hr_84,Hr,Harrison_84,84,.,4.73,.,0.02,0.03,0.05,53.28,0.03
+Center,Harrison,Hr_85,Hr,Harrison_85,85,.,16.39,.,0.56,1.04,0,51.57,.
+Ditch,Harrison,Hr_86,Hr,Harrison_86,86,.,11.02,.,0.67,0.85,0,51.75,.
+East,Harrison,Hr_87,Hr,Harrison_87,87,.,10.87,.,0.67,0.72,0,42.3,.
+North,Harrison,Hr_88,Hr,Harrison_88,88,.,11.96,.,0.41,0.44,0,50.24,.
+River,Harrison,Hr_89,Hr,Harrison_89,89,.,11.06,.,0.4,0.8,0,44.61,.
+South,Harrison,Hr_90,Hr,Harrison_90,90,.,9.53,.,0.42,0.63,0,43.22,.
+West,Harrison,Hr_91,Hr,Harrison_91,91,.,11.7,.,0.4,0.42,0,49.45,.
+Center,Harrison,Hr_92,Hr,Harrison_92,92,.,4.98,.,0,0.33,0,41.52,.
+Ditch,Harrison,Hr_93,Hr,Harrison_93,93,.,7.21,.,0,0.35,0,48.43,.
+East,Harrison,Hr_94,Hr,Harrison_94,94,.,5.3,.,0.51,0.4,0,38.81,.
+North,Harrison,Hr_95,Hr,Harrison_95,95,.,5.42,.,0.65,0.45,0,44.71,.
+River,Harrison,Hr_96,Hr,Harrison_96,96,.,5.78,.,0.39,0.46,0,41.17,.
+South,Harrison,Hr_97,Hr,Harrison_97,97,.,4.82,.,0.38,0.31,0,41.73,.
+West,Harrison,Hr_98,Hr,Harrison_98,98,.,5.36,.,0.51,0.39,0,46.96,.
+Center,Harrison,Hr_99,Hr,Harrison_99,99,0.5657,10.24,.,0,0,0,52.93,.
+Ditch,Harrison,Hr_100,Hr,Harrison_100,100,0.7071,9.88,.,0.46,0,0,50.18,.
+East,Harrison,Hr_101,Hr,Harrison_101,101,0.5677,13.3,.,0.35,0,0,58.36,.
+North,Harrison,Hr_102,Hr,Harrison_102,102,0.6934,12.79,.,0.44,0,0,56.08,.
+River,Harrison,Hr_103,Hr,Harrison_103,103,0.647,9.15,.,0.35,0,0,54.48,.
+South,Harrison,Hr_104,Hr,Harrison_104,104,0.7439,9.75,.,0,0.19,0,48.27,.
+West,Harrison,Hr_105,Hr,Harrison_105,105,0.7733,9.94,.,0.57,0.39,0,55.13,.
+Center well,Harrison,Hr_106,Hr,Harrison_106,106,0.7935,9.184,0,0,0,0,62.86,
+Ditch,Harrison,Hr_107,Hr,Harrison_107,107,0.801,9.874,0,0,0.1003,0,64.95,
+East well,Harrison,Hr_108,Hr,Harrison_108,108,0.7689,8.41,0,0,2.9005,0.2746,53.78,
+North well,Harrison,Hr_109,Hr,Harrison_109,109,0.8109,9.032,0,0,0.2751,0,60.6692,
+River,Harrison,Hr_110,Hr,Harrison_110,110,0.8487,10.661,0.4585,0.1778,1.2389,0,53.358,
+South well,Harrison,Hr_111,Hr,Harrison_111,111,0.7573,10.184,0,0,0.5039,0,69.1856,
+West well,Harrison,Hr_112,Hr,Harrison_112,112,0.5255,2.878,0,0,0,0,16.45,
+Center well,Harrison,Hr_113,Hr,Harrison_113,113,0.9494,19.323,0,0.4711,0.9616,0,90.4814,
+Ditch,Harrison,Hr_114,Hr,Harrison_114,114,0.8341,13.329,0,0.2445,0.7662,0,56.8529,
+East well,Harrison,Hr_115,Hr,Harrison_115,115,1.0598,15.903,0,0.5477,2.0651,0,47.1475,
+North well,Harrison,Hr_116,Hr,Harrison_116,116,0.8015,12.83,0,0,0.6165,0,48.691,
+River,Harrison,Hr_117,Hr,Harrison_117,117,1.0193,9.951,0,0.3767,1.4458,0,35.414,
+South well,Harrison,Hr_118,Hr,Harrison_118,118,0.8689,16.164,0,0.1807,1.1639,0,46.5664,
+West well,Harrison,Hr_119,Hr,Harrison_119,119,0.9004,15.768,0,0.4337,1.2778,0,51.9092,
+Center well,Harrison,Hr_120,Hr,Harrison_120,120,0.6963,6.5415,0,0,0.0749,0.1267,42.7342,
+Ditch,Harrison,Hr_121,Hr,Harrison_121,121,0.3605,10.5422,0,0.0818,0.2505,0,54.0956,
+East well,Harrison,Hr_122,Hr,Harrison_122,122,0.3634,7.9976,0,0,0.0593,0.2025,47.3539,
+North well,Harrison,Hr_123,Hr,Harrison_123,123,0.5722,8.0828,0,0,0.3058,0,48.6123,
+River,Harrison,Hr_124,Hr,Harrison_124,124,0.6436,29.9268,0.397,0.0456,12.3274,1.4464,118.8306,
+South well,Harrison,Hr_125,Hr,Harrison_125,125,0.3308,5.8699,0,0,0.2206,0,44.5183,
+West well,Harrison,Hr_126,Hr,Harrison_126,126,0.6471,8.9648,0,0.4473,0.9575,0.8092,32.155,
+Center well,Harrison,Hr_127,Hr,Harrison_127,127,0.7024,8.644,0.2223,0.8729,1.5734,0.6452,56.4585,
+Ditch,Harrison,Hr_128,Hr,Harrison_128,128,0.793,20.124,0.2433,0.9421,1.5431,0.454,131.3759,
+East well,Harrison,Hr_129,Hr,Harrison_129,129,0.6944,19.053,0.2184,0.857,1.4511,0.4211,116.3676,
+North well,Harrison,Hr_130,Hr,Harrison_130,130,0.6903,8.645,0,0.9576,1.4561,0.6218,56.5267,
+River,Harrison,Hr_131,Hr,Harrison_131,131,0.8169,16.727,0,0.8425,2.0577,0.4155,69.6156,
+South well,Harrison,Hr_132,Hr,Harrison_132,132,0.6974,11.776,0,0.8568,1.3793,0.4563,65.5234,
+West well,Harrison,Hr_133,Hr,Harrison_133,133,0.9191,7.675,0,0.9129,1.4541,0.7024,57.7795,
+Center well,Harrison,Hr_134,Hr,Harrison_134,134,0.9534,11.908,1.3675,0.1381,1.577,0,39.3041,
+Ditch,Harrison,Hr_135,Hr,Harrison_135,135,0.8869,14.647,0,0.1422,1.4418,0,62.5723,
+East well,Harrison,Hr_136,Hr,Harrison_136,136,0.8564,11.647,1.2359,0.1246,2.0626,0,34.3095,
+North well,Harrison,Hr_137,Hr,Harrison_137,137,0.7639,13.441,0,0.2147,0,0.3721,45.6944,
+River,Harrison,Hr_138,Hr,Harrison_138,138,0.8776,11.057,0,0.0621,1.6542,0,32.1065,
+South well,Harrison,Hr_139,Hr,Harrison_139,139,1.2811,12.362,1.3933,0.8346,3.5605,0.897,36.5007,
+West well,Harrison,Hr_140,Hr,Harrison_140,140,0.3919,12.192,0,0.3726,0.3651,0.3978,46.9591,
+Center well,Harrison,Hr_141,Hr,Harrison_141,141,.,.,.,.,.,.,.,
+Ditch,Harrison,Hr_142,Hr,Harrison_142,142,0.3986,8.941,0,0.9103,0,0,54.6685,
+East well,Harrison,Hr_143,Hr,Harrison_143,143,0.2444,6.005,0,0.0398,0,0,46.9936,
+North well,Harrison,Hr_144,Hr,Harrison_144,144,.,.,.,.,.,.,.,
+River,Harrison,Hr_145,Hr,Harrison_145,145,0.2714,6.855,1.3663,0.6141,0.3973,0,56.6249,
+South well,Harrison,Hr_146,Hr,Harrison_146,146,0.3162,7.43,0,0.1622,0,0.7507,53.0183,
+West well,Harrison,Hr_147,Hr,Harrison_147,147,0.5149,5.809,0,1.1717,0.3908,1.5172,34.9593,
+Center,Hispanic Cultural Center,HS_1,HS,HispanicCenter_1,1,.,10.32,.,0.05,0.09,0.05,47.35,0.01
+Ditch,Hispanic Cultural Center,HS_2,HS,HispanicCenter_2,2,.,11.56,.,0.05,0.05,0.02,52.11,0.03
+East,Hispanic Cultural Center,HS_3,HS,HispanicCenter_3,3,.,9.56,.,0.05,0.01,0.04,46.35,0.02
+North,Hispanic Cultural Center,HS_4,HS,HispanicCenter_4,4,.,8.99,.,0.07,0.02,0.05,22.53,0.01
+River,Hispanic Cultural Center,HS_5,HS,HispanicCenter_5,5,.,11.24,.,0.02,0.04,0.02,43.37,0.03
+South,Hispanic Cultural Center,HS_6,HS,HispanicCenter_6,6,.,10.59,.,0.06,0.06,0.07,46.29,0.01
+West,Hispanic Cultural Center,HS_7,HS,HispanicCenter_7,7,.,11.3,.,0.05,0.02,0.02,37.2,0.04
+Center,Hispanic Cultural Center,HS_8,HS,HispanicCenter_8,8,.,12.5,.,0.06,0.13,0.03,43.03,0
+Ditch,Hispanic Cultural Center,HS_9,HS,HispanicCenter_9,9,.,12.18,.,0.04,0.04,0.04,50.76,0.03
+East,Hispanic Cultural Center,HS_10,HS,HispanicCenter_10,10,.,11.1,.,0.04,0.07,0.04,42.34,0
+North,Hispanic Cultural Center,HS_11,HS,HispanicCenter_11,11,.,11.55,.,0.05,0.03,0.04,43.27,0.02
+River,Hispanic Cultural Center,HS_12,HS,HispanicCenter_12,12,.,17.77,.,0.06,0.06,0.02,42.51,0.01
+South,Hispanic Cultural Center,HS_13,HS,HispanicCenter_13,13,.,12.12,.,0.05,0.11,0.02,42.86,0
+West,Hispanic Cultural Center,HS_14,HS,HispanicCenter_14,14,.,13.21,.,0.04,0.05,0.03,44.82,0.04
+Center,Hispanic Cultural Center,HS_15,HS,HispanicCenter_15,15,.,6.84,.,0.04,0.04,0.03,38.65,0
+Ditch,Hispanic Cultural Center,HS_16,HS,HispanicCenter_16,16,.,10.66,.,0.03,0.05,0.02,50.57,0.05
+East,Hispanic Cultural Center,HS_17,HS,HispanicCenter_17,17,.,8.76,.,0.06,0.05,0.03,37.33,0
+North,Hispanic Cultural Center,HS_18,HS,HispanicCenter_18,18,.,7.43,.,0.07,0.04,0.05,38.61,0.01
+River,Hispanic Cultural Center,HS_19,HS,HispanicCenter_19,19,.,8.45,.,0.01,0.16,0.04,49.09,0.03
+South,Hispanic Cultural Center,HS_20,HS,HispanicCenter_20,20,.,8.18,.,0.06,0.07,0.04,37.58,0.01
+West,Hispanic Cultural Center,HS_21,HS,HispanicCenter_21,21,.,8.08,.,0.05,0.03,0.04,37.69,0.04
+Center,Hispanic Cultural Center,HS_22,HS,HispanicCenter_22,22,.,29.66,.,0.07,0.02,0.03,102.28,0
+Ditch,Hispanic Cultural Center,HS_23,HS,HispanicCenter_23,23,.,10.6,.,0.05,0.1,0.04,50.59,0.02
+East,Hispanic Cultural Center,HS_24,HS,HispanicCenter_24,24,.,8.89,.,0.06,0.01,0.04,51.76,0
+North,Hispanic Cultural Center,HS_25,HS,HispanicCenter_25,25,.,11.24,.,0.05,0.03,0.03,63.46,0
+River,Hispanic Cultural Center,HS_26,HS,HispanicCenter_26,26,.,13.85,.,0.05,0.21,0,54.56,0.02
+South,Hispanic Cultural Center,HS_27,HS,HispanicCenter_27,27,.,10.66,.,0.05,0.01,0.03,72.87,0
+West,Hispanic Cultural Center,HS_28,HS,HispanicCenter_28,28,.,13.19,.,0.05,0.01,0.01,83.72,0.01
+East,Hispanic Cultural Center,HS_29,HS,HispanicCenter_29,29,.,11.76,.,0.06,0.01,0.03,59.88,0.01
+North,Hispanic Cultural Center,HS_30,HS,HispanicCenter_30,30,.,10.17,.,0.05,0.02,0.04,41.1,0.03
+Center,Hispanic Cultural Center,HS_31,HS,HispanicCenter_31,31,.,28.5,.,0.06,0.05,0.04,61.89,0.01
+Ditch,Hispanic Cultural Center,HS_32,HS,HispanicCenter_32,32,.,13.32,.,0.07,0.03,0.05,63.27,0.02
+River,Hispanic Cultural Center,HS_33,HS,HispanicCenter_33,33,.,8.88,.,0.04,0.03,0.06,41.26,0.02
+South,Hispanic Cultural Center,HS_34,HS,HispanicCenter_34,34,.,11.23,.,0.07,0.06,0.04,47.18,0.02
+West,Hispanic Cultural Center,HS_35,HS,HispanicCenter_35,35,.,12.76,.,0.07,0.02,0.06,49.32,0.06
+Center,Hispanic Cultural Center,HS_36,HS,HispanicCenter_36,36,.,18.38,.,0.04,0.12,0.01,49.66,0
+East,Hispanic Cultural Center,HS_37,HS,HispanicCenter_37,37,.,15.88,.,0.06,0.09,0.02,49.21,0
+Ditch,Hispanic Cultural Center,HS_38,HS,HispanicCenter_38,38,.,1.9,.,0.02,0.01,0,5.16,0.04
+North,Hispanic Cultural Center,HS_39,HS,HispanicCenter_39,39,.,19.08,.,0.08,0.06,0.02,52.65,0.05
+River,Hispanic Cultural Center,HS_40,HS,HispanicCenter_40,40,.,20.11,.,0.06,0.1,0.03,46.46,0.02
+South,Hispanic Cultural Center,HS_41,HS,HispanicCenter_41,41,.,18.29,.,0.06,0.11,0.02,49.38,0
+West,Hispanic Cultural Center,HS_42,HS,HispanicCenter_42,42,.,18.96,.,0.07,0.06,0.02,49.63,0.05
+Center,Hispanic Cultural Center,HS_43,HS,HispanicCenter_43,43,.,9.98,.,0.06,0.13,0.15,49.89,0.02
+Ditch,Hispanic Cultural Center,HS_44,HS,HispanicCenter_44,44,.,11.03,.,0.05,0,0.01,55.7,0.05
+East,Hispanic Cultural Center,HS_45,HS,HispanicCenter_45,45,.,8.86,.,0.09,0.04,0.04,51.17,0
+North,Hispanic Cultural Center,HS_46,HS,HispanicCenter_46,46,.,10.62,.,0.05,0.03,0.07,47.18,0
+River,Hispanic Cultural Center,HS_47,HS,HispanicCenter_47,47,.,11.88,.,0.06,0.04,0.01,52.49,0.03
+South,Hispanic Cultural Center,HS_48,HS,HispanicCenter_48,48,.,9.14,.,0.05,0.08,0.04,50.01,0
+West,Hispanic Cultural Center,HS_49,HS,HispanicCenter_49,49,.,9.99,.,0.08,0.05,0.09,51.72,0
+Center,Hispanic Cultural Center,HS_50,HS,HispanicCenter_50,50,.,3.75,.,0.04,0.06,0.05,32.55,0.01
+Ditch,Hispanic Cultural Center,HS_51,HS,HispanicCenter_51,51,.,6.74,.,0.04,0,0.03,41.13,0
+East,Hispanic Cultural Center,HS_52,HS,HispanicCenter_52,52,.,3.82,.,0.03,0.04,0.06,33.81,0.02
+North,Hispanic Cultural Center,HS_53,HS,HispanicCenter_53,53,.,3.28,.,0.02,0.03,0.04,24.67,0.03
+River,Hispanic Cultural Center,HS_54,HS,HispanicCenter_54,54,.,8.1,.,0.03,0.33,0.05,37.43,0.04
+South,Hispanic Cultural Center,HS_55,HS,HispanicCenter_55,55,.,3.18,.,0.03,0.03,0.05,29.72,0.01
+West,Hispanic Cultural Center,HS_56,HS,HispanicCenter_56,56,.,3.25,.,0.04,0.05,0.08,30.87,0.05
+Ditch,Hispanic Cultural Center,HS_57,HS,HispanicCenter_57,57,.,15.46,.,0.08,0.03,0.04,49.43,0
+River,Hispanic Cultural Center,HS_58,HS,HispanicCenter_58,58,.,11.48,.,0.01,0.14,0.01,46.17,0
+West,Hispanic Cultural Center,HS_59,HS,HispanicCenter_59,59,.,7.94,.,0.04,0.03,0.04,41.63,0.03
+Center,Hispanic Cultural Center,HS_60,HS,HispanicCenter_60,60,.,10.62,.,0.08,0.1,0.07,53.83,0
+North,Hispanic Cultural Center,HS_61,HS,HispanicCenter_61,61,.,5.96,.,0.05,0.07,0.05,37.74,0
+East,Hispanic Cultural Center,HS_62,HS,HispanicCenter_62,62,.,7.28,.,0.05,0.06,0.06,42.29,0
+South,Hispanic Cultural Center,HS_63,HS,HispanicCenter_63,63,.,7.97,.,0.03,0.03,0.07,42.61,0
+Center,Lemitar,Lm_1,Lm,Lemitar_1,1,.,26.75,.,0.19,0.06,0.1,69.36,0.13
+East,Lemitar,Lm_2,Lm,Lemitar_2,2,.,.,.,.,.,.,.,.
+North,Lemitar,Lm_3,Lm,Lemitar_3,3,.,59.88,.,0.19,0.02,0.08,137.08,0.09
+South,Lemitar,Lm_4,Lm,Lemitar_4,4,.,44.84,.,0.17,0.02,0.06,113.05,0.04
+West,Lemitar,Lm_5,Lm,Lemitar_5,5,.,87.98,.,0.28,0.07,0.03,250.13,0.24
+Center,Lemitar,Lm_6,Lm,Lemitar_6,6,.,92.54,.,0.19,0.03,0.02,217.1,0.24
+East,Lemitar,Lm_7,Lm,Lemitar_7,7,.,.,.,.,.,.,.,.
+North,Lemitar,Lm_8,Lm,Lemitar_8,8,.,51.97,.,0.13,0.09,0.01,124.52,0.05
+South,Lemitar,Lm_9,Lm,Lemitar_9,9,.,53.27,.,0.15,0.01,0.01,160.26,0.03
+West,Lemitar,Lm_10,Lm,Lemitar_10,10,.,.,.,.,.,.,.,.
+Center,Lemitar,Lm_11,Lm,Lemitar_11,11,.,81.11,.,0.27,0.01,0,235.5,0.13
+East,Lemitar,Lm_12,Lm,Lemitar_12,12,.,.,.,.,.,.,.,.
+North,Lemitar,Lm_13,Lm,Lemitar_13,13,.,88.22,.,0.22,0.02,0.01,188.56,0.1
+South,Lemitar,Lm_14,Lm,Lemitar_14,14,.,65.21,.,0.25,0.02,0.02,196.29,0.11
+West,Lemitar,Lm_15,Lm,Lemitar_15,15,.,64.5,.,0.22,0.03,0.01,165.44,0.17
+Center,Lemitar,Lm_16,Lm,Lemitar_16,16,.,79.29,.,0.19,0.01,0,195.01,0
+East,Lemitar,Lm_17,Lm,Lemitar_17,17,.,125.29,.,0.44,0.01,0,243.79,0.08
+North,Lemitar,Lm_18,Lm,Lemitar_18,18,.,54.45,.,0.22,0.02,0,143.63,0.01
+South,Lemitar,Lm_19,Lm,Lemitar_19,19,.,57.67,.,0.18,0.01,0.02,146.53,0
+West,Lemitar,Lm_20,Lm,Lemitar_20,20,.,61.13,.,0.17,0.02,0,138.62,0.12
+Center,Lemitar,Lm_21,Lm,Lemitar_21,21,.,54.03,.,0.24,0.02,0,146.85,0.09
+East,Lemitar,Lm_22,Lm,Lemitar_22,22,.,.,.,.,.,.,.,.
+North,Lemitar,Lm_23,Lm,Lemitar_23,23,.,25.18,.,0.31,0.03,0.07,60.17,0.04
+South,Lemitar,Lm_24,Lm,Lemitar_24,24,.,40.53,.,0.19,0.01,0,89.62,0.03
+West,Lemitar,Lm_25,Lm,Lemitar_25,25,.,15.62,.,0.2,0.03,0,33.25,0.17
+Center,Lemitar,Lm_26,Lm,Lemitar_26,26,.,82.24,.,0.23,0.03,0,227.56,0.13
+East,Lemitar,Lm_27,Lm,Lemitar_27,27,.,.,.,.,.,.,.,.
+North,Lemitar,Lm_28,Lm,Lemitar_28,28,.,73.62,.,0.29,0.02,0,186.5,0.06
+South,Lemitar,Lm_29,Lm,Lemitar_29,29,.,65.9,.,0.22,0.04,0,149.09,0.04
+West,Lemitar,Lm_30,Lm,Lemitar_30,30,.,37.11,.,0.25,0.1,0,81.16,0.11
+Center,Lemitar,Lm_31,Lm,Lemitar_31,31,.,56.32,.,7.45,0.05,0.01,131.84,0.01
+East,Lemitar,Lm_32,Lm,Lemitar_32,32,.,.,.,.,.,.,.,.
+North,Lemitar,Lm_33,Lm,Lemitar_33,33,.,66.59,.,7.41,0.04,0,144.41,0.02
+South,Lemitar,Lm_34,Lm,Lemitar_34,34,.,45.63,.,6.38,0.04,0,90.2,0.03
+West,Lemitar,Lm_35,Lm,Lemitar_35,35,.,47.23,.,9.17,0.1,0,151.55,0.2
+Center,Lemitar,Lm_36,Lm,Lemitar_36,36,.,107.12,.,0.38,0.05,0,275.77,0.17
+East,Lemitar,Lm_37,Lm,Lemitar_37,37,.,.,.,.,.,.,.,.
+North,Lemitar,Lm_38,Lm,Lemitar_38,38,.,87.31,.,0.19,0.04,0.01,227.13,0.07
+South,Lemitar,Lm_39,Lm,Lemitar_39,39,.,89.05,.,0.24,0.06,0,223.7,0.14
+West,Lemitar,Lm_40,Lm,Lemitar_40,40,.,145.86,.,0.54,0.06,0.01,305.58,0.56
+Center,Lemitar,Lm_41,Lm,Lemitar_41,41,.,87.59,.,0.29,0.04,0.1,203.13,0
+East,Lemitar,Lm_42,Lm,Lemitar_42,42,.,.,.,.,.,.,.,.
+North,Lemitar,Lm_43,Lm,Lemitar_43,43,.,89.18,.,0.13,0.04,0.02,230.16,0
+South,Lemitar,Lm_44,Lm,Lemitar_44,44,.,67.62,.,0.27,0,0,142.48,0.09
+West,Lemitar,Lm_45,Lm,Lemitar_45,45,.,172.08,.,0.52,0.15,0,366.2,0.38
+Center,Los Lunas,Ll_1,Ll,LosLunas_1,1,.,.,.,.,.,.,.,.
+Ditch,Los Lunas,Ll_2,Ll,LosLunas_2,2,.,19.48,.,0.08,0.04,0.24,54.86,0
+East,Los Lunas,Ll_3,Ll,LosLunas_3,3,.,22.64,.,0.11,0.02,0.17,48.67,0
+North,Los Lunas,Ll_4,Ll,LosLunas_4,4,.,21.98,.,0.12,0.01,0.11,42.8,0.03
+River,Los Lunas,Ll_5,Ll,LosLunas_5,5,.,21.74,.,0.08,0.72,0.35,50.85,0.01
+South,Los Lunas,Ll_6,Ll,LosLunas_6,6,.,22.57,.,0.12,0.07,0.21,54.6,0
+West,Los Lunas,Ll_7,Ll,LosLunas_7,7,.,8.67,.,0.06,0.02,0.15,22.47,0
+Center,Los Lunas,Ll_8,Ll,LosLunas_8,8,.,21.8,.,0.14,0.02,0.08,37.44,0.08
+Ditch,Los Lunas,Ll_9,Ll,LosLunas_9,9,.,20.9,.,0.11,0.07,0.13,65.98,0.01
+East,Los Lunas,Ll_10,Ll,LosLunas_10,10,.,20.33,.,0.1,0.04,0.14,48.81,0
+North,Los Lunas,Ll_11,Ll,LosLunas_11,11,.,20.27,.,0.09,0.01,0.09,45.39,0.05
+River,Los Lunas,Ll_12,Ll,LosLunas_12,12,.,31.37,.,0.1,0.89,0.45,56.02,0.04
+South,Los Lunas,Ll_13,Ll,LosLunas_13,13,.,20.26,.,0.09,0.27,0.17,50.82,0
+West,Los Lunas,Ll_14,Ll,LosLunas_14,14,.,18.05,.,0.1,0.01,0.08,29.97,0
+Center,Los Lunas,Ll_15,Ll,LosLunas_15,15,.,23.37,.,0.14,0.01,0.09,42.86,0.08
+Ditch,Los Lunas,Ll_16,Ll,LosLunas_16,16,.,16.75,.,0.06,0.3,0.05,59.6,0.03
+East,Los Lunas,Ll_17,Ll,LosLunas_17,17,.,19.74,.,0.11,0.15,0.29,45.84,0.01
+North,Los Lunas,Ll_18,Ll,LosLunas_18,18,.,24.26,.,0.16,0.01,0.09,43.08,0.05
+River,Los Lunas,Ll_19,Ll,LosLunas_19,19,.,15.7,.,0.06,0.92,0.29,47.8,0.02
+South,Los Lunas,Ll_20,Ll,LosLunas_20,20,.,21.53,.,0.15,0.3,0.44,44.37,0.01
+West,Los Lunas,Ll_21,Ll,LosLunas_21,21,.,22.32,.,0.13,0.01,0.08,51.67,0.01
+Center,Los Lunas,Ll_22,Ll,LosLunas_22,22,.,15.98,.,0.08,0.01,0.16,44.73,0.06
+Ditch,Los Lunas,Ll_23,Ll,LosLunas_23,23,.,19.89,.,0.08,0.14,0.14,58.59,0.01
+East,Los Lunas,Ll_24,Ll,LosLunas_24,24,.,19.77,.,0.11,0.02,0.26,65.29,0.01
+North,Los Lunas,Ll_25,Ll,LosLunas_25,25,.,17.39,.,0.09,0.02,0.12,51.14,0.02
+River,Los Lunas,Ll_26,Ll,LosLunas_26,26,.,80.04,.,0.11,4.29,0,207.14,0
+South,Los Lunas,Ll_27,Ll,LosLunas_27,27,.,17.14,.,0.11,0.01,0.23,59.57,0
+West,Los Lunas,Ll_28,Ll,LosLunas_28,28,.,32.18,.,0.12,0.01,0.13,59.35,0
+Center,Los Lunas,Ll_29,Ll,LosLunas_29,29,.,21.96,.,0.19,0.03,0.18,61.61,0.06
+Ditch,Los Lunas,Ll_30,Ll,LosLunas_30,30,.,21.94,.,0.1,0.07,0.17,71.26,0.02
+East,Los Lunas,Ll_31,Ll,LosLunas_31,31,.,21.11,.,0.14,0.03,0.22,58.74,0.01
+North,Los Lunas,Ll_32,Ll,LosLunas_32,32,.,23.92,.,0.17,0.02,0.18,57.36,0.06
+River,Los Lunas,Ll_33,Ll,LosLunas_33,33,.,12.85,.,0.05,0.45,0.17,42.46,0.01
+South,Los Lunas,Ll_34,Ll,LosLunas_34,34,.,23.38,.,0.13,0.17,0.24,56.18,0
+West,Los Lunas,Ll_35,Ll,LosLunas_35,35,.,19.75,.,0.1,0.02,0.13,62.41,0
+Center,Los Lunas,Ll_36,Ll,LosLunas_36,36,.,18.4,.,0.09,0.01,0.12,49.17,0.11
+Ditch,Los Lunas,Ll_37,Ll,LosLunas_37,37,.,20.85,.,0.09,0.08,0.14,66.65,0.03
+East,Los Lunas,Ll_38,Ll,LosLunas_38,38,.,23.66,.,0.12,0.24,0.2,54.19,0.01
+North,Los Lunas,Ll_39,Ll,LosLunas_39,39,.,22.37,.,0.11,0.03,0.1,49.01,0.05
+River,Los Lunas,Ll_40,Ll,LosLunas_40,40,.,26.73,.,0.25,0.69,0.11,54.64,0.07
+South,Los Lunas,Ll_41,Ll,LosLunas_41,41,.,27.22,.,0.09,0.38,0.11,59.32,0.01
+West,Los Lunas,Ll_42,Ll,LosLunas_42,42,.,19.89,.,0.12,0.04,0.13,50.36,0.01
+Center,Los Lunas,Ll_43,Ll,LosLunas_43,43,.,22.51,.,0.14,0.03,0.3,54.93,0
+Ditch,Los Lunas,Ll_44,Ll,LosLunas_44,44,.,20.88,.,0.11,0.04,0.2,71.29,0
+East,Los Lunas,Ll_45,Ll,LosLunas_45,45,.,27.52,.,0.09,0.06,0.28,66.76,0
+North,Los Lunas,Ll_46,Ll,LosLunas_46,46,.,21.02,.,0.15,0.05,0.13,46.94,0.01
+River,Los Lunas,Ll_47,Ll,LosLunas_47,47,.,28.61,.,0.09,0.99,0.62,65.66,0
+South,Los Lunas,Ll_48,Ll,LosLunas_48,48,.,23.69,.,0.11,0.02,0.34,57.15,0
+West,Los Lunas,Ll_49,Ll,LosLunas_49,49,.,16.54,.,0.13,0.03,0.28,58.24,0
+Center,Los Lunas,Ll_50,Ll,LosLunas_50,50,.,4.95,.,0.02,0.13,0.01,45.13,0
+Ditch,Los Lunas,Ll_51,Ll,LosLunas_51,51,.,12.59,.,0.06,0.28,0.13,54.2,0
+East,Los Lunas,Ll_52,Ll,LosLunas_52,52,.,5.81,.,0.03,0,0.02,29.25,0.01
+North,Los Lunas,Ll_53,Ll,LosLunas_53,53,.,3.28,.,0.04,0.01,0.04,30.83,0.02
+River,Los Lunas,Ll_54,Ll,LosLunas_54,54,.,14.51,.,0.06,0.63,0.41,45.93,0
+South,Los Lunas,Ll_55,Ll,LosLunas_55,55,.,5.91,.,0.04,0.03,0.05,37.02,0.01
+West,Los Lunas,Ll_56,Ll,LosLunas_56,56,.,8.12,.,0.05,0.01,0.05,36.35,0.02
+Center,Los Lunas,Ll_57,Ll,LosLunas_57,57,.,12.63,.,0.09,0.05,0.29,39.09,0.09
+Ditch,Los Lunas,Ll_58,Ll,LosLunas_58,58,.,17.37,.,0.09,0.1,0.19,67.67,0.03
+East,Los Lunas,Ll_59,Ll,LosLunas_59,59,.,14.06,.,0.05,0.03,0.19,50.58,0.02
+North,Los Lunas,Ll_60,Ll,LosLunas_60,60,.,12.29,.,0.1,0.03,0.28,38.54,0.05
+River,Los Lunas,Ll_61,Ll,LosLunas_61,61,.,27.73,.,0.1,1.73,0.66,60.01,0.06
+South,Los Lunas,Ll_62,Ll,LosLunas_62,62,.,11.18,.,0.09,0.08,0.3,38.1,0.02
+West,Los Lunas,Ll_63,Ll,LosLunas_63,63,.,6.39,.,0.03,0.03,0.33,24.21,0
+Center well,Los Lunas,Ll_64,Ll,LosLunas_64,64,0.7898,20.673,0,0.0039,0,0,87.07,
+Ditch,Los Lunas,Ll_65,Ll,LosLunas_65,65,0.8533,24.765,0,0.4147,0.8447,0.9152,90.15,
+East well,Los Lunas,Ll_66,Ll,LosLunas_66,66,0.8211,0.2295,0,0,0.4786,82.01,0,
+North well,Los Lunas,Ll_67,Ll,LosLunas_67,67,0.8252,24.975,0,0.3905,0.5703,0.6499,66.96,
+River,Los Lunas,Ll_68,Ll,LosLunas_68,68,1.0809,23.859,0.3487,0,4.291,0.8356,69.98,
+South well,Los Lunas,Ll_69,Ll,LosLunas_69,69,0.841,20.181,0,0.235,0.1522,0.4586,67.67,
+West well,Los Lunas,Ll_70,Ll,LosLunas_70,70,0.8187,24.811,0,0.2791,0.1259,0.3132,71.25,
+Center well,Los Lunas,Ll_71,Ll,LosLunas_71,71,.,.,.,.,.,.,.,
+Ditch,Los Lunas,Ll_72,Ll,LosLunas_72,72,1.3227,20.136,0,0,0.1553,0.8642,66.5749,
+East well,Los Lunas,Ll_73,Ll,LosLunas_73,73,.,.,.,.,.,.,.,
+North well,Los Lunas,Ll_74,Ll,LosLunas_74,74,1.3175,26.783,0,0,0,0.8488,71.0756,
+River,Los Lunas,Ll_75,Ll,LosLunas_75,75,1.6434,14.062,0,0,1.0968,0.8041,41.4189,
+South well,Los Lunas,Ll_76,Ll,LosLunas_76,76,.,.,.,.,.,.,.,
+West well,Los Lunas,Ll_77,Ll,LosLunas_77,77,1.4062,21.516,0,0.0441,0,0,80.4574,
+Center well,Los Lunas,Ll_78,Ll,LosLunas_78,78,0.28,21.48,0,0.05,0.05,0,92.12,
+Ditch,Los Lunas,Ll_79,Ll,LosLunas_79,79,0.56,17.44,0,0.48,1.48,0.83,68.1,
+East well,Los Lunas,Ll_80,Ll,LosLunas_80,80,0.34,19.64,0,0.07,0.06,0.29,77.37,
+North well,Los Lunas,Ll_81,Ll,LosLunas_81,81,0.59,24.28,0,0.3,0.13,0.25,68.23,
+River,Los Lunas,Ll_82,Ll,LosLunas_82,82,0.44,17.61,0,0,3.49,0.44,52.98,
+South well,Los Lunas,Ll_83,Ll,LosLunas_83,83,0.56,27.96,0,0.5,1.22,1,71.11,
+West well,Los Lunas,Ll_84,Ll,LosLunas_84,84,0.52,25.11,0,1.83,0,0.85,79.69,
+Center well,Los Lunas,Ll_85,Ll,LosLunas_85,85,0.8198,17.952,0,0.925,1.4494,0.5217,72.3721,
+Ditch,Los Lunas,Ll_86,Ll,LosLunas_86,86,0.8528,24.303,0.3026,0.9179,1.5943,0.9087,89.7886,
+East well,Los Lunas,Ll_87,Ll,LosLunas_87,87,0.8231,18.117,0,0.9706,1.4649,0.9147,67.6816,
+North well,Los Lunas,Ll_88,Ll,LosLunas_88,88,0.7665,19.307,0,0.8539,1.3425,0.6599,54.5645,
+River,Los Lunas,Ll_89,Ll,LosLunas_89,89,0.8141,32.803,0.3705,0.9142,7.5057,2.2012,84.0968,
+South well,Los Lunas,Ll_90,Ll,LosLunas_90,90,0.7634,29.719,0,0.9079,1.3645,0.9105,70.2357,
+West well,Los Lunas,Ll_91,Ll,LosLunas_91,91,0.7173,26.551,0,0.9242,1.3611,0.4182,88.2086,
+Center well,Los Lunas,Ll_92,Ll,LosLunas_92,92,0.8389,20.692,1.2227,0.1517,3.0216,0,54.9121,
+Ditch,Los Lunas,Ll_93,Ll,LosLunas_93,93,0.895,21.646,1.2852,0.1581,2.1091,0.8014,75.2673,
+East well,Los Lunas,Ll_94,Ll,LosLunas_94,94,0.816,24.022,0,0.1451,1.5485,0.8363,79.5464,
+North well,Los Lunas,Ll_95,Ll,LosLunas_95,95,0.8907,17.512,0,0.3965,1.5023,0.6905,58.4813,
+River,Los Lunas,Ll_96,Ll,LosLunas_96,96,0.8489,20.578,1.2639,0.1269,3.6297,1.4076,45.0803,
+South well,Los Lunas,Ll_97,Ll,LosLunas_97,97,0.9742,17.086,1.3675,0.3404,1.4409,1.044,66.4259,
+West well,Los Lunas,Ll_98,Ll,LosLunas_98,98,0.716,42.9,0,0.3185,0,0,95.7,
+Center well,Los Lunas,Ll_99,Ll,LosLunas_99,99,0.3325,25.277,0,0.1822,0.0419,0,45.3461,
+Ditch,Los Lunas,Ll_100,Ll,LosLunas_100,100,0.1677,16.853,0.0137,0.7051,1.7941,0.6028,69.9769,
+East well,Los Lunas,Ll_101,Ll,LosLunas_101,101,0.1216,261.812,3.0402,1.2291,0.6962,0,65.5998,
+North well,Los Lunas,Ll_102,Ll,LosLunas_102,102,0.3428,10.019,0,0.3127,0,0.1328,36.9016,
+River,Los Lunas,Ll_103,Ll,LosLunas_103,103,0,205.682,1.8768,1.148,2.9646,0.6,62.1856,
+South well,Los Lunas,Ll_104,Ll,LosLunas_104,104,0.1626,107.057,0,0.5476,0,0.2783,36.8401,
+West well,Los Lunas,Ll_105,Ll,LosLunas_105,105,0.1369,25.744,0,0.2604,0,0,91.6465,
+Center,Minnow,Mn_1,Mn,Minnow_1,1,.,13.08,.,0.05,0.01,0.07,61.78,0.01
+East,Minnow,Mn_2,Mn,Minnow_2,2,.,10.44,.,0.05,0.02,0.03,54.04,0.02
+North,Minnow,Mn_3,Mn,Minnow_3,3,.,7.73,.,0.03,0.04,0.01,233.12,0.01
+South,Minnow,Mn_4,Mn,Minnow_4,4,.,5.9,.,0.05,0.02,0.03,36.55,0.02
+West,Minnow,Mn_5,Mn,Minnow_5,5,.,7.32,.,0.04,0.01,0.1,31.03,0.14
+Center,Minnow,Mn_6,Mn,Minnow_6,6,.,13.75,.,0.05,0.12,0.07,40.72,0
+East,Minnow,Mn_7,Mn,Minnow_7,7,.,13.8,.,0.09,0.14,0.05,39.09,0
+North,Minnow,Mn_8,Mn,Minnow_8,8,.,10.71,.,0.02,0.57,0.03,120.11,0
+South,Minnow,Mn_9,Mn,Minnow_9,9,.,10.5,.,0.04,0.03,0.04,43.87,0
+West,Minnow,Mn_10,Mn,Minnow_10,10,.,9.22,.,0.06,0.03,0.09,30.78,0.1
+Center,Minnow,Mn_11,Mn,Minnow_11,11,.,10.82,.,0.05,0.04,0.01,32.2,0.02
+East,Minnow,Mn_12,Mn,Minnow_12,12,.,7.78,.,0.02,0.19,0.01,33.46,0.02
+North,Minnow,Mn_13,Mn,Minnow_13,13,.,12.9,.,0.06,0.09,.,36.5,0.01
+South,Minnow,Mn_14,Mn,Minnow_14,14,.,10.94,.,0.05,0.04,0.04,31.92,0.01
+West,Minnow,Mn_15,Mn,Minnow_15,15,.,11.43,.,0.01,0.01,0.04,57.1,0.12
+Center,Minnow,Mn_16,Mn,Minnow_16,16,.,10.73,.,0.07,0.02,0.05,73.57,0
+East,Minnow,Mn_17,Mn,Minnow_17,17,.,21.63,.,0.07,0.02,0.03,143.55,0
+North,Minnow,Mn_18,Mn,Minnow_18,18,.,17.76,.,0.1,0.13,0.02,78.92,0
+South,Minnow,Mn_19,Mn,Minnow_19,19,.,8.1,.,0.05,0.02,0.03,58.99,0
+West,Minnow,Mn_20,Mn,Minnow_20,20,.,9.08,.,0.07,0.02,0.04,38.6,0.07
+Center,Minnow,Mn_21,Mn,Minnow_21,21,.,13.76,.,0.06,0.02,0.09,62.24,0
+East,Minnow,Mn_22,Mn,Minnow_22,22,.,10.16,.,0.04,0.17,0.04,39.93,0.01
+North,Minnow,Mn_23,Mn,Minnow_23,23,.,15.96,.,0.1,0.02,0.02,89.91,0.01
+South,Minnow,Mn_24,Mn,Minnow_24,24,.,10.29,.,0.07,0.01,0.05,50.2,0
+West,Minnow,Mn_25,Mn,Minnow_25,25,.,7.57,.,0.06,0.01,0.07,37.3,0.09
+Center,Minnow,Mn_26,Mn,Minnow_26,26,.,16.46,.,0.06,0.14,0.04,48.48,0.01
+East,Minnow,Mn_27,Mn,Minnow_27,27,.,20.81,.,0.07,0.23,0.04,52.79,0
+North,Minnow,Mn_28,Mn,Minnow_28,28,.,12.04,.,0.06,0.12,0.02,58.09,0.01
+South,Minnow,Mn_29,Mn,Minnow_29,29,.,12.57,.,0.05,0.06,0.03,42.86,0
+West,Minnow,Mn_30,Mn,Minnow_30,30,.,16.74,.,0.07,0.04,0.05,72.69,0.11
+Center,Minnow,Mn_31,Mn,Minnow_31,31,.,6.8,.,1.44,0.04,0.06,46.87,0.01
+East,Minnow,Mn_32,Mn,Minnow_32,32,.,7.63,.,2.02,0.02,0.05,45.29,0
+North,Minnow,Mn_33,Mn,Minnow_33,33,.,8.04,.,1.75,0.05,0.05,54.89,0.21
+South,Minnow,Mn_34,Mn,Minnow_34,34,.,6.72,.,1.43,0.03,0.06,41.88,0.24
+West,Minnow,Mn_35,Mn,Minnow_35,35,.,8.44,.,1.45,0.02,0.12,45.59,0.02
+Center,Minnow,Mn_36,Mn,Minnow_36,36,.,6.07,.,0.03,0.01,0.04,40.92,0
+East,Minnow,Mn_37,Mn,Minnow_37,37,.,6.31,.,0.05,0.07,0.29,26.01,0.01
+North,Minnow,Mn_38,Mn,Minnow_38,38,.,6.19,.,0,0.03,0.25,19.42,0
+South,Minnow,Mn_39,Mn,Minnow_39,39,.,6.2,.,0.05,0.06,0.31,27.19,0.01
+West,Minnow,Mn_40,Mn,Minnow_40,40,.,4.55,.,0.04,0.02,0.05,28.74,0.04
+Center,Minnow,Mn_41,Mn,Minnow_41,41,.,5.9,.,0.03,0.02,0.02,34.39,0
+East,Minnow,Mn_42,Mn,Minnow_42,42,.,6.79,.,0.04,0.03,0.05,40.34,0
+North,Minnow,Mn_43,Mn,Minnow_43,43,.,5.62,.,0.06,0.04,0.05,32.42,0
+South,Minnow,Mn_44,Mn,Minnow_44,44,.,5.68,.,0.03,0.03,0.03,33.39,0
+West,Minnow,Mn_45,Mn,Minnow_45,45,.,4.74,.,0.04,0.03,0.06,32.67,0.13
+Center,Minnow,Mn_46,Mn,Minnow_46,46,.,10.47,.,0.03,0.03,0.03,37.78,0.01
+East,Minnow,Mn_47,Mn,Minnow_47,47,.,5.37,.,0.02,0.2,0.05,31.64,0.01
+North,Minnow,Mn_48,Mn,Minnow_48,48,.,12.25,.,0.07,0.05,0.03,25.91,0.03
+River,Minnow,Mn_49,Mn,Minnow_49,49,.,4.49,.,0.01,0.1,0.05,30.87,0.03
+South,Minnow,Mn_50,Mn,Minnow_50,50,.,10.47,.,0.02,0.15,0.03,37.75,0.02
+West,Minnow,Mn_51,Mn,Minnow_51,51,.,9.43,.,0.04,0.07,0.04,29.04,0.11
+Center,Minnow,Mn_52,Mn,Minnow_52,52,.,9.65,.,0.03,0.06,0.03,42.66,0.01
+East,Minnow,Mn_53,Mn,Minnow_53,53,.,3.64,.,0.01,0.29,0.05,30.73,0
+North,Minnow,Mn_54,Mn,Minnow_54,54,.,13.18,.,0.06,0.07,0.03,30.88,0.03
+River,Minnow,Mn_55,Mn,Minnow_55,55,.,4.84,.,0.01,0.13,0.02,49.59,0.02
+South,Minnow,Mn_56,Mn,Minnow_56,56,.,5.75,.,0.02,0.13,0.05,33.1,0.01
+West,Minnow,Mn_57,Mn,Minnow_57,57,.,12.36,.,0.03,0.06,0.03,39.27,0.11
+Center,Minnow,Mn_58,Mn,Minnow_58,58,.,5.18,.,0.03,0.04,0.04,36.59,0.02
+East,Minnow,Mn_59,Mn,Minnow_59,59,.,5.05,.,0.03,0.07,0.04,53.24,0.01
+North,Minnow,Mn_60,Mn,Minnow_60,60,.,11.53,.,0.05,0.08,0.03,21.42,0.04
+River,Minnow,Mn_61,Mn,Minnow_61,61,.,5.66,.,0.03,0.11,0.03,51.75,0.05
+South,Minnow,Mn_62,Mn,Minnow_62,62,.,4.35,.,0.03,0.05,0.05,29.93,0.03
+West,Minnow,Mn_63,Mn,Minnow_63,63,.,11.07,.,0.06,0.04,0.04,39.9,0.1
+Center,Minnow,Mn_64,Mn,Minnow_64,64,.,9.8,.,0.4,0.43,0,44.43,.
+Ditch,Minnow,Mn_65,Mn,Minnow_65,65,.,11.17,.,0.58,0.53,0,48.43,.
+East,Minnow,Mn_66,Mn,Minnow_66,66,.,10.17,.,0.4,0.65,0,31.92,.
+North,Minnow,Mn_67,Mn,Minnow_67,67,.,9.69,.,0.69,0.59,0,127.65,.
+River,Minnow,Mn_68,Mn,Minnow_68,68,.,9.88,.,0.37,0.51,0,30.5,.
+South,Minnow,Mn_69,Mn,Minnow_69,69,.,7.93,.,0.46,0.56,0,27.7,.
+West,Minnow,Mn_70,Mn,Minnow_70,70,.,7.17,.,0.39,0.43,0,47.57,.
+Center,Minnow,Mn_71,Mn,Minnow_71,71,.,7.66,.,0.44,0.42,0,44.19,.
+Ditch,Minnow,Mn_72,Mn,Minnow_72,72,.,9.63,.,0.54,0.46,0,45.48,.
+East,Minnow,Mn_73,Mn,Minnow_73,73,.,7.08,.,0.64,0.39,0,51.01,.
+North,Minnow,Mn_74,Mn,Minnow_74,74,.,10.86,.,0.54,0.35,0,48.74,.
+River,Minnow,Mn_75,Mn,Minnow_75,75,.,4.04,.,0,0.35,0,38.33,.
+South,Minnow,Mn_76,Mn,Minnow_76,76,.,10.62,.,0.4,0.36,0,35.23,.
+West,Minnow,Mn_77,Mn,Minnow_77,77,.,10.2,.,0.49,0.31,0,34.87,.
+Center,Minnow,Mn_78,Mn,Minnow_78,78,0.7551,8.34,.,0.35,0,0,42.47,.
+Ditch,Minnow,Mn_79,Mn,Minnow_79,79,0.7794,10.89,.,0.64,0.24,0,59.97,.
+East,Minnow,Mn_80,Mn,Minnow_80,80,0.5846,6.29,.,0.34,0,0,29.63,.
+North,Minnow,Mn_81,Mn,Minnow_81,81,0.6754,6.43,.,0.46,0,0,42.05,.
+River,Minnow,Mn_82,Mn,Minnow_82,82,0.596,6.87,.,0,0,0,34.51,.
+South,Minnow,Mn_83,Mn,Minnow_83,83,0.7631,9.44,.,0,0,0,48.05,.
+West,Minnow,Mn_84,Mn,Minnow_84,84,0.8085,10.98,.,0.43,0,0,50.1,.
+East well,Minnow,Mn_85,Mn,Minnow_85,85,.,.,.,.,.,.,.,
+North well,Minnow,Mn_86,Mn,Minnow_86,86,.,.,.,.,.,.,.,
+South well,Minnow,Mn_87,Mn,Minnow_87,87,.,.,.,.,.,.,.,
+West well,Minnow,Mn_88,Mn,Minnow_88,88,.,.,.,.,.,.,.,
+East well,Minnow,Mn_89,Mn,Minnow_89,89,1.1712,13.72,0,0,0,0,49.1487,
+North well,Minnow,Mn_90,Mn,Minnow_90,90,1.4341,11.478,0,0.1393,0,0,34.6978,
+South well,Minnow,Mn_91,Mn,Minnow_91,91,1.4625,9.162,0,0,0,0,43.7944,
+West well,Minnow,Mn_92,Mn,Minnow_92,92,1.4215,9.971,0,0.1263,0,0,35.0822,
+East well,Minnow,Mn_93,Mn,Minnow_93,93,.,.,.,.,.,.,.,
+North well,Minnow,Mn_94,Mn,Minnow_94,94,0.3737,19.7749,0,0.0897,0.2599,0,61.9522,
+South well,Minnow,Mn_95,Mn,Minnow_95,95,0.2105,22.9404,0,0.0536,0.0659,0,115.5933,
+West well,Minnow,Mn_96,Mn,Minnow_96,96,0.3616,9.6087,0,0.3712,1.0094,0,51.9676,
+East well,Minnow,Mn_97,Mn,Minnow_97,97,0.7036,7.55,0,0.9215,1.5521,0.5784,44.07,
+North well,Minnow,Mn_98,Mn,Minnow_98,98,0.6551,11.98,0,0.9793,1.5271,0.6141,15,
+South well,Minnow,Mn_99,Mn,Minnow_99,99,0.5553,7.94,0,0.8916,1.5217,0.5398,47.8,
+West well,Minnow,Mn_100,Mn,Minnow_100,100,0.5755,11.53,0,0.8535,1.4899,0.5241,43.5,
+Center,Montano,Mt_1,Mt,Montano_1,1,.,6.32,.,0.04,0.01,0.05,39.34,0.02
+East,Montano,Mt_2,Mt,Montano_2,2,.,10.76,.,0.04,0.03,0.06,49.95,0.01
+North,Montano,Mt_3,Mt,Montano_3,3,.,17.21,.,0.06,0.01,0.06,44.87,0.12
+South,Montano,Mt_4,Mt,Montano_4,4,.,6.3,.,0.05,0.02,0.06,35.65,0.05
+West,Montano,Mt_5,Mt,Montano_5,5,.,31.89,.,0.08,0.04,0.03,135.27,0.16
+Center,Montano,Mt_6,Mt,Montano_6,6,.,10.36,.,0.04,0.01,0.03,42.44,0.01
+East,Montano,Mt_7,Mt,Montano_7,7,.,11.33,.,0.05,0.09,0.03,41.65,0.01
+North,Montano,Mt_8,Mt,Montano_8,8,.,9.47,.,0.05,0.01,0.09,23.9,0.07
+South,Montano,Mt_9,Mt,Montano_9,9,.,10.83,.,0.05,0.01,0.04,45.59,0.04
+West,Montano,Mt_10,Mt,Montano_10,10,.,17.77,.,0.06,0.02,0,81.84,0.06
+Center,Montano,Mt_11,Mt,Montano_11,11,.,10.99,.,0.07,0.01,0.03,37.05,0.01
+East,Montano,Mt_12,Mt,Montano_12,12,.,7.25,.,0.04,0.02,0.02,37.26,0.01
+North,Montano,Mt_13,Mt,Montano_13,13,.,14.51,.,0.06,0.01,0.05,25.05,0.09
+South,Montano,Mt_14,Mt,Montano_14,14,.,12.02,.,0.12,0.01,0.06,37.6,0.03
+West,Montano,Mt_15,Mt,Montano_15,15,.,14.56,.,0.05,0.01,0.06,64.26,0.12
+Center,Montano,Mt_16,Mt,Montano_16,16,.,6.25,.,0.06,0.01,0.04,43.06,0
+East,Montano,Mt_17,Mt,Montano_17,17,.,10.94,.,0.06,0.01,0.05,69.74,0
+North,Montano,Mt_18,Mt,Montano_18,18,.,17.23,.,0.07,0.01,0.05,32.85,0
+South,Montano,Mt_19,Mt,Montano_19,19,.,7.73,.,0.06,0.02,0.05,42.59,0
+West,Montano,Mt_20,Mt,Montano_20,20,.,22.51,.,0.06,0.03,0.04,48.72,0.01
+Center,Montano,Mt_21,Mt,Montano_21,21,.,12.73,.,0.06,0.01,0.04,80.43,0.03
+East,Montano,Mt_22,Mt,Montano_22,22,.,13.24,.,0.05,0.02,0.06,58.42,0.04
+North,Montano,Mt_23,Mt,Montano_23,23,.,12.69,.,0.08,0.01,0.07,27.19,0.13
+South,Montano,Mt_24,Mt,Montano_24,24,.,12.23,.,0.06,0.01,0.07,62.38,0.08
+West,Montano,Mt_25,Mt,Montano_25,25,.,9.93,.,0.08,0.02,0.07,46.65,0.08
+Center,Montano,Mt_26,Mt,Montano_26,26,.,8.88,.,0.05,0.03,0.04,37.56,0.03
+East,Montano,Mt_27,Mt,Montano_27,27,.,17.57,.,0.09,0.11,0.04,49.19,0.01
+North,Montano,Mt_28,Mt,Montano_28,28,.,13.38,.,0.06,0.02,0.05,34.63,0.08
+South,Montano,Mt_29,Mt,Montano_29,29,.,10.99,.,0.09,0.03,0.05,41.76,0.04
+West,Montano,Mt_30,Mt,Montano_30,30,.,11.74,.,0.08,0.04,0.06,63.24,0.08
+Center,Montano,Mt_31,Mt,Montano_31,31,.,6.79,.,0.08,0.02,0.06,44.3,0
+East,Montano,Mt_32,Mt,Montano_32,32,.,8.54,.,1.64,0.11,0.06,46.37,0
+North,Montano,Mt_33,Mt,Montano_33,33,.,11.28,.,2.13,0.04,0.08,32.9,0.01
+South,Montano,Mt_34,Mt,Montano_34,34,.,7.86,.,1.81,0.04,0.09,46.33,0
+West,Montano,Mt_35,Mt,Montano_35,35,.,11.17,.,0.08,0.05,0.08,51.13,0.01
+Center,Montano,Mt_36,Mt,Montano_36,36,.,4.15,.,0.04,0.02,0.06,29.06,0.02
+East,Montano,Mt_37,Mt,Montano_37,37,.,2.98,.,0.03,0.03,0.02,30.49,0.01
+North,Montano,Mt_38,Mt,Montano_38,38,.,15.27,.,0.09,0.03,0.1,42.16,0.05
+South,Montano,Mt_39,Mt,Montano_39,39,.,7.13,.,0.06,0.02,0.06,35.48,0.03
+West,Montano,Mt_40,Mt,Montano_40,40,.,12.98,.,0.09,0.06,0.15,44.35,0.04
+Center,Montano,Mt_41,Mt,Montano_41,41,.,6.71,.,0.05,0.04,0.05,38.59,0.02
+East,Montano,Mt_42,Mt,Montano_42,42,.,7.9,.,0.06,0.05,0.08,41.3,0
+North,Montano,Mt_43,Mt,Montano_43,43,.,8.88,.,0.07,0.06,0.08,14.99,0.15
+South,Montano,Mt_44,Mt,Montano_44,44,.,6.7,.,0.06,0.04,0.06,33.21,0.07
+West,Montano,Mt_45,Mt,Montano_45,45,.,8.15,.,0.12,0.03,0.11,43.51,0.14
+Center,Ohkay Owingeh,oo_1,oo,OhkayOwingeh_1,1,.,.,.,.,.,.,.,.
+East,Ohkay Owingeh,oo_2,oo,OhkayOwingeh_2,2,.,.,.,.,.,.,.,6.57
+North,Ohkay Owingeh,oo_3,oo,OhkayOwingeh_3,3,.,5.58,.,0.09,0.05,0.05,32.1,0.02
+South,Ohkay Owingeh,oo_4,oo,OhkayOwingeh_4,4,.,6.15,.,0.08,0.06,0.28,12.86,0.09
+West,Ohkay Owingeh,oo_5,oo,OhkayOwingeh_5,5,.,6.57,.,0.11,0.1,0.06,42.27,0.03
+Center,Ohkay Owingeh,oo_6,oo,OhkayOwingeh_6,6,.,10.08,.,0.28,0.11,0.32,3.96,3.77
+East,Ohkay Owingeh,oo_7,oo,OhkayOwingeh_7,7,.,15.41,.,0.12,0.22,0.03,27.31,1.56
+North,Ohkay Owingeh,oo_8,oo,OhkayOwingeh_8,8,.,3.58,.,0.05,0.1,0.05,24.57,0.09
+South,Ohkay Owingeh,oo_9,oo,OhkayOwingeh_9,9,.,7.84,.,0.07,0.09,0.01,34.33,0.49
+West,Ohkay Owingeh,oo_10,oo,OhkayOwingeh_10,10,.,2.31,.,0.03,0.07,0.04,17.74,0.13
+Center,Ohkay Owingeh,oo_11,oo,OhkayOwingeh_11,11,.,7.95,.,0.16,0.03,0.09,1.14,7.35
+East,Ohkay Owingeh,oo_12,oo,OhkayOwingeh_12,12,.,13.7,.,0.15,0.07,0.05,10.66,2
+North,Ohkay Owingeh,oo_13,oo,OhkayOwingeh_13,13,.,10.45,.,0.03,0.03,0.03,52.51,0.14
+South,Ohkay Owingeh,oo_14,oo,OhkayOwingeh_14,14,.,9.43,.,0.07,0.12,0.06,47.12,0.36
+West,Ohkay Owingeh,oo_15,oo,OhkayOwingeh_15,15,.,5.79,.,0.01,0.09,0.03,32.39,0.03
+Center,Reynolds Clear,RC_1,RC,ReynoldsClear_1,1,.,60.6,.,0.43,0.05,0.16,106.34,0.47
+Ditch,Reynolds Clear,RC_2,RC,ReynoldsClear_2,2,.,27.43,.,0.12,0.3,0.2,84.42,0.03
+East,Reynolds Clear,RC_3,RC,ReynoldsClear_3,3,.,232.95,.,0.86,0.01,0.15,344.83,0.66
+North,Reynolds Clear,RC_4,RC,ReynoldsClear_4,4,.,41.33,.,0.26,0.02,0.08,84.79,0.25
+River,Reynolds Clear,RC_5,RC,ReynoldsClear_5,5,.,20.78,.,0.12,0.45,0.27,52.7,0.02
+South,Reynolds Clear,RC_6,RC,ReynoldsClear_6,6,.,73.3,.,0.34,0.02,0.12,159.36,0.32
+West,Reynolds Clear,RC_7,RC,ReynoldsClear_7,7,.,85.51,.,0.36,0.04,0.16,136.65,0.34
+Center,Reynolds Clear,RC_8,RC,ReynoldsClear_8,8,.,71.05,.,0.31,0.02,0.24,142.32,0.34
+Ditch,Reynolds Clear,RC_9,RC,ReynoldsClear_9,9,.,27.27,.,0.13,0.13,0.15,85.59,0.02
+East,Reynolds Clear,RC_10,RC,ReynoldsClear_10,10,.,125.83,.,0.59,0.03,0.27,202.09,0.37
+North,Reynolds Clear,RC_11,RC,ReynoldsClear_11,11,.,.,.,.,.,.,.,.
+River,Reynolds Clear,RC_12,RC,ReynoldsClear_12,12,.,33.29,.,0.11,0.57,0.35,88.54,0.04
+South,Reynolds Clear,RC_13,RC,ReynoldsClear_13,13,.,90.84,.,0.37,0.02,0.06,177.82,0.29
+West,Reynolds Clear,RC_14,RC,ReynoldsClear_14,14,.,67.58,.,0.24,0.02,0.07,157.49,0.26
+Center,Reynolds Clear,RC_15,RC,ReynoldsClear_15,15,.,29.08,.,0.14,0.01,0.14,57.38,0.31
+Ditch,Reynolds Clear,RC_16,RC,ReynoldsClear_16,16,.,30.94,.,0.09,0.35,0.1,86.05,0.03
+East,Reynolds Clear,RC_17,RC,ReynoldsClear_17,17,.,101.62,.,0.96,0.01,0.11,120.24,0.72
+North,Reynolds Clear,RC_18,RC,ReynoldsClear_18,18,.,28.46,.,0.14,0.02,0.23,77.66,0.19
+River,Reynolds Clear,RC_19,RC,ReynoldsClear_19,19,.,17.29,.,0.06,0.37,0.15,43.33,0.01
+South,Reynolds Clear,RC_20,RC,ReynoldsClear_20,20,.,116,.,0.37,0.01,0.06,184.94,0.33
+West,Reynolds Clear,RC_21,RC,ReynoldsClear_21,21,.,118.51,.,0.42,0.01,0.03,161.77,0.37
+Center,Reynolds Clear,RC_22,RC,ReynoldsClear_22,22,.,60.3,.,0.26,0.36,0.11,127.7,0.25
+Ditch,Reynolds Clear,RC_23,RC,ReynoldsClear_23,23,.,38.6,.,0.16,0.76,0.13,116.52,0.01
+East,Reynolds Clear,RC_24,RC,ReynoldsClear_24,24,.,127.37,.,0.82,0.02,0.22,173.67,0.52
+North,Reynolds Clear,RC_25,RC,ReynoldsClear_25,25,.,27.13,.,0.14,0.01,0.11,76.85,0.12
+River,Reynolds Clear,RC_26,RC,ReynoldsClear_26,26,.,13.78,.,0.05,0.76,0.06,58.89,0.03
+South,Reynolds Clear,RC_27,RC,ReynoldsClear_27,27,.,58.07,.,0.31,2.51,0.09,126.96,0.12
+West,Reynolds Clear,RC_28,RC,ReynoldsClear_28,28,.,31.87,.,0.13,0.02,0.07,83.03,0.19
+Center,Reynolds Clear,RC_29,RC,ReynoldsClear_29,29,.,78.26,.,0.45,0.48,0.15,133,0.42
+Ditch,Reynolds Clear,RC_30,RC,ReynoldsClear_30,30,.,.,.,.,.,.,.,.
+East,Reynolds Clear,RC_31,RC,ReynoldsClear_31,31,.,87.91,.,0.61,0.02,0.17,143.58,0.53
+North,Reynolds Clear,RC_32,RC,ReynoldsClear_32,32,.,27.15,.,0.14,0.02,0.14,91.73,0.13
+River,Reynolds Clear,RC_33,RC,ReynoldsClear_33,33,.,15.58,.,0.06,0.54,0.23,44.36,0.03
+South,Reynolds Clear,RC_34,RC,ReynoldsClear_34,34,.,41.41,.,0.26,0.14,0.09,77.84,0.23
+West,Reynolds Clear,RC_35,RC,ReynoldsClear_35,35,.,59.36,.,0.2,0.04,0.09,164.5,0.3
+Center,Reynolds Clear,RC_36,RC,ReynoldsClear_36,36,.,134.33,.,0.38,5.86,0.03,311.94,0.18
+Ditch,Reynolds Clear,RC_37,RC,ReynoldsClear_37,37,.,27.2,.,0.14,0.13,0.14,86.91,0.04
+East,Reynolds Clear,RC_38,RC,ReynoldsClear_38,38,.,61.98,.,0.33,0.05,0.14,142.29,0.37
+North,Reynolds Clear,RC_39,RC,ReynoldsClear_39,39,.,28.67,.,0.12,0.04,0.11,82.11,0.16
+River,Reynolds Clear,RC_40,RC,ReynoldsClear_40,40,.,25.09,.,0.15,0.71,0.2,53.6,0.04
+South,Reynolds Clear,RC_41,RC,ReynoldsClear_41,41,.,142.97,.,0.46,3.36,0.03,266.58,0.1
+West,Reynolds Clear,RC_42,RC,ReynoldsClear_42,42,.,94.5,.,0.31,0.09,0.05,233.78,0.27
+Center,Reynolds Clear,RC_43,RC,ReynoldsClear_43,43,.,36.68,.,0.2,0.05,0.23,64.35,0.07
+Ditch,Reynolds Clear,RC_44,RC,ReynoldsClear_44,44,.,29.12,.,0.12,0.42,0.2,88.18,0
+East,Reynolds Clear,RC_45,RC,ReynoldsClear_45,45,.,63.83,.,0.36,0.09,0.17,157.27,0.66
+North,Reynolds Clear,RC_46,RC,ReynoldsClear_46,46,.,24.89,.,0.17,0.02,0.15,78.01,0.06
+River,Reynolds Clear,RC_47,RC,ReynoldsClear_47,47,.,26.74,.,0.08,0.84,0.59,64.78,0.02
+South,Reynolds Clear,RC_48,RC,ReynoldsClear_48,48,.,26.71,.,0.16,0.04,0.28,76.64,0.09
+West,Reynolds Clear,RC_49,RC,ReynoldsClear_49,49,.,63.09,.,0,0.02,0.04,110.94,0.07
+Center,Reynolds Clear,RC_50,RC,ReynoldsClear_50,50,.,66.34,.,0.37,0.03,0.15,183.35,0.36
+Ditch,Reynolds Clear,RC_51,RC,ReynoldsClear_51,51,.,20.98,.,0.04,0.5,0.2,66.3,0
+East,Reynolds Clear,RC_52,RC,ReynoldsClear_52,52,.,118.05,.,0.45,0.15,0.04,389.99,1.3
+North,Reynolds Clear,RC_53,RC,ReynoldsClear_53,53,.,56.03,.,0.15,0.08,0.04,168.15,0.23
+River,Reynolds Clear,RC_54,RC,ReynoldsClear_54,54,.,18.04,.,0.07,0.86,0.43,48.22,0.02
+South,Reynolds Clear,RC_55,RC,ReynoldsClear_55,55,.,59.81,.,0.23,0.04,0.31,126.98,0.26
+West,Reynolds Clear,RC_56,RC,ReynoldsClear_56,56,.,69.6,.,0.34,0.04,0.09,177.77,0.39
+Center,Reynolds Clear,RC_57,RC,ReynoldsClear_57,57,.,62.35,.,0.24,0.03,0.07,197.54,0.4
+Ditch,Reynolds Clear,RC_58,RC,ReynoldsClear_58,58,.,26.82,.,0.07,0.79,0.28,78.37,0.01
+East,Reynolds Clear,RC_59,RC,ReynoldsClear_59,59,.,115.8,.,0.78,0.1,0.02,332.75,1.62
+North,Reynolds Clear,RC_60,RC,ReynoldsClear_60,60,.,55.9,.,0.21,0.07,0.15,141.7,0.21
+River,Reynolds Clear,RC_61,RC,ReynoldsClear_61,61,.,22.14,.,0.1,1.12,0.51,56.75,0.1
+South,Reynolds Clear,RC_62,RC,ReynoldsClear_62,62,.,80.31,.,0.34,0.03,0.32,219.99,0.58
+West,Reynolds Clear,RC_63,RC,ReynoldsClear_63,63,.,68.7,.,0.3,0.09,0.1,187.04,0.43
+Center,Reynolds Forest,Rf_1,Rf,ReynoldsForest_1,1,.,37.22,.,0.18,0.01,0.11,59.88,0.31
+East,Reynolds Forest,Rf_2,Rf,ReynoldsForest_2,2,.,62.09,.,0.28,0.03,0.12,61.99,0.47
+North,Reynolds Forest,Rf_3,Rf,ReynoldsForest_3,3,.,79.69,.,0.25,0.02,0.07,100.64,0.18
+South,Reynolds Forest,Rf_4,Rf,ReynoldsForest_4,4,.,30.93,.,0.14,0.02,0.15,75.25,0.2
+West,Reynolds Forest,Rf_5,Rf,ReynoldsForest_5,5,.,27.99,.,0.15,0.01,0.11,63.56,0.15
+Center,Reynolds Forest,Rf_6,Rf,ReynoldsForest_6,6,.,74.47,.,0.21,0.01,0.11,128.76,0.3
+East,Reynolds Forest,Rf_7,Rf,ReynoldsForest_7,7,.,69.93,.,0.24,0.02,0.15,95.28,0.47
+North,Reynolds Forest,Rf_8,Rf,ReynoldsForest_8,8,.,73.39,.,0.21,0.01,0.08,132.19,0.12
+South,Reynolds Forest,Rf_9,Rf,ReynoldsForest_9,9,.,110.56,.,0.2,0.01,0.07,157.89,0.27
+West,Reynolds Forest,Rf_10,Rf,ReynoldsForest_10,10,.,50.9,.,0.17,0.01,0.06,127.59,0.15
+Center,Reynolds Forest,Rf_11,Rf,ReynoldsForest_11,11,.,36.73,.,0.19,0.01,0.09,77.67,0.27
+East,Reynolds Forest,Rf_12,Rf,ReynoldsForest_12,12,.,40.94,.,0.19,0.01,0.1,52.19,0.6
+North,Reynolds Forest,Rf_13,Rf,ReynoldsForest_13,13,.,64.24,.,0.26,0.02,0.2,92.17,0.12
+South,Reynolds Forest,Rf_14,Rf,ReynoldsForest_14,14,.,17.95,.,0.09,0.01,0.04,30.89,0.22
+West,Reynolds Forest,Rf_15,Rf,ReynoldsForest_15,15,.,18.86,.,0.1,0.01,0.06,36.36,0.41
+Center,Reynolds Forest,Rf_16,Rf,ReynoldsForest_16,16,.,37.03,.,0.19,0.01,0.15,94.47,0.2
+East,Reynolds Forest,Rf_17,Rf,ReynoldsForest_17,17,.,77.98,.,0.24,0.02,0.14,99.44,0.52
+North,Reynolds Forest,Rf_18,Rf,ReynoldsForest_18,18,.,49.86,.,0.21,0.02,0.18,77.77,0.01
+South,Reynolds Forest,Rf_19,Rf,ReynoldsForest_19,19,.,29.09,.,0.13,0.02,0.13,77.78,0.13
+West,Reynolds Forest,Rf_20,Rf,ReynoldsForest_20,20,.,30.76,.,0.12,0.02,0.15,86.04,0.07
+Center,Reynolds Forest,Rf_21,Rf,ReynoldsForest_21,21,.,49.84,.,0.28,0.02,0.08,105.63,0.28
+East,Reynolds Forest,Rf_22,Rf,ReynoldsForest_22,22,.,89.87,.,0.29,0.04,0.33,84.9,0.61
+North,Reynolds Forest,Rf_23,Rf,ReynoldsForest_23,23,.,47.8,.,0.2,0.02,0.19,69.21,0.15
+South,Reynolds Forest,Rf_24,Rf,ReynoldsForest_24,24,.,38.37,.,0.21,0.02,0.09,92.39,0.22
+West,Reynolds Forest,Rf_25,Rf,ReynoldsForest_25,25,.,47.19,.,0.26,0.02,0.05,100.19,0.22
+Center,Reynolds Forest,Rf_26,Rf,ReynoldsForest_26,26,.,76.45,.,0.29,0.03,0.1,150.55,0.25
+East,Reynolds Forest,Rf_27,Rf,ReynoldsForest_27,27,.,31.32,.,0.18,0.03,0.29,68.34,0.34
+North,Reynolds Forest,Rf_28,Rf,ReynoldsForest_28,28,.,38.69,.,0.18,0.03,0.2,72.4,0.12
+South,Reynolds Forest,Rf_29,Rf,ReynoldsForest_29,29,.,49.45,.,0.24,0.06,0.14,110.06,0.11
+West,Reynolds Forest,Rf_30,Rf,ReynoldsForest_30,30,.,56.78,.,0.2,0.02,0.06,173.52,0.16
+Center,Reynolds Forest,Rf_31,Rf,ReynoldsForest_31,31,.,26.71,.,0.14,0.04,0.22,82.99,0.09
+East,Reynolds Forest,Rf_32,Rf,ReynoldsForest_32,32,.,30.5,.,0.18,0.03,0.39,58.14,0.44
+North,Reynolds Forest,Rf_33,Rf,ReynoldsForest_33,33,.,28.6,.,0.17,0.04,0.18,65.87,0.01
+South,Reynolds Forest,Rf_34,Rf,ReynoldsForest_34,34,.,25.74,.,0.14,0.03,0.16,61.66,0.07
+West,Reynolds Forest,Rf_35,Rf,ReynoldsForest_35,35,.,27.02,.,0.15,0.03,0.27,77.34,0.01
+Center,Reynolds Forest,Rf_36,Rf,ReynoldsForest_36,36,.,84.85,.,0.43,0.07,0.15,159.07,0.18
+East,Reynolds Forest,Rf_37,Rf,ReynoldsForest_37,37,.,29.03,.,0.18,0.02,0.35,65.48,0.58
+North,Reynolds Forest,Rf_38,Rf,ReynoldsForest_38,38,.,27.03,.,0.13,0.05,0.3,73.91,0.19
+South,Reynolds Forest,Rf_39,Rf,ReynoldsForest_39,39,.,87.96,.,0.52,0.06,0.07,117.33,0.63
+West,Reynolds Forest,Rf_40,Rf,ReynoldsForest_40,40,.,71.28,.,0.31,0.07,0.01,212.48,0.33
+Center,Reynolds Forest,Rf_41,Rf,ReynoldsForest_41,41,.,94.97,.,0.32,0.04,0.1,174.74,0.61
+East,Reynolds Forest,Rf_42,Rf,ReynoldsForest_42,42,.,129.73,.,0.53,0.06,0.12,146.67,1.15
+North,Reynolds Forest,Rf_43,Rf,ReynoldsForest_43,43,.,42.73,.,0.19,0.08,0.28,93.04,0.28
+South,Reynolds Forest,Rf_44,Rf,ReynoldsForest_44,44,.,70.35,.,0.28,0.03,0.08,148.35,0.66
+West,Reynolds Forest,Rf_45,Rf,ReynoldsForest_45,45,.,69.42,.,0.49,0.05,0.05,175.42,0.55
+Center,RGNC,Rn_1,Rn,RGNC_1,1,.,10.4,.,0.39,0.94,0,56.58,.
+Ditch,RGNC,Rn_2,Rn,RGNC_2,2,.,10.63,.,0.4,0.58,0,52.16,.
+East,RGNC,Rn_3,Rn,RGNC_3,3,.,11.24,.,0.55,0.56,0,65.54,.
+North,RGNC,Rn_4,Rn,RGNC_4,4,.,8.73,.,0.39,0.5,0,52.5,.
+South,RGNC,Rn_5,Rn,RGNC_5,5,.,10.72,.,0.39,0.4,0,52.2,.
+West,RGNC,Rn_6,Rn,RGNC_6,6,.,10.42,.,0.46,0.56,0,52.83,.
+Center,RGNC,Rn_7,Rn,RGNC_7,7,.,16.31,.,0.56,0.45,0,74.43,.
+Ditch,RGNC,Rn_8,Rn,RGNC_8,8,.,7.44,.,0,1.12,0,47.96,.
+East,RGNC,Rn_9,Rn,RGNC_9,9,.,11.65,.,0.4,0.33,0,58.73,.
+North,RGNC,Rn_10,Rn,RGNC_10,10,.,12.06,.,0.37,0,0,57.57,.
+South,RGNC,Rn_11,Rn,RGNC_11,11,.,11.58,.,0.53,0.41,0,47.54,.
+West,RGNC,Rn_12,Rn,RGNC_12,12,.,10.02,.,0.46,0.31,0,44.55,.
+Center,RGNC,Rn_13,Rn,RGNC_13,13,0.7217,6.82,.,0.37,0,0,49.96,.
+Ditch,RGNC,Rn_14,Rn,RGNC_14,14,0.7446,11.52,.,0.73,0.58,0,62.18,.
+East,RGNC,Rn_15,Rn,RGNC_15,15,0.8183,17.34,.,0.36,0,0,77.45,.
+North,RGNC,Rn_16,Rn,RGNC_16,16,0.7792,7.58,.,0.37,0.19,0,54.81,.
+South,RGNC,Rn_17,Rn,RGNC_17,17,0.312,1.61,.,0,0,0,10.53,.
+West,RGNC,Rn_18,Rn,RGNC_18,18,0.5359,10.47,.,0,0,0,56.49,.
+Center,Rio Grande Nature Center,Rg_1,Rg,RiograndeNC_1,1,.,.,.,.,.,.,.,.
+Ditch,Rio Grande Nature Center,Rg_2,Rg,RiograndeNC_2,2,.,11.23,.,0.04,0.05,0.02,52.06,0.01
+East,Rio Grande Nature Center,Rg_3,Rg,RiograndeNC_3,3,.,37.96,.,0.12,0.02,0.05,164.19,0.1
+North,Rio Grande Nature Center,Rg_4,Rg,RiograndeNC_4,4,.,43.09,.,0.12,0.02,0.45,163.24,0.12
+South,Rio Grande Nature Center,Rg_5,Rg,RiograndeNC_5,5,.,3.98,.,0.03,0.02,0.05,18.93,0.04
+West,Rio Grande Nature Center,Rg_6,Rg,RiograndeNC_6,6,.,6.36,.,0.03,0.02,0.07,30.37,0.05
+Center,Rio Grande Nature Center,Rg_7,Rg,RiograndeNC_7,7,.,6.27,.,0,0.01,0.05,27.79,0.04
+Ditch,Rio Grande Nature Center,Rg_8,Rg,RiograndeNC_8,8,.,12.68,.,0.05,0.04,0,49.77,0.02
+East,Rio Grande Nature Center,Rg_9,Rg,RiograndeNC_9,9,.,18.85,.,0.05,0.01,0.05,89.18,0.06
+North,Rio Grande Nature Center,Rg_10,Rg,RiograndeNC_10,10,.,37.46,.,0.08,0.01,0.01,159.84,0.11
+South,Rio Grande Nature Center,Rg_11,Rg,RiograndeNC_11,11,.,7.4,.,0.1,0.01,0,18.9,0.02
+West,Rio Grande Nature Center,Rg_12,Rg,RiograndeNC_12,12,.,6.16,.,0.07,0.01,0.02,14.51,0.03
+Center,Rio Grande Nature Center,Rg_13,Rg,RiograndeNC_13,13,.,10.42,.,0.08,0.02,0.07,36.29,0.05
+Ditch,Rio Grande Nature Center,Rg_14,Rg,RiograndeNC_14,14,.,9.17,.,0.05,0.05,0.05,44.63,0.02
+East,Rio Grande Nature Center,Rg_15,Rg,RiograndeNC_15,15,.,12.26,.,0.08,0.01,0.1,49.15,0.05
+North,Rio Grande Nature Center,Rg_16,Rg,RiograndeNC_16,16,.,13.44,.,0.07,0.01,0.04,54.69,0.07
+South,Rio Grande Nature Center,Rg_17,Rg,RiograndeNC_17,17,.,11.98,.,0.08,0.01,0.04,41.39,0.03
+West,Rio Grande Nature Center,Rg_18,Rg,RiograndeNC_18,18,.,10.86,.,0.08,0.01,0.05,37.98,0.03
+Center,Rio Grande Nature Center,Rg_19,Rg,RiograndeNC_19,19,.,13.95,.,0.07,0.02,0.03,49.29,0
+Ditch,Rio Grande Nature Center,Rg_20,Rg,RiograndeNC_20,20,.,13.05,.,0.06,0.12,0.02,71.86,0.01
+East,Rio Grande Nature Center,Rg_21,Rg,RiograndeNC_21,21,.,12.1,.,0.06,0.01,0.06,47.55,0
+North,Rio Grande Nature Center,Rg_22,Rg,RiograndeNC_22,22,.,16.63,.,0.07,0.01,0.03,71.97,0.05
+South,Rio Grande Nature Center,Rg_23,Rg,RiograndeNC_23,23,.,15.62,.,0.08,0.01,0.02,46.64,0
+West,Rio Grande Nature Center,Rg_24,Rg,RiograndeNC_24,24,.,10.55,.,0.04,0.02,0.02,33.72,0.03
+Center,Rio Grande Nature Center,Rg_25,Rg,RiograndeNC_25,25,.,19.39,.,0.09,0.02,0.06,77.95,0.03
+Ditch,Rio Grande Nature Center,Rg_26,Rg,RiograndeNC_26,26,.,12.93,.,0.07,0.03,0.06,60.31,0
+East,Rio Grande Nature Center,Rg_27,Rg,RiograndeNC_27,27,.,17.47,.,0.09,0.02,0.08,61.22,0.04
+North,Rio Grande Nature Center,Rg_28,Rg,RiograndeNC_28,28,.,14.14,.,0.11,0.01,0.06,49.96,0.06
+South,Rio Grande Nature Center,Rg_29,Rg,RiograndeNC_29,29,.,11.51,.,0.08,0.01,0.04,45.98,0.04
+West,Rio Grande Nature Center,Rg_30,Rg,RiograndeNC_30,30,.,8.63,.,0.07,0.02,0.06,41.19,0.03
+Center,Rio Grande Nature Center,Rg_31,Rg,RiograndeNC_31,31,.,14,.,0.06,0.03,0.03,56.79,0.04
+Ditch,Rio Grande Nature Center,Rg_32,Rg,RiograndeNC_32,32,.,16.6,.,0.07,0.08,0.02,51.05,0.01
+East,Rio Grande Nature Center,Rg_33,Rg,RiograndeNC_33,33,.,26.76,.,0.1,0.02,0.03,122.02,0.06
+North,Rio Grande Nature Center,Rg_34,Rg,RiograndeNC_34,34,.,32.51,.,0.13,0.03,0.01,127.48,0.1
+South,Rio Grande Nature Center,Rg_35,Rg,RiograndeNC_35,35,.,14.57,.,0.07,0.03,0.03,57.45,0.04
+West,Rio Grande Nature Center,Rg_36,Rg,RiograndeNC_36,36,.,11.87,.,0.06,0.03,0.03,50.38,0.03
+Center,Rio Grande Nature Center,Rg_37,Rg,RiograndeNC_37,37,.,8.39,.,0.04,0.07,0,56.86,0
+Ditch,Rio Grande Nature Center,Rg_38,Rg,RiograndeNC_38,38,.,10.14,.,0.05,0.1,0.01,49.15,0.04
+East,Rio Grande Nature Center,Rg_39,Rg,RiograndeNC_39,39,.,14.5,.,0.06,0.09,0.09,71.15,0.02
+North,Rio Grande Nature Center,Rg_40,Rg,RiograndeNC_40,40,.,21.2,.,0.09,0.03,0.06,86.85,0.07
+South,Rio Grande Nature Center,Rg_41,Rg,RiograndeNC_41,41,.,10.6,.,0.07,0.07,0.04,66.28,0
+West,Rio Grande Nature Center,Rg_42,Rg,RiograndeNC_42,42,.,7.89,.,0.06,0.08,0.1,53.33,0.01
+Center,Rio Grande Nature Center,Rg_43,Rg,RiograndeNC_43,43,.,19.83,.,0.05,0.04,0.04,95.33,0.06
+Ditch,Rio Grande Nature Center,Rg_44,Rg,RiograndeNC_44,44,.,5.9,.,0.03,0.19,0.01,44.83,0.01
+East,Rio Grande Nature Center,Rg_45,Rg,RiograndeNC_45,45,.,37.88,.,0.15,0.09,0.04,149.65,0.03
+North,Rio Grande Nature Center,Rg_46,Rg,RiograndeNC_46,46,.,47.14,.,0.1,0.06,0.02,180.28,0.05
+South,Rio Grande Nature Center,Rg_47,Rg,RiograndeNC_47,47,.,13.53,.,0.06,0.04,0.04,69.36,0.04
+West,Rio Grande Nature Center,Rg_48,Rg,RiograndeNC_48,48,.,14.67,.,0.04,0.01,0.03,79.21,0
+Center,Rio Grande Nature Center,Rg_49,Rg,RiograndeNC_49,49,.,5.1,.,0.03,0.03,0.05,33.63,0.01
+Ditch,Rio Grande Nature Center,Rg_50,Rg,RiograndeNC_50,50,.,8.69,.,0.04,0.07,0.03,45.23,0
+East,Rio Grande Nature Center,Rg_51,Rg,RiograndeNC_51,51,.,14.55,.,0.09,0.04,0.09,79.55,0.06
+North,Rio Grande Nature Center,Rg_52,Rg,RiograndeNC_52,52,.,23.61,.,0.14,0.03,0.02,104.81,0.12
+South,Rio Grande Nature Center,Rg_53,Rg,RiograndeNC_53,53,.,6.5,.,0.04,0.05,0.06,35.86,0.02
+West,Rio Grande Nature Center,Rg_54,Rg,RiograndeNC_54,54,.,7.01,.,0.04,0.04,0.04,42.9,0.04
+Center,Rio Grande Nature Center,Rg_55,Rg,RiograndeNC_55,55,.,13.97,.,0.06,0.07,0.06,53.35,0.03
+Ditch,Rio Grande Nature Center,Rg_56,Rg,RiograndeNC_56,56,.,10.61,.,0.05,0.1,0.05,43.23,0.03
+East,Rio Grande Nature Center,Rg_57,Rg,RiograndeNC_57,57,.,15.85,.,0.03,0.05,0.06,59.69,0.04
+North,Rio Grande Nature Center,Rg_58,Rg,RiograndeNC_58,58,.,13.78,.,0.05,0.04,0.06,49.68,0.08
+South,Rio Grande Nature Center,Rg_59,Rg,RiograndeNC_59,59,.,13.26,.,0.06,0.05,0.05,48.8,0.04
+West,Rio Grande Nature Center,Rg_60,Rg,RiograndeNC_60,60,.,12.3,.,0.06,0.08,0.02,43.66,0.04
+Center,Rio Grande Nature Center,Rg_61,Rg,RiograndeNC_61,61,.,13.19,.,0.03,0.04,0.04,50.22,0.04
+Ditch,Rio Grande Nature Center,Rg_62,Rg,RiograndeNC_62,62,.,7.49,.,0.01,0.08,0.01,42.73,0.02
+East,Rio Grande Nature Center,Rg_63,Rg,RiograndeNC_63,63,.,15.1,.,0.03,0.03,0.05,56.36,0.07
+North,Rio Grande Nature Center,Rg_64,Rg,RiograndeNC_64,64,.,17.75,.,0,0.06,0.03,63.78,0.07
+South,Rio Grande Nature Center,Rg_65,Rg,RiograndeNC_65,65,.,13.59,.,0.03,0.03,0.03,49,0.05
+West,Rio Grande Nature Center,Rg_66,Rg,RiograndeNC_66,66,.,13.2,.,0.02,0.03,0.03,39.39,0.06
+Center,Rio Grande Nature Center,Rg_67,Rg,RiograndeNC_67,67,.,12.65,.,0.06,0.04,0.04,43.42,0.04
+Ditch,Rio Grande Nature Center,Rg_68,Rg,RiograndeNC_68,68,.,6.95,.,0.03,0.07,0.02,52.8,0.06
+East,Rio Grande Nature Center,Rg_69,Rg,RiograndeNC_69,69,.,32.92,.,0.12,0.03,0.05,133.18,0.09
+North,Rio Grande Nature Center,Rg_70,Rg,RiograndeNC_70,70,.,16.48,.,0.06,0.05,0.02,62.48,0.07
+South,Rio Grande Nature Center,Rg_71,Rg,RiograndeNC_71,71,.,11.33,.,0.07,0.04,0.06,44.24,0.04
+West,Rio Grande Nature Center,Rg_72,Rg,RiograndeNC_72,72,.,17.29,.,0.08,0.05,0.02,77.92,0.07
+Center well,Rio Grande Nature Center,Rg_73,Rg,RiograndeNC_73,73,0.5495,3.722,0,0,0,0,20.739,
+Ditch,Rio Grande Nature Center,Rg_74,Rg,RiograndeNC_74,74,.,.,.,.,.,.,.,
+East well,Rio Grande Nature Center,Rg_75,Rg,RiograndeNC_75,75,0.5573,8.146,0,0,0,0,32.4139,
+North well,Rio Grande Nature Center,Rg_76,Rg,RiograndeNC_76,76,1.0739,13.786,0,0.2349,0.3991,0,60.7876,
+River,Rio Grande Nature Center,Rg_77,Rg,RiograndeNC_77,77,.,.,.,.,.,.,.,
+South well,Rio Grande Nature Center,Rg_78,Rg,RiograndeNC_78,78,0.8357,13.308,0,0,8.8762,0,84.4065,
+West well,Rio Grande Nature Center,Rg_79,Rg,RiograndeNC_79,79,0.7527,9.824,0,0,0,0,77.6278,
+Center well,Rio Grande Nature Center,Rg_80,Rg,RiograndeNC_80,80,0.9955,11.031,0,0.4499,0.869,0,58.1359,
+Ditch,Rio Grande Nature Center,Rg_81,Rg,RiograndeNC_81,81,0.8527,13.385,0,0.2247,0.9625,0,54.3943,
+East well,Rio Grande Nature Center,Rg_82,Rg,RiograndeNC_82,82,0.9044,15.164,0,0.2401,0.624,0,78.5449,
+North well,Rio Grande Nature Center,Rg_83,Rg,RiograndeNC_83,83,1.1001,13.128,0,0.4662,0.8114,0,47.8164,
+River,Rio Grande Nature Center,Rg_84,Rg,RiograndeNC_84,84,0.8558,9.86,0.2944,0.1699,1.6769,0,36.6001,
+South well,Rio Grande Nature Center,Rg_85,Rg,RiograndeNC_85,85,0.9228,16.945,0,0.5159,1.1477,0,71.6668,
+West well,Rio Grande Nature Center,Rg_86,Rg,RiograndeNC_86,86,1.1046,10.275,0,0.6148,1.5879,0,49.5007,
+Center well,Rio Grande Nature Center,Rg_87,Rg,RiograndeNC_87,87,0.59,15.35,0,0.27,0.15,0,54.21,
+Ditch,Rio Grande Nature Center,Rg_88,Rg,RiograndeNC_88,88,0.48,16.6,0,0.35,0.57,0,55.25,
+East well,Rio Grande Nature Center,Rg_89,Rg,RiograndeNC_89,89,0.32,13.02,0,0,0,0,60.41,
+North well,Rio Grande Nature Center,Rg_90,Rg,RiograndeNC_90,90,0.86,23.37,0,0.51,0.41,0,80.85,
+River,Rio Grande Nature Center,Rg_91,Rg,RiograndeNC_91,91,0.39,4.05,0,0,1.08,0,19.08,
+South well,Rio Grande Nature Center,Rg_92,Rg,RiograndeNC_92,92,0.58,13.94,0,0.33,0.21,0,45.68,
+West well,Rio Grande Nature Center,Rg_93,Rg,RiograndeNC_93,93,0.5,11.45,0,0.36,0.24,0,40.32,
+Center well,Rio Grande Nature Center,Rg_94,Rg,RiograndeNC_94,94,0.6986,11.586,0,0.9779,1.5742,0.7796,50.4405,
+Ditch,Rio Grande Nature Center,Rg_95,Rg,RiograndeNC_95,95,0.6469,10.798,0.2662,0.8329,1.7922,0.8211,66.9351,
+East well,Rio Grande Nature Center,Rg_96,Rg,RiograndeNC_96,96,0.7063,18.614,0,0.9628,1.6333,0.8388,63.2434,
+North well,Rio Grande Nature Center,Rg_97,Rg,RiograndeNC_97,97,0.7121,30.862,0,0.7099,0.9666,0,73.5603,
+River,Rio Grande Nature Center,Rg_98,Rg,RiograndeNC_98,98,0.7101,13.408,0,0.8298,2.0939,0.8321,60.4014,
+South well,Rio Grande Nature Center,Rg_99,Rg,RiograndeNC_99,99,0.663,24.858,0,0.9055,1.1807,0,93.3413,
+West well,Rio Grande Nature Center,Rg_100,Rg,RiograndeNC_100,100,0.6239,9.853,0,0.58,0,0,45.2287,
+Center well,Rio Grande Nature Center,Rg_101,Rg,RiograndeNC_101,101,0.5762,13.894,0,0.3655,0.3568,0.4016,63.7406,
+Ditch,Rio Grande Nature Center,Rg_102,Rg,RiograndeNC_102,102,0.4746,11.132,0,0.3488,0.4535,0,45.3989,
+East well,Rio Grande Nature Center,Rg_103,Rg,RiograndeNC_103,103,0.6746,13.052,0,0.5939,0.4321,0.4708,52.3808,
+North well,Rio Grande Nature Center,Rg_104,Rg,RiograndeNC_104,104,0.7728,9.165,0,0.3538,0.3696,0.4198,48.1393,
+River,Rio Grande Nature Center,Rg_105,Rg,RiograndeNC_105,105,0.4433,10.994,0.5946,0.3947,0.6072,0.3115,32.3596,
+South well,Rio Grande Nature Center,Rg_106,Rg,RiograndeNC_106,106,0.5204,11.958,0,0.3667,0.3635,0.3471,54.3761,
+West well,Rio Grande Nature Center,Rg_107,Rg,RiograndeNC_107,107,0.8152,9.491,0,0.1664,1.4283,0,58.8482,
+Center well,Rio Grande Nature Center,Rg_108,Rg,RiograndeNC_108,108,.,.,.,.,.,.,.,
+Ditch,Rio Grande Nature Center,Rg_109,Rg,RiograndeNC_109,109,0.353,9.661,1.5436,0.7552,0.928,0,57.2084,
+East well,Rio Grande Nature Center,Rg_110,Rg,RiograndeNC_110,110,0.483,13.542,0,0.5723,0.4976,0.3661,50.2646,
+North well,Rio Grande Nature Center,Rg_111,Rg,RiograndeNC_111,111,0.3891,19.821,0,0.742,0.7308,0.5862,62.5369,
+River,Rio Grande Nature Center,Rg_112,Rg,RiograndeNC_112,112,.,.,.,.,.,.,.,
+South well,Rio Grande Nature Center,Rg_113,Rg,RiograndeNC_113,113,0.3949,11.649,0,0.5838,0.3635,0,45.9376,
+West well,Rio Grande Nature Center,Rg_114,Rg,RiograndeNC_114,114,0.3134,6.467,0,0.0407,0.1387,0.2894,40.4312,
+Center,Route 66,Rt_1,Rt,RouteSS_1,1,.,5.28,.,0.05,0.01,0.02,36.77,0
+Ditch,Route 66,Rt_2,Rt,RouteSS_2,2,.,9.78,.,0.05,0.03,0.03,45.38,0
+East,Route 66,Rt_3,Rt,RouteSS_3,3,.,4.82,.,0.03,0.01,0.05,29.77,0
+North,Route 66,Rt_4,Rt,RouteSS_4,4,.,5.1,.,0.03,0.01,0.03,30.44,0.01
+River,Route 66,Rt_5,Rt,RouteSS_5,5,.,9.89,.,0.03,0.04,0.02,40.14,0.01
+South,Route 66,Rt_6,Rt,RouteSS_6,6,.,6.47,.,0,0.01,0.06,40.23,0.08
+West,Route 66,Rt_7,Rt,RouteSS_7,7,.,6.61,.,0.06,0.01,0.04,40.33,0
+Center,Route 66,Rt_8,Rt,RouteSS_8,8,.,11.49,.,0.05,0.01,0.01,52.28,0.01
+Ditch,Route 66,Rt_9,Rt,RouteSS_9,9,.,.,.,.,.,.,.,.
+East,Route 66,Rt_10,Rt,RouteSS_10,10,.,10.88,.,0.03,0.01,0.03,56.13,0.01
+North,Route 66,Rt_11,Rt,RouteSS_11,11,.,10.1,.,0.04,0.02,0.02,44.71,0.01
+River,Route 66,Rt_12,Rt,RouteSS_12,12,.,15.46,.,0.06,0.12,0.02,42.91,0.01
+South,Route 66,Rt_13,Rt,RouteSS_13,13,.,10.76,.,0.05,0.01,0.04,43.38,0
+West,Route 66,Rt_14,Rt,RouteSS_14,14,.,13.64,.,0.06,0.03,0.05,53.6,0.01
+Center,Route 66,Rt_15,Rt,RouteSS_15,15,.,9.85,.,0.08,0.01,0.02,32.38,0.01
+East,Route 66,Rt_16,Rt,RouteSS_16,16,.,13.49,.,0.06,0.01,0.07,44.6,0.01
+North,Route 66,Rt_17,Rt,RouteSS_17,17,.,11.65,.,0.05,0.28,0.05,39.2,0.02
+River,Route 66,Rt_18,Rt,RouteSS_18,18,.,5.96,.,0.02,0.1,0.03,40.84,0.02
+South,Route 66,Rt_19,Rt,RouteSS_19,19,.,8.02,.,0.05,0.05,0.02,36.1,0.01
+West,Route 66,Rt_20,Rt,RouteSS_20,20,.,7.31,.,0.05,0.22,0.06,37.3,0.02
+Center,Route 66,Rt_21,Rt,RouteSS_21,21,.,27.83,.,0.1,0.01,0.01,131.5,0
+East,Route 66,Rt_22,Rt,RouteSS_22,22,.,8.06,.,0.05,0.01,0.02,50.27,0
+North,Route 66,Rt_23,Rt,RouteSS_23,23,.,9.04,.,0.06,0.12,0.02,62.25,0
+River,Route 66,Rt_24,Rt,RouteSS_24,24,.,5.37,.,0.02,0.35,0.03,29.85,0.03
+South,Route 66,Rt_25,Rt,RouteSS_25,25,.,8.47,.,0.07,0.01,0.04,64.39,0
+West,Route 66,Rt_26,Rt,RouteSS_26,26,.,14.87,.,0.06,0.02,0.03,95.46,0
+Center,Route 66,Rt_27,Rt,RouteSS_27,27,.,16.24,.,0.11,0.01,0.01,64.16,0
+South,Route 66,Rt_28,Rt,RouteSS_28,28,.,10.07,.,0.06,0.02,0.05,41.39,0
+East,Route 66,Rt_29,Rt,RouteSS_29,29,.,13.38,.,0.07,0.05,0.03,65.12,0
+North,Route 66,Rt_30,Rt,RouteSS_30,30,.,10.08,.,0.06,0.01,0.03,45.4,0
+River,Route 66,Rt_31,Rt,RouteSS_31,31,.,6.51,.,0.03,0.09,0.03,33.31,0.03
+West,Route 66,Rt_32,Rt,RouteSS_32,32,.,10.84,.,0.06,0.02,0.02,47.63,0
+Center,Route 66,Rt_33,Rt,RouteSS_33,33,.,13.36,.,0.05,0.05,0.01,50.59,0.01
+East,Route 66,Rt_34,Rt,RouteSS_34,34,.,12.43,.,0.07,0.02,0.03,45.98,0.01
+North,Route 66,Rt_35,Rt,RouteSS_35,35,.,12.58,.,0.05,0.09,0.03,43.43,0.01
+River,Route 66,Rt_36,Rt,RouteSS_36,36,.,19.25,.,0.08,0.11,0.03,45.01,0.02
+South,Route 66,Rt_37,Rt,RouteSS_37,37,.,16.65,.,0.05,0.07,0.02,45.98,0.01
+West,Route 66,Rt_38,Rt,RouteSS_38,38,.,16.8,.,0.07,0.19,0.02,47.09,0.01
+Center,Route 66,Rt_39,Rt,RouteSS_39,39,.,8.67,.,0.04,0.02,0.03,49.17,0
+East,Route 66,Rt_40,Rt,RouteSS_40,40,.,6.81,.,0.05,0.03,0.03,47.7,0.01
+North,Route 66,Rt_41,Rt,RouteSS_41,41,.,7.8,.,0.05,0.06,0,44.95,0
+River,Route 66,Rt_42,Rt,RouteSS_42,42,.,13.25,.,0.06,0.16,0.04,52.01,0
+South,Route 66,Rt_43,Rt,RouteSS_43,43,.,9.92,.,0.06,0.07,0.02,48.53,0.01
+West,Route 66,Rt_44,Rt,RouteSS_44,44,.,10.83,.,0.04,0.11,0.03,55.06,0
+Center,Route 66,Rt_45,Rt,RouteSS_45,45,.,5.7,.,0.05,0.07,0.03,40.93,0.03
+East,Route 66,Rt_46,Rt,RouteSS_46,46,.,10.87,.,0,0.06,0.04,56.26,0.03
+North,Route 66,Rt_47,Rt,RouteSS_47,47,.,4.56,.,0.04,0.05,0.04,29.78,0.04
+River,Route 66,Rt_48,Rt,RouteSS_48,48,.,6.61,.,0.06,0.42,0.02,45.59,0.05
+South,Route 66,Rt_49,Rt,RouteSS_49,49,.,2.91,.,0.03,0.08,0.03,30.71,0
+West,Route 66,Rt_50,Rt,RouteSS_50,50,.,2.99,.,0,0.04,0.02,30.08,0
+Center,Route 66,Rt_51,Rt,RouteSS_51,51,.,5.63,.,0.06,0.04,0.03,37.99,0.01
+East,Route 66,Rt_52,Rt,RouteSS_52,52,.,7.3,.,0.02,0.03,0.02,42.42,0
+North,Route 66,Rt_53,Rt,RouteSS_53,53,.,6.34,.,0.06,0.05,0.05,40.15,0
+River,Route 66,Rt_54,Rt,RouteSS_54,54,.,12.68,.,0.05,0.11,0.04,46.22,0
+South,Route 66,Rt_55,Rt,RouteSS_55,55,.,5.67,.,0.03,0.04,0.02,38.83,0
+West,Route 66,Rt_56,Rt,RouteSS_56,56,.,6.58,.,0.02,0.06,0.01,38.73,0
+Center,Savannah,Sv_1,Sv,Savannah_1,1,.,8.19,.,0.05,0.01,0.05,41.36,0.06
+Ditch,Savannah,Sv_2,Sv,Savannah_2,2,.,10.23,.,0.04,0.01,0.02,40.81,0.03
+East,Savannah,Sv_3,Sv,Savannah_3,3,.,10.13,.,0.05,0.01,0.04,41.25,0.05
+North,Savannah,Sv_4,Sv,Savannah_4,4,.,.,.,.,.,.,.,.
+River,Savannah,Sv_5,Sv,Savannah_5,5,.,9.26,.,0.03,0.09,0.03,38.18,0.01
+South,Savannah,Sv_6,Sv,Savannah_6,6,.,.,.,.,.,.,.,.
+West,Savannah,Sv_7,Sv,Savannah_7,7,.,14.48,.,0.04,0.01,0.05,40.4,0.03
+Center,Savannah,Sv_8,Sv,Savannah_8,8,.,10.68,.,0.04,0.01,0.06,35.65,0.04
+Ditch,Savannah,Sv_9,Sv,Savannah_9,9,.,13.08,.,0.07,0.03,0.03,49.02,0.04
+East,Savannah,Sv_10,Sv,Savannah_10,10,.,11.67,.,0.05,0.01,0,37.64,0.09
+North,Savannah,Sv_11,Sv,Savannah_11,11,.,10.17,.,0.05,0.01,0.06,38.78,0.05
+River,Savannah,Sv_12,Sv,Savannah_12,12,.,21.44,.,0.07,0.06,0.01,43.4,0.03
+South,Savannah,Sv_13,Sv,Savannah_13,13,.,10.53,.,0.04,0.01,0,40.61,0.02
+West,Savannah,Sv_14,Sv,Savannah_14,14,.,10.65,.,0.05,0.01,0.06,44.77,0.01
+Center,Savannah,Sv_15,Sv,Savannah_15,15,.,11.18,.,0.07,0.01,0.04,32.42,0.01
+East,Savannah,Sv_16,Sv,Savannah_16,16,.,8.35,.,0.06,0.01,0.03,27.07,0.01
+North,Savannah,Sv_17,Sv,Savannah_17,17,.,11.59,.,0.08,0,0.1,34.91,0.01
+South,Savannah,Sv_18,Sv,Savannah_18,18,.,11.37,.,0.08,0.01,0.04,34.49,0.01
+West,Savannah,Sv_19,Sv,Savannah_19,19,.,12.29,.,0.07,0.01,0.06,41.11,0.01
+Ditch,Savannah,Sv_20,Sv,Savannah_20,20,.,7.65,.,0.04,0.02,0.04,49.89,0.02
+River,Savannah,Sv_21,Sv,Savannah_21,21,.,7,.,0.01,0.12,0.05,42.07,0.07
+Center,Savannah,Sv_22,Sv,Savannah_22,22,.,9.13,.,0.05,0.01,0.04,60.11,0
+Ditch,Savannah,Sv_23,Sv,Savannah_23,23,.,11.68,.,0.07,0.04,0,51.57,0
+East,Savannah,Sv_24,Sv,Savannah_24,24,.,11.1,.,0.06,0.02,0.06,61.68,0
+North,Savannah,Sv_25,Sv,Savannah_25,25,.,7.7,.,0.06,0.02,0.09,46.23,0
+River,Savannah,Sv_26,Sv,Savannah_26,26,.,18.97,.,0.03,0.21,0.02,43.5,0.15
+South,Savannah,Sv_27,Sv,Savannah_27,27,.,7.64,.,0.06,0.02,0.04,61.98,0
+West,Savannah,Sv_28,Sv,Savannah_28,28,.,9.31,.,0.05,0.01,0.04,36.76,0
+Center,Savannah,Sv_29,Sv,Savannah_29,29,.,11.69,.,0.06,0.01,0.04,57.98,0.08
+Ditch,Savannah,Sv_30,Sv,Savannah_30,30,.,11.52,.,0.06,0.01,0.03,59.67,0.03
+East,Savannah,Sv_31,Sv,Savannah_31,31,.,9.81,.,0.07,0.01,0.04,36.05,0.06
+North,Savannah,Sv_32,Sv,Savannah_32,32,.,12.14,.,0.07,0.01,0.06,69.28,0.06
+River,Savannah,Sv_33,Sv,Savannah_33,33,.,8.2,.,0.03,0.04,0.03,31.01,0.03
+South,Savannah,Sv_34,Sv,Savannah_34,34,.,10.88,.,0.06,0.01,0.04,47.18,0.05
+West,Savannah,Sv_35,Sv,Savannah_35,35,.,12.63,.,0.06,0.01,0.04,62.89,0.05
+Center,Savannah,Sv_36,Sv,Savannah_36,36,.,9.61,.,0.06,0.05,0.05,31.01,0.08
+Ditch,Savannah,Sv_37,Sv,Savannah_37,37,.,12.24,.,0.07,0.04,0.03,49.35,0.03
+East,Savannah,Sv_38,Sv,Savannah_38,38,.,15.15,.,0.07,0.02,0.04,43.52,0.06
+North,Savannah,Sv_39,Sv,Savannah_39,39,.,9.55,.,0.04,0.01,0.04,38.27,0.04
+River,Savannah,Sv_40,Sv,Savannah_40,40,.,13.37,.,0.07,0.07,0.02,40.07,0.04
+South,Savannah,Sv_41,Sv,Savannah_41,41,.,9.59,.,0.05,0.03,0.05,38.08,0.05
+West,Savannah,Sv_42,Sv,Savannah_42,42,.,11.13,.,0.06,0.03,0.04,45.66,0.04
+Center,Savannah,Sv_43,Sv,Savannah_43,43,.,8.75,.,1.53,0.03,0.07,48.8,0
+East,Savannah,Sv_44,Sv,Savannah_44,44,.,14.7,.,2.55,0.03,0.07,44.7,0
+North,Savannah,Sv_45,Sv,Savannah_45,45,.,7.05,.,1.61,0.01,0.11,42.16,0
+South,Savannah,Sv_46,Sv,Savannah_46,46,.,7.65,.,1.61,0.03,0.08,44.19,0
+West,Savannah,Sv_47,Sv,Savannah_47,47,.,8.89,.,2.83,0.03,0.04,49.33,0
+Ditch,Savannah,Sv_48,Sv,Savannah_48,48,.,10.91,.,0.07,0.03,0.06,52.74,0.01
+River,Savannah,Sv_49,Sv,Savannah_49,49,.,8.59,.,0.07,0.03,0.02,41.31,0
+Center,Savannah,Sv_50,Sv,Savannah_50,50,.,.,.,.,.,.,.,.
+Ditch,Savannah,Sv_51,Sv,Savannah_51,51,.,6.42,.,0.04,0.09,0.01,44.12,0.09
+East,Savannah,Sv_52,Sv,Savannah_52,52,.,3.3,.,0.03,0.03,0.09,25.04,0.01
+North,Savannah,Sv_53,Sv,Savannah_53,53,.,6.69,.,0.04,0.04,0.05,42.09,0.02
+River,Savannah,Sv_54,Sv,Savannah_54,54,.,6.38,.,0.03,0.19,0.07,36.59,0
+South,Savannah,Sv_55,Sv,Savannah_55,55,.,4.18,.,0.03,0.04,0.05,27.5,0.02
+West,Savannah,Sv_56,Sv,Savannah_56,56,.,7.96,.,0.07,0.01,0.1,43.55,0.02
+Center,Savannah,Sv_57,Sv,Savannah_57,57,.,6.86,.,0.03,0.05,0.04,38.44,0.13
+Ditch,Savannah,Sv_58,Sv,Savannah_58,58,.,7.73,.,0.03,0.05,0.05,42.42,0
+East,Savannah,Sv_59,Sv,Savannah_59,59,.,6.7,.,0.03,0.02,0.04,35.8,0.06
+North,Savannah,Sv_60,Sv,Savannah_60,60,.,6.58,.,0.05,0.04,0.09,35.08,0.06
+River,Savannah,Sv_61,Sv,Savannah_61,61,.,13.34,.,0.07,0.1,0.03,46.14,0
+South,Savannah,Sv_62,Sv,Savannah_62,62,.,6.2,.,0.04,0.02,0.03,38.68,0.02
+West,Savannah,Sv_63,Sv,Savannah_63,63,.,7.49,.,0.08,0.03,0.09,32.57,0.05
+Center,Savannah,Sv_64,Sv,Savannah_64,64,.,12.65,.,0.05,0.04,0.04,41.88,0.07
+Ditch,Savannah,Sv_65,Sv,Savannah_65,65,.,7.13,.,0.03,0.05,0.01,42.94,0.02
+East,Savannah,Sv_66,Sv,Savannah_66,66,.,10.98,.,0.04,0.05,0.04,39.64,0.05
+North,Savannah,Sv_67,Sv,Savannah_67,67,.,12.83,.,0.06,0.09,0.06,41.21,0.04
+River,Savannah,Sv_68,Sv,Savannah_68,68,.,4.07,.,0.01,0.1,0.02,29.65,0.03
+South,Savannah,Sv_69,Sv,Savannah_69,69,.,12.31,.,0.03,0.06,0.04,40.54,0.03
+West,Savannah,Sv_70,Sv,Savannah_70,70,.,12.88,.,0.07,0.09,0.06,43.27,0.04
+Center,Savannah,Sv_71,Sv,Savannah_71,71,.,11.33,.,0.06,0.05,0.06,39.22,0.06
+Ditch,Savannah,Sv_72,Sv,Savannah_72,72,.,6.63,.,0.02,0.12,0.02,50.26,0.01
+East,Savannah,Sv_73,Sv,Savannah_73,73,.,5.86,.,0.01,0.04,0.04,33.13,0.04
+North,Savannah,Sv_74,Sv,Savannah_74,74,.,11.66,.,0.04,0.05,0.04,39.51,0.03
+River,Savannah,Sv_75,Sv,Savannah_75,75,.,4.46,.,0,0.15,0.03,48.3,0.02
+South,Savannah,Sv_76,Sv,Savannah_76,76,.,10.14,.,0.03,0.05,0.06,37.6,0.02
+West,Savannah,Sv_77,Sv,Savannah_77,77,.,12.71,.,0.04,0.04,0.02,44.7,0.04
+Center,Savannah,Sv_78,Sv,Savannah_78,78,.,7.57,.,0.05,0.03,0.06,32.26,0.07
+Ditch,Savannah,Sv_79,Sv,Savannah_79,79,.,6.43,.,0.03,0.05,0.02,44.43,0.02
+East,Savannah,Sv_80,Sv,Savannah_80,80,.,4.16,.,0.04,0.03,0.06,29.39,0.07
+North,Savannah,Sv_81,Sv,Savannah_81,81,.,7.99,.,0.04,0.06,0.05,33.55,0.07
+River,Savannah,Sv_82,Sv,Savannah_82,82,.,17.08,.,0.06,0.22,0.04,75.01,0.05
+South,Savannah,Sv_83,Sv,Savannah_83,83,.,7.23,.,0.04,0.01,0.04,33.51,0.08
+West,Savannah,Sv_84,Sv,Savannah_84,84,.,12.56,.,0.08,0.04,0.06,40.62,0.08
+Center,Savannah,Sv_85,Sv,Savannah_85,85,.,10.48,.,0.69,0.6,0,49.55,.
+Ditch,Savannah,Sv_86,Sv,Savannah_86,86,.,7.8,.,0.39,0.43,0,52.78,.
+East,Savannah,Sv_87,Sv,Savannah_87,87,.,11.53,.,0.67,0.52,0,46.84,.
+North,Savannah,Sv_88,Sv,Savannah_88,88,.,10.35,.,0.51,0.79,0,47.87,.
+River,Savannah,Sv_89,Sv,Savannah_89,89,.,8.55,.,0.71,0.66,0,44.79,.
+South,Savannah,Sv_90,Sv,Savannah_90,90,.,10.54,.,0.42,0,0,49.46,.
+West,Savannah,Sv_91,Sv,Savannah_91,91,.,9.49,.,0.45,0.52,0,47.28,.
+Center,Savannah,Sv_92,Sv,Savannah_92,92,.,7.28,.,0,0.36,0,47.73,.
+Ditch,Savannah,Sv_93,Sv,Savannah_93,93,.,5.49,.,0,0.33,0,35.09,.
+East,Savannah,Sv_94,Sv,Savannah_94,94,.,6.79,.,0,0.5,0,40.04,.
+North,Savannah,Sv_95,Sv,Savannah_95,95,.,7.88,.,0.54,0.39,0,49.13,.
+River,Savannah,Sv_96,Sv,Savannah_96,96,.,4.19,.,0,0.37,0,40.56,.
+South,Savannah,Sv_97,Sv,Savannah_97,97,.,6.5,.,0,0.51,0,50.53,.
+West,Savannah,Sv_98,Sv,Savannah_98,98,.,10.68,.,0.7,0.5,0,42.16,.
+Center,Savannah,Sv_99,Sv,Savannah_99,99,0.6451,7.69,.,0.35,0,0.84,47.02,.
+Ditch,Savannah,Sv_100,Sv,Savannah_100,100,0.6854,9.98,.,0.4,0,0,30.52,.
+East,Savannah,Sv_101,Sv,Savannah_101,101,0.7501,7.66,.,0,0.24,0,46.72,.
+North,Savannah,Sv_102,Sv,Savannah_102,102,0.7763,8.33,.,0,0,0,52.82,.
+River,Savannah,Sv_103,Sv,Savannah_103,103,0.811,6.1,.,0.34,0.17,0,29.47,.
+South,Savannah,Sv_104,Sv,Savannah_104,104,0.7732,9.77,.,0,0,0,47.38,.
+West,Savannah,Sv_105,Sv,Savannah_105,105,0.8098,9.97,.,0.77,0,0,53.29,.
+Center well,Savannah,Sv_106,Sv,Savannah_106,106,.,.,.,.,.,.,.,
+Ditch,Savannah,Sv_107,Sv,Savannah_107,107,.,.,.,.,.,.,.,
+East well,Savannah,Sv_108,Sv,Savannah_108,108,.,.,.,.,.,.,.,
+North well,Savannah,Sv_109,Sv,Savannah_109,109,.,.,.,.,.,.,.,
+River,Savannah,Sv_110,Sv,Savannah_110,110,.,.,.,.,.,.,.,
+South well,Savannah,Sv_111,Sv,Savannah_111,111,.,.,.,.,.,.,.,
+West well,Savannah,Sv_112,Sv,Savannah_112,112,.,.,.,.,.,.,.,
+Center well,Savannah,Sv_113,Sv,Savannah_113,113,0.8135,10.79,0,0.2326,0.6086,0,47.5875,
+Ditch,Savannah,Sv_114,Sv,Savannah_114,114,0.9505,10.349,0,0,0.6953,0,52.4066,
+East well,Savannah,Sv_115,Sv,Savannah_115,115,0.731,13.489,0,0.239,0.7102,0,48.2925,
+North well,Savannah,Sv_116,Sv,Savannah_116,116,0.8415,10.61,0,0,0.7289,0,48.4322,
+River,Savannah,Sv_117,Sv,Savannah_117,117,0.8423,10.575,0,0.4052,1.1514,0,37.4652,
+South well,Savannah,Sv_118,Sv,Savannah_118,118,1.0898,11.384,0,0.4245,0.9783,0,49.3561,
+West well,Savannah,Sv_119,Sv,Savannah_119,119,0.9887,10.014,0,0.4852,0.7133,0,47.1111,
+Center well,Savannah,Sv_120,Sv,Savannah_120,120,0.46,13.91,0,0.37,0.3,0,41.53,
+Ditch,Savannah,Sv_121,Sv,Savannah_121,121,0.42,4.28,0,3.86,0.67,0,34.2,
+East well,Savannah,Sv_122,Sv,Savannah_122,122,0.5,8.14,0,0,0.05,0,44.81,
+North well,Savannah,Sv_123,Sv,Savannah_123,123,0.44,14.21,0,0.28,0.13,0,49.46,
+River,Savannah,Sv_124,Sv,Savannah_124,124,0.44,5.63,0,0,1.84,0,34.75,
+South well,Savannah,Sv_125,Sv,Savannah_125,125,0.36,13.82,0,0,0.08,0,48.47,
+West well,Savannah,Sv_126,Sv,Savannah_126,126,0.47,13.88,0,0.39,0.38,0,42.75,
+Center well,Savannah,Sv_127,Sv,Savannah_127,127,0.6764,8.055,0,0.8516,1.2644,0,38.1305,
+Ditch,Savannah,Sv_128,Sv,Savannah_128,128,0.7212,9.663,0.2372,0.8402,1.8334,0.7329,68.9075,
+East well,Savannah,Sv_129,Sv,Savannah_129,129,0.6205,8.792,0,0.9237,1.623,0.7819,44.2427,
+North well,Savannah,Sv_130,Sv,Savannah_130,130,0.6909,7.296,0,0.9162,1.6473,0.8908,41.4455,
+River,Savannah,Sv_131,Sv,Savannah_131,131,0.7104,12.255,0,0.81,1.9543,0.617,60.5227,
+South well,Savannah,Sv_132,Sv,Savannah_132,132,0.6839,7.354,0,0.8799,1.5908,0.7762,55.1163,
+West well,Savannah,Sv_133,Sv,Savannah_133,133,0.6249,8.565,0,0.8911,1.5575,0.7596,26.2578,
+Center well,Savannah,Sv_134,Sv,Savannah_134,134,0.4296,11.603,0,0.3532,0.3924,0.4129,47.0123,
+Ditch,Savannah,Sv_135,Sv,Savannah_135,135,0.6573,9.089,0,0.4058,0.5409,0,49.6098,
+East well,Savannah,Sv_136,Sv,Savannah_136,136,0.4104,13.51,0,0.4032,0.4267,0.337,45.6231,
+North well,Savannah,Sv_137,Sv,Savannah_137,137,0.5044,12.262,0,0.5769,0.4202,0.3625,57.5069,
+River,Savannah,Sv_138,Sv,Savannah_138,138,0.4591,10.048,0,0.4822,0.5059,0,32.1571,
+South well,Savannah,Sv_139,Sv,Savannah_139,139,.,.,.,.,.,.,.,
+West well,Savannah,Sv_140,Sv,Savannah_140,140,0.5707,11.909,0,0.4314,0.3593,0,57.8215,
+Center well,Savannah,Sv_141,Sv,Savannah_141,141,0.3897,5.648,0,0.4465,0.1444,0.3859,28.1559,
+Ditch,Savannah,Sv_142,Sv,Savannah_142,142,0.2944,8.414,0.8895,0.0549,0.2856,0,94.7068,
+East well,Savannah,Sv_143,Sv,Savannah_143,143,0.4897,6.186,0,0.3996,0.0701,0.6024,40.0899,
+North well,Savannah,Sv_144,Sv,Savannah_144,144,.,.,.,.,.,.,.,
+River,Savannah,Sv_145,Sv,Savannah_145,145,0.3109,5.506,0,0.5946,0.6896,0,51.9687,
+South well,Savannah,Sv_146,Sv,Savannah_146,146,0.2371,4.403,0,0.0572,0,0.336,30.4427,
+West well,Savannah,Sv_147,Sv,Savannah_147,147,0.3214,10.036,0,0.8989,0,0.4329,34.3058,
+Center,Sevilleta,Sl_1,Sl,Sevilleta_1,1,.,1045.61,.,0.66,1.18,0.19,597.52,0.74
+East,Sevilleta,Sl_2,Sl,Sevilleta_2,2,.,1308.69,.,1.22,1.18,0.48,766.76,0.69
+North,Sevilleta,Sl_3,Sl,Sevilleta_3,3,.,376.66,.,0.41,0.81,0.02,281.4,0.58
+South,Sevilleta,Sl_4,Sl,Sevilleta_4,4,.,1514.14,.,0,0.56,0.15,813.1,1.71
+West,Sevilleta,Sl_5,Sl,Sevilleta_5,5,.,417.29,.,0.36,1.31,0.66,317.26,0.5
+Center,Sevilleta,Sl_6,Sl,Sevilleta_6,6,.,482.39,.,0.45,1.26,0,286.56,0.35
+Ditch,Sevilleta,Sl_7,Sl,Sevilleta_7,7,.,94.71,.,0,0.14,0.21,143.85,0.03
+East,Sevilleta,Sl_8,Sl,Sevilleta_8,8,.,1720.87,.,0,0.61,0,1047.57,0.6
+North,Sevilleta,Sl_9,Sl,Sevilleta_9,9,.,253.39,.,0.37,1.32,0.72,261.18,0.37
+River,Sevilleta,Sl_10,Sl,Sevilleta_10,10,.,71.18,.,0.1,0.77,0.19,97.31,0.09
+South,Sevilleta,Sl_11,Sl,Sevilleta_11,11,.,1149.32,.,1.31,0.92,0.31,693.1,1.33
+West,Sevilleta,Sl_12,Sl,Sevilleta_12,12,.,316.56,.,0.39,1.19,0.45,242.99,0.56
+Center,Sevilleta,Sl_13,Sl,Sevilleta_13,13,.,827.92,.,0.4,10.96,0,334.18,0.28
+Ditch,Sevilleta,Sl_14,Sl,Sevilleta_14,14,.,49.99,.,0.14,0.25,0.21,158.27,0.06
+East,Sevilleta,Sl_15,Sl,Sevilleta_15,15,.,1024.95,.,0.31,9.17,0,450.21,0.48
+North,Sevilleta,Sl_16,Sl,Sevilleta_16,16,.,552.77,.,0.45,0.73,0.03,374.72,0.31
+River,Sevilleta,Sl_17,Sl,Sevilleta_17,17,.,26.27,.,0.11,0.02,0.67,73.57,0.01
+South,Sevilleta,Sl_18,Sl,Sevilleta_18,18,.,1636.31,.,0,9.87,0,688.29,0.38
+West,Sevilleta,Sl_19,Sl,Sevilleta_19,19,.,626.92,.,0.41,13.64,0.12,268.8,0.29
+Center,Sevilleta,Sl_20,Sl,Sevilleta_20,20,.,1356.42,.,0,0,0,818.65,0.35
+Ditch,Sevilleta,Sl_21,Sl,Sevilleta_21,21,.,113.15,.,0.16,0.49,0,180.87,0
+East,Sevilleta,Sl_22,Sl,Sevilleta_22,22,.,1592.36,.,0,0,0,975.86,1.08
+North,Sevilleta,Sl_23,Sl,Sevilleta_23,23,.,727.97,.,0,0,0,471.56,0.27
+River,Sevilleta,Sl_24,Sl,Sevilleta_24,24,.,.,.,.,.,.,.,.
+South,Sevilleta,Sl_25,Sl,Sevilleta_25,25,.,2247.71,.,0,0,0,1276.85,0.3
+West,Sevilleta,Sl_26,Sl,Sevilleta_26,26,.,420.78,.,0.4,0.02,0,318.92,0.35
+Center,Sevilleta,Sl_27,Sl,Sevilleta_27,27,.,826.79,.,0,0,0,505.54,0.31
+Ditch,Sevilleta,Sl_28,Sl,Sevilleta_28,28,.,34.92,.,0.24,0.29,0.14,45.69,0.04
+East,Sevilleta,Sl_29,Sl,Sevilleta_29,29,.,832.06,.,0,0,0,528.22,0.55
+North,Sevilleta,Sl_30,Sl,Sevilleta_30,30,.,410.49,.,0.45,0.02,0,348.82,0.31
+River,Sevilleta,Sl_31,Sl,Sevilleta_31,31,.,31.22,.,0.14,0.51,0.17,80.11,0.02
+South,Sevilleta,Sl_32,Sl,Sevilleta_32,32,.,1081.85,.,0,0,0,628.92,0.95
+West,Sevilleta,Sl_33,Sl,Sevilleta_33,33,.,454.63,.,0.5,0.01,0,358.63,0.42
+Center,Sevilleta,Sl_34,Sl,Sevilleta_34,34,.,804.85,.,0.57,0.01,0,571.55,0.53
+Ditch,Sevilleta,Sl_35,Sl,Sevilleta_35,35,.,243.62,.,0.4,0.13,0.06,258.48,0.03
+East,Sevilleta,Sl_36,Sl,Sevilleta_36,36,.,1637.35,.,0.53,0.01,0,1115.76,0.79
+North,Sevilleta,Sl_37,Sl,Sevilleta_37,37,.,0.68,.,0.01,0,0,2.75,0.41
+River,Sevilleta,Sl_38,Sl,Sevilleta_38,38,.,47.77,.,0.11,0.57,0.15,95.31,0.08
+South,Sevilleta,Sl_39,Sl,Sevilleta_39,39,.,1557.3,.,0.4,0.01,0,1031.63,1.17
+West,Sevilleta,Sl_40,Sl,Sevilleta_40,40,.,607.8,.,0.47,0.01,0,622.88,0.25
+Center,Sevilleta,Sl_41,Sl,Sevilleta_41,41,.,919.04,.,20.64,0.05,0,727.05,0.67
+Ditch,Sevilleta,Sl_42,Sl,Sevilleta_42,42,.,99.52,.,7.37,0.16,0.13,149.94,0
+East,Sevilleta,Sl_43,Sl,Sevilleta_43,43,.,1580.24,.,9.87,0.03,0,1136.23,0.83
+North,Sevilleta,Sl_44,Sl,Sevilleta_44,44,.,865.56,.,23.12,0.07,0,862.96,0.56
+River,Sevilleta,Sl_45,Sl,Sevilleta_45,45,.,25.45,.,3.29,0.65,0.2,76.97,0
+South,Sevilleta,Sl_46,Sl,Sevilleta_46,46,.,1346.26,.,14.93,0.03,0,901.72,1.36
+West,Sevilleta,Sl_47,Sl,Sevilleta_47,47,.,601.86,.,17.44,0.05,0,706.7,0.63
+Center,Sevilleta,Sl_48,Sl,Sevilleta_48,48,.,1384.35,.,0.96,0.09,0,1047.54,0.47
+Ditch,Sevilleta,Sl_49,Sl,Sevilleta_49,49,.,34.25,.,0.15,0.47,0.18,121.5,0.01
+East,Sevilleta,Sl_50,Sl,Sevilleta_50,50,.,1300.27,.,0.71,0,0.75,866.23,1.18
+North,Sevilleta,Sl_51,Sl,Sevilleta_51,51,.,765.67,.,0.66,0.11,0.02,616.9,0.57
+River,Sevilleta,Sl_52,Sl,Sevilleta_52,52,.,24.14,.,0.12,0.67,0.06,150.17,0.04
+South,Sevilleta,Sl_53,Sl,Sevilleta_53,53,.,1613.15,.,0.24,1.02,0,1015.32,0.94
+West,Sevilleta,Sl_54,Sl,Sevilleta_54,54,.,631.31,.,0.64,0,0.09,777.94,0.5
+Center,Sevilleta,Sl_55,Sl,Sevilleta_55,55,.,1718.37,.,0,0.36,0,1180.93,1.82
+Ditch,Sevilleta,Sl_56,Sl,Sevilleta_56,56,.,103.85,.,0.03,0.29,0.04,144.79,0
+East,Sevilleta,Sl_57,Sl,Sevilleta_57,57,.,1347.94,.,0.99,0.99,0,902.92,1.2
+North,Sevilleta,Sl_58,Sl,Sevilleta_58,58,.,1622.25,.,1.3,0.87,0,1144.08,1.51
+River,Sevilleta,Sl_59,Sl,Sevilleta_59,59,.,26.84,.,0.01,0.92,0.19,82.04,0
+South,Sevilleta,Sl_60,Sl,Sevilleta_60,60,.,1888.53,.,0.33,0.85,0,1188.84,2.27
+West,Sevilleta,Sl_61,Sl,Sevilleta_61,61,.,530.82,.,0,0.33,0,397.54,0.95
+Ditch,Sevilleta,Sl_62,Sl,Sevilleta_62,62,0.91,247.874,0,0.6541,1.1647,0.306,370.34,
+East well,Sevilleta,Sl_63,Sl,Sevilleta_63,63,0.769,1044.376,0,5.7269,0,0,93.27,
+North well,Sevilleta,Sl_64,Sl,Sevilleta_64,64,0.7752,983.415,0,7.3855,5.6829,0,131.38,
+River,Sevilleta,Sl_65,Sl,Sevilleta_65,65,1.0378,30.114,0.8503,0.6684,3.7647,0.4499,91.2,
+South well,Sevilleta,Sl_66,Sl,Sevilleta_66,66,.,.,.,.,.,.,.,
+West well,Sevilleta,Sl_67,Sl,Sevilleta_67,67,1.1548,550.195,0,3.5434,2.6265,0,121.23,
+Ditch,Sevilleta,Sl_68,Sl,Sevilleta_68,68,1.3697,43.778,0,0,0.5932,0,0,
+East well,Sevilleta,Sl_69,Sl,Sevilleta_69,69,1.2409,178.089,0,3.8169,2.9902,0,0,
+North well,Sevilleta,Sl_70,Sl,Sevilleta_70,70,1.397,1148.567,0,3.6227,3.7154,0,0,
+River,Sevilleta,Sl_71,Sl,Sevilleta_71,71,1.5709,18.359,0.3318,0.1708,2.3858,1.3755,52.3245,
+South well,Sevilleta,Sl_72,Sl,Sevilleta_72,72,1.1004,143.441,0,2.53,1.3737,0,0,
+West well,Sevilleta,Sl_73,Sl,Sevilleta_73,73,1.4634,765.823,0,1.8364,1.155,0,0,
+Ditch,Sevilleta,Sl_74,Sl,Sevilleta_74,74,0.6,26.83,0,0.51,1.93,1.07,101.06,
+East well,Sevilleta,Sl_75,Sl,Sevilleta_75,75,0.0821,1088.3139,680.7344,1.3858,0.2606,2371.6693,87.4174,
+North well,Sevilleta,Sl_76,Sl,Sevilleta_76,76,0.9217,573.4032,2092.3244,1.1268,0.2154,1860.9759,84.8798,
+River,Sevilleta,Sl_77,Sl,Sevilleta_77,77,0.64,32.19,0,0.42,2.92,0.88,0.04,
+South well,Sevilleta,Sl_78,Sl,Sevilleta_78,78,0.2823,1520.909,730.9562,2.2037,0.5897,2737.1708,83.9807,
+West well,Sevilleta,Sl_79,Sl,Sevilleta_79,79,0.3673,273.5031,2340.1689,1.1596,0.3597,1915.9243,71.6282,
+Ditch,Sevilleta,Sl_80,Sl,Sevilleta_80,80,0.7088,95.667,0,0.6638,1.9882,0.1653,240.1252,
+East well,Sevilleta,Sl_81,Sl,Sevilleta_81,81,0,2337,0,4.6747,2.3086,0,1706,
+North well,Sevilleta,Sl_82,Sl,Sevilleta_82,82,0,2160,0,4.88,1.9745,0,1569,
+River,Sevilleta,Sl_83,Sl,Sevilleta_83,83,0.8826,30.496,0,0.8869,3.7257,0.9677,104.6899,
+South well,Sevilleta,Sl_84,Sl,Sevilleta_84,84,0,2482,0,3.3847,0,0,1764,
+West well,Sevilleta,Sl_85,Sl,Sevilleta_85,85,0.758,1285,0,5.0809,2.1847,0,1039,
+Ditch,Sevilleta,Sl_86,Sl,Sevilleta_86,86,0.8941,38.517,1.3235,0.1917,2.6837,0.8598,122.0688,
+East well,Sevilleta,Sl_87,Sl,Sevilleta_87,87,1.4258,2003,0,3.4136,2.3803,0,2242,
+North well,Sevilleta,Sl_88,Sl,Sevilleta_88,88,1.2829,1319,0,1.8421,1.6456,0,1308,
+River,Sevilleta,Sl_89,Sl,Sevilleta_89,89,0.8902,33.012,1.4227,0.6084,3.2238,1.812,66.8429,
+South well,Sevilleta,Sl_90,Sl,Sevilleta_90,90,0.6198,1783,0,11.1575,10.1293,0,1936,
+West well,Sevilleta,Sl_91,Sl,Sevilleta_91,91,1.4288,1385,0,6.5302,4.0503,0,1453,
+Ditch,Sevilleta,Sl_92,Sl,Sevilleta_92,92,0.2515,36.443,0,0.1178,2.276,0.248,134.178,
+East well,Sevilleta,Sl_93,Sl,Sevilleta_93,93,0.062,3095.146,0,20.8623,19.7019,0,2391.9528,
+North well,Sevilleta,Sl_94,Sl,Sevilleta_94,94,0.8771,1633.344,0.8721,5.1007,0,0,2128.7511,
+River,Sevilleta,Sl_95,Sl,Sevilleta_95,95,0.3486,58.412,70.402,0.2458,3.1381,0,226.0591,
+South well,Sevilleta,Sl_96,Sl,Sevilleta_96,96,0.4372,197.266,0,14.879,9.0531,0,163.5701,
+West well,Sevilleta,Sl_97,Sl,Sevilleta_97,97,0.4533,897.805,0,7.1555,2.7237,0,867.0259,
+Center well,State Land Office,So_1,So,StateLandO_1,1,1.3007,112.515,0,0.3657,0.3388,0.9008,344.99,
+Ditch,State Land Office,So_2,So,StateLandO_2,2,0.8617,21.731,0.1723,0,0.7522,0.412,77.82,
+East well,State Land Office,So_3,So,StateLandO_3,3,.,.,.,.,.,.,.,
+North well,State Land Office,So_4,So,StateLandO_4,4,0.8705,29.795,0,0.4064,0.7451,0.9623,80.15,
+River,State Land Office,So_5,So,StateLandO_5,5,0.8386,22.046,0,0,3.5856,0.7601,61.3,
+South well,State Land Office,So_6,So,StateLandO_6,6,1.0774,64.521,0,0.544,0.5246,0.6786,129.75,
+West well,State Land Office,So_7,So,StateLandO_7,7,0.868,39.56,0,0.2133,0.0972,0.4553,105.59,
+Center well,State Land Office,So_8,So,StateLandO_8,8,1.4277,101.391,0,0.8328,1.4244,1.259,0,
+Ditch,State Land Office,So_9,So,StateLandO_9,9,0.8675,17.022,0,0.1929,1.4058,1.0084,61.4759,
+East well,State Land Office,So_10,So,StateLandO_10,10,1.3324,72.908,0,0.6016,0.7872,1.0183,0,
+North well,State Land Office,So_11,So,StateLandO_11,11,0.9053,47.235,0,0.3543,0.8205,1.0478,96.87,
+River,State Land Office,So_12,So,StateLandO_12,12,0.9022,15.169,0,0.1822,2.5898,1.1239,42.5724,
+South well,State Land Office,So_13,So,StateLandO_13,13,1.3339,102.669,0,0.7066,1.1672,0,0,
+West well,State Land Office,So_14,So,StateLandO_14,14,1.1454,50.516,0,0.7273,1.485,1.5279,100.8349,
+Center well,State Land Office,So_15,So,StateLandO_15,15,0.5664,13.4746,0,0.1816,0.1614,0.4876,84.0914,
+Ditch,State Land Office,So_16,So,StateLandO_16,16,0.4307,22.1545,0,0.675,1.6772,1.9463,49.0446,
+East well,State Land Office,So_17,So,StateLandO_17,17,1.3564,89.6178,0,0.2483,0.0559,0.1758,174.4352,
+North well,State Land Office,So_18,So,StateLandO_18,18,0.8571,33.6227,0,0.6055,1.0919,1.3156,77.5259,
+River,State Land Office,So_19,So,StateLandO_19,19,0.3042,37.3426,1.1124,0.4676,3.9953,0.9609,123.8446,
+South well,State Land Office,So_20,So,StateLandO_20,20,1.2362,73.3426,0,0.6083,0.4711,0.3612,81.2578,
+West well,State Land Office,So_21,So,StateLandO_21,21,0.7364,36.8073,0,0.6359,0.8985,0.9722,72.0767,
+Center well,State Land Office,So_22,So,StateLandO_22,22,1.0359,87.014,0.2297,0.7226,0.8062,0.1845,194.0081,
+Ditch,State Land Office,So_23,So,StateLandO_23,23,0.8356,17.061,0.3613,0.8929,2.0769,0.7602,71.4017,
+East well,State Land Office,So_24,So,StateLandO_24,24,1.1538,0,0,0.8877,0.8195,0.5392,243.0328,
+North well,State Land Office,So_25,So,StateLandO_25,25,0.8506,32.331,0,0.9561,1.423,0.9305,84.9,
+River,State Land Office,So_26,So,StateLandO_26,26,0.8672,34.318,0.3063,0.9099,5.5618,2.1693,73.9893,
+South well,State Land Office,So_27,So,StateLandO_27,27,1.4749,63.02,0,0.6657,0.8064,0.6506,109.2287,
+West well,State Land Office,So_28,So,StateLandO_28,28,0.8279,35.355,0,0.9366,1.3724,0.7162,92.3382,
+Center well,State Land Office,So_29,So,StateLandO_29,29,0.9037,92.793,0,0.3456,1.4489,0.5578,176.0928,
+Ditch,State Land Office,So_30,So,StateLandO_30,30,1.0105,20.023,1.2807,0.1922,1.9609,0.7631,63.3296,
+East well,State Land Office,So_31,So,StateLandO_31,31,1.0227,68.449,0,0.3808,1.5072,0.9827,155.3375,
+North well,State Land Office,So_32,So,StateLandO_32,32,0.9156,36.601,0,0.1968,1.4579,0.8678,83.8721,
+River,State Land Office,So_33,So,StateLandO_33,33,0.8121,22.914,1.1283,0.0689,3.1058,1.2013,39.8409,
+South well,State Land Office,So_34,So,StateLandO_34,34,1.3487,93.6,0,0.3309,1.5,0.399,163,
+West well,State Land Office,So_35,So,StateLandO_35,35,0.9399,46.36,0,0.2328,1.4952,0.7226,89.2357,
+Center well,State Land Office,So_36,So,StateLandO_36,36,1.1055,131.771,0,1.5895,0.4838,0,229.4878,
+Ditch,State Land Office,So_37,So,StateLandO_37,37,0.2678,13.794,0,0.1189,0.9168,0,50.2985,
+East well,State Land Office,So_38,So,StateLandO_38,38,0.7207,56.412,0,0.5992,0.0433,0.6186,119.0509,
+North well,State Land Office,So_39,So,StateLandO_39,39,0.4137,29.487,0,0.5211,0.1338,0.3869,59.1528,
+River,State Land Office,So_40,So,StateLandO_40,40,0.0445,18.327,0,0.0642,1.2163,0,137.9119,
+South well,State Land Office,So_41,So,StateLandO_41,41,1.4583,52.152,0,0.7259,0.2174,0.0277,87.8236,
+West well,State Land Office,So_42,So,StateLandO_42,42,0.4035,31.209,0,0.5305,0.0543,0.3106,76.031,
+Center,Valencia Clear,Vc_1,Vc,ValenciaClear_1,1,.,42.12,.,0.15,0.01,0,136.16,0.08
+East,Valencia Clear,Vc_2,Vc,ValenciaClear_2,2,.,59.46,.,0.16,0.02,0.09,174.08,0.09
+North,Valencia Clear,Vc_3,Vc,ValenciaClear_3,3,.,87.47,.,0.21,0.02,0.15,175.49,0.15
+South,Valencia Clear,Vc_4,Vc,ValenciaClear_4,4,.,56.19,.,0.17,0.02,0,161.34,0.1
+West,Valencia Clear,Vc_5,Vc,ValenciaClear_5,5,.,58.54,.,0.18,0.02,0.08,167.35,0.17
+Center,Valencia Clear,Vc_6,Vc,ValenciaClear_6,6,.,37.17,.,0.14,0.01,0.03,119.99,0.03
+East,Valencia Clear,Vc_7,Vc,ValenciaClear_7,7,.,41.7,.,0.14,0.02,0.13,126.04,0.07
+North,Valencia Clear,Vc_8,Vc,ValenciaClear_8,8,.,74.71,.,0.17,0.02,0.12,131.74,0.15
+South,Valencia Clear,Vc_9,Vc,ValenciaClear_9,9,.,50.32,.,0.15,0.02,0.04,156.5,0.07
+West,Valencia Clear,Vc_10,Vc,ValenciaClear_10,10,.,55.68,.,0.16,0.02,0.1,107.9,0.18
+Center,Valencia Clear,Vc_11,Vc,ValenciaClear_11,11,.,21.45,.,0.12,0.01,0.07,59.1,0.04
+East,Valencia Clear,Vc_12,Vc,ValenciaClear_12,12,.,28.91,.,0.13,0.01,0.17,100.72,0.05
+North,Valencia Clear,Vc_13,Vc,ValenciaClear_13,13,.,31.24,.,0.18,0.01,0.21,92.2,0.05
+South,Valencia Clear,Vc_14,Vc,ValenciaClear_14,14,.,50.75,.,0.19,0.01,0.12,157.22,0.08
+West,Valencia Clear,Vc_15,Vc,ValenciaClear_15,15,.,28.07,.,0.15,0.01,0.11,65.16,0.08
+Center,Valencia Clear,Vc_16,Vc,ValenciaClear_16,16,.,189.1,.,0.59,0.01,0,439.58,0.05
+East,Valencia Clear,Vc_17,Vc,ValenciaClear_17,17,.,25.93,.,0.11,0.01,0.07,86.53,0.05
+North,Valencia Clear,Vc_18,Vc,ValenciaClear_18,18,.,728.33,.,0,0,0,1418.35,0.24
+South,Valencia Clear,Vc_19,Vc,ValenciaClear_19,19,.,287.89,.,0.33,0.02,0,488.73,0.18
+West,Valencia Clear,Vc_20,Vc,ValenciaClear_20,20,.,359.09,.,0,0,0,1043.52,0.79
+Center,Valencia Clear,Vc_21,Vc,ValenciaClear_21,21,.,28.19,.,0.28,0.02,0,45.76,0.02
+East,Valencia Clear,Vc_22,Vc,ValenciaClear_22,22,.,30.75,.,0.15,0.02,0.15,107.96,0.04
+North,Valencia Clear,Vc_23,Vc,ValenciaClear_23,23,.,44.74,.,0.32,0.01,0,86.02,0.11
+South,Valencia Clear,Vc_24,Vc,ValenciaClear_24,24,.,33.47,.,0.3,0.02,0.07,45.82,0.16
+West,Valencia Clear,Vc_25,Vc,ValenciaClear_25,25,.,62.65,.,0.2,0.02,0.16,136.79,0.42
+Center,Valencia Clear,Vc_26,Vc,ValenciaClear_26,26,.,98.64,.,0.27,0.02,0,158.55,0.04
+East,Valencia Clear,Vc_27,Vc,ValenciaClear_27,27,.,29.99,.,0.13,0.02,0.14,103.53,0.04
+North,Valencia Clear,Vc_28,Vc,ValenciaClear_28,28,.,119.44,.,0.28,0.03,0.1,220.18,0.1
+South,Valencia Clear,Vc_29,Vc,ValenciaClear_29,29,.,116.69,.,0.25,0.02,0.1,201.51,0.2
+West,Valencia Clear,Vc_30,Vc,ValenciaClear_30,30,.,158.99,.,0.28,0.04,0.02,321.47,0.4
+Center,Valencia Clear,Vc_31,Vc,ValenciaClear_31,31,.,36.97,.,0.16,0.06,0.05,124.21,0.01
+East,Valencia Clear,Vc_32,Vc,ValenciaClear_32,32,.,27.53,.,0.14,0.09,0.26,95.19,0.01
+North,Valencia Clear,Vc_33,Vc,ValenciaClear_33,33,.,27.48,.,0.15,0.04,0.17,93.76,0
+South,Valencia Clear,Vc_34,Vc,ValenciaClear_34,34,.,47.89,.,0.15,0.03,0.03,198.26,0.03
+West,Valencia Clear,Vc_35,Vc,ValenciaClear_35,35,.,30.62,.,0.14,0.06,0.28,58.52,0.01
+Center,Valencia Clear,Vc_36,Vc,ValenciaClear_36,36,.,1025.41,.,2.25,0.32,0.16,2710.53,0.32
+East,Valencia Clear,Vc_37,Vc,ValenciaClear_37,37,.,40.74,.,0.09,0.05,0.17,121.67,0.05
+North,Valencia Clear,Vc_38,Vc,ValenciaClear_38,38,.,1095.57,.,1.07,1.97,0.07,1841.29,0.27
+South,Valencia Clear,Vc_39,Vc,ValenciaClear_39,39,.,1301.7,.,1.68,0.44,0.71,2145.85,0.14
+West,Valencia Clear,Vc_40,Vc,ValenciaClear_40,40,.,725.36,.,0.37,0.18,0.46,1863.13,0.63
+Center,Valencia Clear,Vc_41,Vc,ValenciaClear_41,41,.,58.65,.,0,0.05,0.01,155.42,0.02
+East,Valencia Clear,Vc_42,Vc,ValenciaClear_42,42,.,43.15,.,0.12,0.03,0.14,146.55,0.09
+North,Valencia Clear,Vc_43,Vc,ValenciaClear_43,43,.,137.81,.,0.29,0.04,0.09,332.39,0.07
+West,Valencia Clear,Vc_44,Vc,ValenciaClear_44,44,.,57.8,.,0.15,0.03,0.12,132.08,0.4
+South,Valencia Clear,Vc_45,Vc,ValenciaClear_45,45,.,.,.,.,.,.,.,.
+Center,Valencia Forest,Vf_1,Vf,ValenciaForest_1,46,.,35.86,.,0.16,0.02,0.04,131.56,0.14
+East,Valencia Forest,Vf_2,Vf,ValenciaForest_2,47,.,58.33,.,0.29,0.02,0.01,238.67,0.58
+North,Valencia Forest,Vf_3,Vf,ValenciaForest_3,48,.,42.38,.,0.16,0.02,0.06,152.14,0.25
+South,Valencia Forest,Vf_4,Vf,ValenciaForest_4,49,.,47.28,.,0.17,0.02,0.01,177.59,0.19
+West,Valencia Forest,Vf_5,Vf,ValenciaForest_5,50,.,58.11,.,0.17,0.02,0.04,174.92,0.15
+Center,Valencia Forest,Vf_6,Vf,ValenciaForest_6,51,.,55.18,.,0.18,0.02,0.02,236.63,0.15
+East,Valencia Forest,Vf_7,Vf,ValenciaForest_7,52,.,71.66,.,0.38,0.09,0.07,290.23,0.48
+North,Valencia Forest,Vf_8,Vf,ValenciaForest_8,53,.,39.69,.,0.13,0.01,0.05,138.07,0.2
+South,Valencia Forest,Vf_9,Vf,ValenciaForest_9,54,.,54.91,.,0.17,0.01,0.02,164.92,0.15
+West,Valencia Forest,Vf_10,Vf,ValenciaForest_10,55,.,49.74,.,0.16,0.02,0.05,160.4,0.15
+Center,Valencia Forest,Vf_11,Vf,ValenciaForest_11,56,.,26.76,.,0.17,0.01,0.09,100.02,0.14
+East,Valencia Forest,Vf_12,Vf,ValenciaForest_12,57,.,45.4,.,0.2,0,0.02,134.87,0.38
+North,Valencia Forest,Vf_13,Vf,ValenciaForest_13,58,.,31.36,.,0.16,0.02,0.1,108.35,0.21
+South,Valencia Forest,Vf_14,Vf,ValenciaForest_14,59,.,41.9,.,0.18,0.01,0.02,114.77,0.17
+West,Valencia Forest,Vf_15,Vf,ValenciaForest_15,60,.,28.23,.,0.14,0.01,0.03,83.97,0.12
+Center,Valencia Forest,Vf_16,Vf,ValenciaForest_16,61,.,26.29,.,0.12,0.01,0.07,87.97,0.13
+East,Valencia Forest,Vf_17,Vf,ValenciaForest_17,62,.,36.57,.,0.11,0.01,0,135.08,0.28
+North,Valencia Forest,Vf_18,Vf,ValenciaForest_18,63,.,26.79,.,0.1,0.02,0,84.54,0.15
+South,Valencia Forest,Vf_19,Vf,ValenciaForest_19,64,.,26.55,.,0.13,0.03,0,94.62,0.11
+West,Valencia Forest,Vf_20,Vf,ValenciaForest_20,65,.,27.6,.,0.12,0.01,0.06,85.67,0.07
+Center,Valencia Forest,Vf_21,Vf,ValenciaForest_21,66,.,34.1,.,0.16,0.02,0.05,118.79,0.11
+East,Valencia Forest,Vf_22,Vf,ValenciaForest_22,67,.,218.06,.,0.74,0.02,0,839,0.88
+North,Valencia Forest,Vf_23,Vf,ValenciaForest_23,68,.,27.98,.,0.15,0.02,0.09,96.89,0.1
+South,Valencia Forest,Vf_24,Vf,ValenciaForest_24,69,.,22.48,.,0.23,0.02,0.01,89.57,0.14
+West,Valencia Forest,Vf_25,Vf,ValenciaForest_25,70,.,41.82,.,0.17,0.02,0.02,140.34,0.09
+Center,Valencia Forest,Vf_26,Vf,ValenciaForest_26,71,.,42.17,.,0.16,0.01,0.06,146.18,0.11
+East,Valencia Forest,Vf_27,Vf,ValenciaForest_27,72,.,82.07,.,0.29,0.03,0.01,317.05,0.45
+North,Valencia Forest,Vf_28,Vf,ValenciaForest_28,73,.,27.68,.,0.13,0.05,0.11,96.65,0.11
+South,Valencia Forest,Vf_29,Vf,ValenciaForest_29,74,.,73.96,.,0.26,0.04,0.01,312.55,0.22
+West,Valencia Forest,Vf_30,Vf,ValenciaForest_30,75,.,36.74,.,0.14,0.04,0.06,118.89,0.07
+Center,Valencia Forest,Vf_31,Vf,ValenciaForest_31,76,.,26.83,.,0.14,0.02,0.12,95.9,0.03
+East,Valencia Forest,Vf_32,Vf,ValenciaForest_32,77,.,60.78,.,0.24,0.07,0.08,185.75,0.2
+North,Valencia Forest,Vf_33,Vf,ValenciaForest_33,78,.,35.38,.,0.16,0.1,0.18,115.97,0.04
+South,Valencia Forest,Vf_34,Vf,ValenciaForest_34,79,.,35.11,.,0.13,0.05,0.02,117.59,0
+West,Valencia Forest,Vf_35,Vf,ValenciaForest_35,80,.,36.16,.,0.14,0.07,0.06,110.03,0.02
+Center,Valencia Forest,Vf_36,Vf,ValenciaForest_36,81,.,27.89,.,0.1,0.03,0.08,99.53,0.19
+East,Valencia Forest,Vf_37,Vf,ValenciaForest_37,82,.,49.5,.,0.06,0.05,0.01,197.27,0.64
+North,Valencia Forest,Vf_38,Vf,ValenciaForest_38,83,.,25.75,.,0.16,0.04,0.17,89.93,0.2
+South,Valencia Forest,Vf_39,Vf,ValenciaForest_39,84,.,45.69,.,0.17,0.02,0.02,181.25,0.27
+West,Valencia Forest,Vf_40,Vf,ValenciaForest_40,85,.,38.85,.,0.15,0.04,0.07,136.29,0.1
+Center,Valencia Forest,Vf_41,Vf,ValenciaForest_41,86,.,46.23,.,0.04,0.05,0.04,140.45,0.25
+East,Valencia Forest,Vf_42,Vf,ValenciaForest_42,87,.,74.96,.,0.32,0.03,0.02,274.95,0.88
+North,Valencia Forest,Vf_43,Vf,ValenciaForest_43,88,.,58.23,.,0.2,0.04,0.14,139.88,0.33
+West,Valencia Forest,Vf_44,Vf,ValenciaForest_44,89,.,32.43,.,0.15,0.04,0.07,123.03,0.12
+South,Valencia Forest,Vf_45,Vf,ValenciaForest_45,90,.,48.06,.,0.17,0.05,0.2,154.19,0.13
+Center,Valencia Forest,Vf_46,Vf,ValenciaForest_46,91,.,24.85,.,0.45,0.69,0,107.97,.
+East,Valencia Forest,Vf_47,Vf,ValenciaForest_47,92,.,26.94,.,0.61,0.57,0,117.91,.
+North,Valencia Forest,Vf_48,Vf,ValenciaForest_48,93,.,24.34,.,0.43,0.37,0,107.27,.
+South,Valencia Forest,Vf_49,Vf,ValenciaForest_49,94,.,24.61,.,0.58,0.4,0,110.65,.
+West,Valencia Forest,Vf_50,Vf,ValenciaForest_50,95,.,24.19,.,0.63,0.46,0,93.55,.
+Center,Valencia Forest,Vf_51,Vf,ValenciaForest_51,96,.,23.89,.,0.46,0.34,0,113.01,.
+East,Valencia Forest,Vf_52,Vf,ValenciaForest_52,97,.,25.37,.,0.68,0.43,0,105.47,.
+North,Valencia Forest,Vf_53,Vf,ValenciaForest_53,98,.,24.15,.,0.45,0.33,0,102.91,.
+South,Valencia Forest,Vf_54,Vf,ValenciaForest_54,99,.,24.9,.,0.69,0.61,0,100.48,.
+West,Valencia Forest,Vf_55,Vf,ValenciaForest_55,100,.,24.42,.,0.47,0.34,0,108.21,.
+Center,Valencia Forest,Vf_56,Vf,ValenciaForest_56,101,0.9782,29.46,.,0.76,0,0,120.65,.
+East,Valencia Forest,Vf_57,Vf,ValenciaForest_57,102,0.7969,27.81,.,0.4,0,0,107.44,.
+North,Valencia Forest,Vf_58,Vf,ValenciaForest_58,103,0.566,16.13,.,0.35,0,0,63.5,.
+South,Valencia Forest,Vf_59,Vf,ValenciaForest_59,104,0.682,16.15,.,0.35,0,0,61.35,.
+West,Valencia Forest,Vf_60,Vf,ValenciaForest_60,105,0.8774,30.34,.,0.6,0.19,0,122.49,.

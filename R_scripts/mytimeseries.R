@@ -2,7 +2,7 @@
 #### read me ####
 
 # the purpose of this script is to demonstrate time series exploration, simple ARIMA model fitting, forecasting, and wavelet decomposition. There is also some time series data wrangling. 
-
+# this code works very time its redited depending on the varibles of interest. 
 #### libraries ####
 
 library(tidyverse)
@@ -17,18 +17,16 @@ library(WaveletComp)
 
 #### load and filter data ####
 
-# this is stream chemistry, discharge, and precipitation in 4 watersheds in Alaska from summer 2017. Data is collected every 15 min for all variables.
-# note that this means that there are 96 observations per day
 setwd("C:/Users/marag.DESKTOP-NEKBNJE/OneDrive/Desktop/Stakeholder data analysis/test1/Data")
 dat = read.csv("anionsf.csv")
-dat <- read.csv("anionsf.csv", na.strings = c(""," ","NA"))
+dat <- read.csv("anionsf.csv", na.strings = c("."," ","NA"))
 
 #dat<- na.omit(dat)
 
 str(dat)
 # reduce to 3 sites for the purposes of most of this tutorial
 dat = dat[dat$Samplingtype =="Center"| dat$Samplingtype =="River"| dat$Samplingtype =="Ditch",]
-#dat = dat[dat$SiteName =="Alameda"| dat$SiteName =="Badger"| dat$SiteName =="Savannah",]
+dat = dat[dat$SiteName =="Alameda"| dat$SiteName =="Badger"| dat$SiteName =="Savannah" | dat$SiteName =="Bobcat",]
 
 #remove time sampling column
 dat <- select(dat, - c("Timesampling", "Timeofsitearrival", "Bromide"))
@@ -69,22 +67,22 @@ dat$Nitrite  = as.numeric(dat$Nitrite)
 
 #Means by year for variables
 
-dat_means <- dat %>%
-  group_by(Year, SiteName) %>%
-  summarize(across
-            Meantemp = mean(Airtemp, na.rm=TRUE))
+#dat_means <- dat %>%
+ # group_by(Year, SiteName) %>%
+  #summarize(across
+   #         Meantemp = mean(Airtemp, na.rm=TRUE))
 
 #str(dat_means)
 
 # check that date/time formatted correctly
 class(dat$Date); tz(dat$Date)
 
-# sampling = Harrison, variable = sulphate 
-Center_Sul = dat %>% 
-  filter(Samplingtype=="Center") %>% 
-  select(DateF, Sulfate)
+# sitename = Savannah, variable = phosphate 
+Savr_phos = dat %>% 
+  filter(SiteName=="Savannah") %>% 
+  select(DateF, PhosphateP)
 
-Center_Sul<- na.omit(Center_Sul)
+#Savr_phos<- na.omit(Savr_phos)
 
 #### explore filling gaps ####
 
@@ -98,24 +96,30 @@ Center_Sul<- na.omit(Center_Sul)
 
 ## fill with linear interpolation
 # Make univariate zoo time series#
-ts.temp<-read.zoo(Center_Sul, index.column=1, format="%Y-%m-%d", tz="US/Mountain")
+ts.temp<-read.zoo(Savr_phos, index.column=1, format="%Y-%m-%d %H:%M:%S", tz="US/Mountain")
+#plot
+plot.zoo(ts.temp)
 # Apply NA interpolation method
-Center_Sul_filled_linearinterp = na.approx(ts.temp, na.rm = T, maxgap = 1)
+Savr_phos_filled_linearinterp = na.approx(ts.temp, na.rm = T, maxgap = 1)
 # revert back to df
-Center_Sul_filled_linearinterp = as.data.frame(Center_Sul_filled_linearinterp)
-Center_Sul_filled_linearinterp$Date = as.POSIXct(row.names(Center_Sul_filled_linearinterp), tz="US/Mountain")
-names(Center_Sul_filled_linearinterp) = c(colnames(Center_Sul)[2],colnames(Center_Sul)[1])
+Savr_phos_filled_linearinterp = as.data.frame(Savr_phos_filled_linearinterp)
+Savr_phos_filled_linearinterp$Date = as.POSIXct(row.names(Savr_phos_filled_linearinterp), tz="US/Mountain")
+names(Savr_phos_filled_linearinterp) = c(colnames(Savr_phos)[2],colnames(Savr_phos)[1])
 
+
+###No need for interpolation because the data is not rich at all, very few observations
+
+plot.zoo(Savr_phos_filled_linearinterp)
 
 # fill with spline interpolation
 # Make univariate zoo time series #
-ts.temp<-read.zoo(Center_Sul, index.column=1, format="%Y-%m-%d %H:%M:%S", tz="US/Mountain")
+ts.temp<-read.zoo(Savr_phos, index.column=1, format="%Y-%m-%d %H:%M:%S", tz="US/Mountain")
 # Apply NA interpolation method
 Center_Sul_filled_splineinterp = na.spline(ts.temp, na.rm = T, maxgap = 1)
 # revert back to df
 Center_Sul_filled_splineinterp = as.data.frame(Center_Sul_filled_splineinterp)
 Center_Sul_filled_splineinterp$DateF = as.POSIXct(row.names(Center_Sul_filled_splineinterp), tz="US/Mountain")
-names(Center_Sul_filled_splineinterp) = c(colnames(Center_Sul)[2],colnames(Center_Sul)[1])
+names(Center_Sul_filled_splineinterp) = c(colnames(Savr_phos)[2],colnames(Center_Sul)[1])
 
 
 # explore ?na.approx in zoo package for  more options
@@ -206,12 +210,8 @@ Center_Sul_daily_ts_contig = ts(Center_Sul_daily_ts_contig$nitrate_uM,
                             frequency = 1, 
                             start=yday(min(Center_Sul_daily_ts_contig$day)))
 
-# This is only one summer of data, so I won't aggregate to monthly or yearly, but I would if it were longer
 
 #### explore autocorrelation structure ####
-
-# The autocorrelation function ACF measures the correlation of a time series against a time-shifted version of itself
-# The partial autocorrelation function PACF measures the correlation between a time series against a time-shifted version of itself while accounting for how autocorrelationperpetuates through lags.  
 
 # reset plotting window
 par(mfrow=c(1,1))
@@ -226,7 +226,6 @@ Pacf(Center_Sul_xts, na.action = na.contiguous, lag.max = 7)
 
 #### classic decomposition ####
 
-# note that trend is not a consistent up to down trend, it's just the time series minus seaosnal pattern + noise
 
 ## 1 month data ##
 # decompose into additive components
@@ -255,269 +254,5 @@ plot(stl(Center_Sul_daily_ts, s.window = 1, na.action = na.contiguous))
 plot(stl(Center_Sul_daily_ts, s.window = 1, na.action = na.interp))
 # this does not work because there is no seasonal pattern. You can't decompose data that doesn't have a seasonal component! 
 
-#### differencing ####
 
-# An alternative to decomposition for removing trends or seasonality is differencing. 
-# this method does not require having a ts object or seasonaility
-
-# first-differencing a time series will remove a linear trend (i.e., differences = 1)
-# twice-differencing will remove a quadratic trend (i.e., differences = 2). 
-# first-differencing a time series at a lag equal to the period will remove a seasonal trend (e.g., set lag = 12 for monthly data).
-
-## 1 month data ##
-# 1st-difference removes linear trend 
-Center_Sul_ts_d1 <- diff(Center_Sul_filled_splineinterp$Sulfate, differences = 1, lag=1)
-# 2nd-difference removes quadradic trend
-Center_Sul_ts_d2 <- diff(Center_Sul_filled_splineinterp$Sulfate, differences = 2, lag=1)
-# 1st-difference + lag = frequency/period removes linear trend  + seasonality
-Center_Sul_ts_d1_lag96 <- diff(Center_Sul_filled_splineinterp$Sulfate, differences = 1, lag=7)
-# 2nd-difference + lag = frequency/period removes quadradic trend  + differences
-Center_Sul_ts_d2_lag96 <- diff(Center_Sul_filled_splineinterp$Sulfate, differences = 2, lag=7)
-## plot the differenced data
-par(mfrow=c(2,2))
-plot(Center_Sul_ts_d1, type="l", main="1st differenced")
-plot(Center_Sul_ts_d2, type="l", main="2nd differenced")
-plot(Center_Sul_ts_d1_lag1, type="l", main="1st differenced with lag")
-plot(Center_Sul_ts_d2_lag1, type="l", main="2nd differenced with lag")
-
-## daily data ##
-## once-difference 
-Center_Sul_daily_ts_d1 <- diff(Center_Sul_daily$Sulfate, differences = 1, lag=1)
-## twice-difference 
-Center_Sul_daily_ts_d2 <- diff(Center_Sul_daily$Sulfate, differences = 2, lag=1)
-## plot the differenced data
-par(mfrow=c(2,1))
-plot(Center_Sul_daily_ts_d1, type="l")
-plot(Center_Sul_daily_ts_d2, type="l")
-
-#### forecasting (no covariates) - 15 min data ####
-
-## Box-Jenkins method
-# A. Model form selection
-# - Evaluate stationarity
-# - Selection of the differencing level (d) – to fix stationarity problems
-# - Selection of the AR level (p)
-# - Selection of the MA level (q)
-# B. Parameter estimation
-# C. Model checking
-# D. Forecast
-
-### 1 month data ###
-
-## A. Model form selection - Evaluate stationarity and select differencing level (if needed)
-# The basic stationarity diagnostics are the following:
-# 1. Plot your data. 
-par(mfrow=c(1,1))
-plot(Center_Sul_ts)
-# Look for
-#  - An increasing or decreasing trend: Possibly decreasing
-#  - A non-zero mean (if no trend): Yes
-#  - Does it look like it might be stationary around a trend?: No
-#  - Strange shocks or steps in your data: No
-
-
-# 2. Apply stationarity tests
-#  - adf.test() p-value less than 0.05 (reject null) suggests ts is stationary
-
-adf.test(Center_Sul_ts) # does not allow NAs
-adf.test(na.interp(Center_Sul_ts)) 
-adf.test(na.contiguous(Center_Sul_ts)) 
-adf.test(na.interp(Center_Sul_ts), k=0) 
-adf.test(na.contiguous(Center_Sul_ts), k=0) 
-
-#  - kpss.test() p-value greater than 0.05 (do not reject null) suggests ts is stationary
-
-kpss.test(Center_Sul_ts_contig, null="Level") 
-kpss.test(Center_Sul_ts_contig, null="Trend") 
-
-# 3. If stationarity tests are failed, then try differencing to correct
-#  - Try ndiffs() in the forecast package or manually try different differences.
-
-ndiffs(Center_Sul_ts_contig)
-
-kpss.test(diff(Center_Sul_ts_contig, differences = 1), null="Level") 
-kpss.test(diff(Center_Sul_ts_contig, differences = 1, lag=1), null="Level") 
-kpss.test(diff(Center_Sul_ts_contig, differences = 1), null="Trend") 
-kpss.test(diff(Center_Sul_ts_contig, differences = 1, lag=1), null="Trend") 
-
-# note that differencing just once is sufficient to achieve stationarity... suggests that diel pattern may be somewhat irregular. 
-
-## A. Model form selection - Selection of the AR level (p) and AR level (p)
-
-fit.auto.arima = forecast::auto.arima(Center_Sul_ts_contig, start.p = 0, max.p = 3, start.q = 0, max.q = 3)
-fit.auto.arima # see best fit parameters
-
-fit.sarima = sarima(Center_Sul_ts_contig, p=3, d=1, q =0)
-
-fit.arima = arima(Center_Sul_ts_contig, order = c(3, 1, 0))
-par(mfrow=c(2,1)); Acf(resid(fit.arima)); Pacf(resid(fit.arima))
-
-fit.Arima = forecast::Arima(Center_Sul_ts_contig, order = c(3, 1, 0), include.constant = F)
-par(mfrow=c(2,1)); Acf(resid(fit.Arima)); Pacf(resid(fit.Arima))
-
-# this fit is pretty marginal (lots of autocorrelation remaining, lots of non-normal residuals), which suggests that there are things happening in this time series that autoregressive processes alone cannot account for.
-
-## Forecast!
-par(mfrow=c(3,1))
-fore.auto.arima <- forecast::forecast(fit.auto.arima, h = 1*10)
-plot(fore.auto.arima)
-fore.arima <- forecast::forecast(fit.arima, h = 1*10)
-plot(fore.arima)
-fore.Arima <- forecast::forecast(fit.Arima, h = 1*10)
-plot(fore.Arima)
-
-# ask auto.arima to detect seasonal pattern
-fit.auto.arima = forecast::auto.arima(Center_Sul_ts_contig, seasonal = TRUE)
-fit.auto.arima # see best fit parameters
-# auto.arima is not detecting a seasonal pattern, suggesting that it is not regular enough to improve model fit
-
-fit.Arima.seasonal = forecast::Arima(Center_Sul_ts_contig, 
-                                     order = c(3, 1, 0), seasonal = c(0,1,1),
-                                     include.constant = F)
-fit.Arima.seasonal <- forecast::forecast(fit.Arima.seasonal, h = 1*10)
-par(mfrow=c(1,1))
-plot(fit.Arima.seasonal)
-ggtsdisplay(residuals(fit.Arima.seasonal))
-
-# residuals are still terrible - this model is not meeting assumptions. 
-# pause and play around with seasonal specification, but note that it will take a long time to fit each
-
-# forecast the seaosnally adjusted data?
-Center_Sul_ts_NS = Center_Sul_ts_trend + Center_Sul_ts_noise
-fit.auto.arima = forecast::auto.arima(Center_Sul_ts_NS, start.p = 0, max.p = 3, start.q = 0, max.q = 3)
-fit.auto.arima 
-fore.auto.arima <- forecast::forecast(fit.auto.arima, h = 1*10)
-par(mfrow=c(1,1))
-plot(fore.auto.arima)
-ggtsdisplay(residuals(fit.auto.arima))
-
-#
-#### forecasting (no covariates) - daily data ####
-
-## Box-Jenkins method
-# A. Model form selection
-# - Evaluate stationarity
-# - Selection of the differencing level (d) – to fix stationarity problems
-# - Selection of the AR level (p)
-# - Selection of the MA level (q)
-# B. Parameter estimation
-# C. Model checking
-# D. Forecast
-
-### daily data ###
-
-## A. Model form selection - Evaluate stationarity and select differencing level (if needed)
-# The basic stationarity diagnostics are the following:
-# 1. Plot your data. 
-plot(Center_Sul_daily_ts)
-# Look for
-#  - An increasing or decreasing trend: Possibly decreasing
-#  - A non-zero mean (if no trend): Yes
-#  - Does it look like it might be stationary around a trend?: No
-#  - Strange shocks or steps in your data: No
-
-
-# 2. Apply stationarity tests
-#  - adf.test() p-value less than 0.05 (reject null) suggests ts is stationary
-
-adf.test(Center_Sul_daily_ts_contig) # does not allow NAs
-adf.test(na.interp(Center_Sul_daily_ts)) 
-adf.test(Center_Sul_daily_ts_contig) 
-adf.test(na.interp(Center_Sul_daily_ts), k=0) 
-adf.test(Center_Sul_daily_ts_contig, k=0) 
-
-#  - kpss.test() p-value greater than 0.05 (do not reject null) suggests ts is stationary
-
-kpss.test(Center_Sul_daily_ts_contig, null="Level") 
-kpss.test(Center_Sul_daily_ts_contig, null="Trend") 
-
-# 3. If stationarity tests are failed, then try differencing to correct
-#  - Try ndiffs() in the forecast package or manually try different differences.
-
-kpss.test(diff(Center_Sul_daily_ts_contig, differences = 1), null="Level") 
-kpss.test(diff(Center_Sul_daily_ts_contig, differences = 1), null="Trend") 
-
-# suggests theres no trend
-
-## A. Model form selection - Selection of the AR level (p) and AR level (p)
-
-fit.auto.arima = forecast::auto.arima(na.contiguous(Center_Sul_daily_ts), start.p = 0, max.p = 3, start.q = 0, max.q = 3)
-fit.auto.arima # see best fit parameters
-
-fit.sarima = sarima(na.contiguous(Center_Sul_daily_ts), p=0, d=1, q =0) # run without saving object for diagnostic plots
-
-fit.arima = arima(na.contiguous(Center_Sul_daily_ts), order = c(0, 1, 0))
-par(mfrow=c(2,1)); Acf(resid(fit.arima)); Pacf(resid(fit.arima))
-
-fit.Arima = forecast::Arima(na.contiguous(Center_Sul_daily_ts), order = c(0, 1, 0), include.constant = F)
-par(mfrow=c(2,1)); Acf(resid(fit.Arima)); Pacf(resid(fit.Arima))
-
-# great fit!
-
-## Forecast!
-par(mfrow=c(1,1))
-fore.auto.arima <- forecast::forecast(fit.auto.arima, h = 10)
-plot(fore.auto.arima)
-fore.arima <- forecast::forecast(fit.arima, h = 10)
-plot(fore.arima)
-fore.Arima <- forecast::forecast(fit.Arima, h = 10)
-plot(fore.Arima)
-
-
-#### wavelet decomposition ####
-
-# time series should be an ordered dataframe with timesteps in "date" column, data in 2nd column, and no NAs
-for.wavelet = Center_Sul_filled_splineinterp %>%
-  na.contiguous() %>%
-  select(DateF, Sulfate)%>%
-  rename(date = DateF, x =Sulfate) %>%
-  arrange(DateF)
-# check for NAs
-any(is.na(for.wavelet))
-
-# check out options for generating the null hypotheses time series
-?analyze.wavelet # look at 'method' argument
-
-Center_Sul_1month_wavelet = 
-  analyze.wavelet(for.wavelet, 
-                  my.series = 2, 
-                  method="AR", # null hypothesis is red noise
-                  params = list(3),
-                  dt=1/96, # change dt to match time steps per period. 1/96 for 15 min data.
-                  dj=1/20, # changes the resolution of the analysis across the frequency domain. default usually works well.
-                  lowerPeriod=1/4, #probably no need for less than 0.25 d
-                  make.pval=T, n.sim=100,# this should be something like n.sim=100
-                  date.format = "%b-%d", date.tz = "US/Moutain") 
-
-## Plot of wavelet power spectrum ##
-#?wt.image
-
-par(mfrow=c(1,1))
-wt.image(Center_Sul_1month_wavelet, 
-         color.key="quantile", 
-         label.time.axis=TRUE, 
-         plot.ridge=FALSE, 
-         show.date = TRUE, 
-         date.format = "%b-%d", 
-         legend.params=list(lab="wavelet power levels"), 
-         main="Nitrate (15 min) in C2", 
-         graphics.reset = T)
-
-## Plot of global wavelet power: ##
-#?wt.avg 
-
-wt.avg(Center_Sul_1month_wavelet,  show.siglvl = TRUE)
-
-## Plot together
-par(mfrow=c(1,2))
-wt.image(Center_Sul_1month_wavelet, 
-         color.key="quantile", 
-         label.time.axis=TRUE, 
-         plot.ridge=FALSE, 
-         show.date = TRUE, 
-         date.format = "%b-%d", 
-         legend.params=list(lab="wavelet power levels"), 
-         main="Sulfate 1 mmonth Center samples", 
-         graphics.reset = F)
-wt.avg(Center_Sul_1month_wavelet,  show.siglvl = TRUE)
 
